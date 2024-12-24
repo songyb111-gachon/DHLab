@@ -1,0 +1,164 @@
+torch.Size([1, 8, 512, 512])
+Using cuda device
+[91mResetting environment. Consecutive episode failures: 0, Max consecutive episode failures: 0[0m
+Initial MSE: 0.002281, Initial PSNR: 26.282139, 13:51:52
+Logging to ./ppo_with_mask/PPO_135
+Executing reset logic for the first step
+Initial MSE: 0.002281, Initial PSNR: 26.282139, 2024-12-24 13:51:53.624531
+[94mStep: 4, PSNR Before: 26.282139, PSNR After: 26.282293, PSNR Change: 0.000154, PSNR Diff: 0.000154 (New Max), Reward: 12.36, 13:51:56[0m
+[94mStep: 15, PSNR Before: 26.282293, PSNR After: 26.282345, PSNR Change: 0.000051, PSNR Diff: 0.000206 (New Max), Reward: 4.12, 13:52:03[0m
+[94mStep: 16, PSNR Before: 26.282345, PSNR After: 26.282434, PSNR Change: 0.000090, PSNR Diff: 0.000296 (New Max), Reward: 7.17, 13:52:04[0m
+[94mStep: 17, PSNR Before: 26.282434, PSNR After: 26.282475, PSNR Change: 0.000040, PSNR Diff: 0.000336 (New Max), Reward: 3.20, 13:52:05[0m
+[94mStep: 18, PSNR Before: 26.282475, PSNR After: 26.282558, PSNR Change: 0.000084, PSNR Diff: 0.000420 (New Max), Reward: 6.71, 13:52:06[0m
+[94mStep: 21, PSNR Before: 26.282558, PSNR After: 26.282579, PSNR Change: 0.000021, PSNR Diff: 0.000441 (New Max), Reward: 1.68, 13:52:09[0m
+[94mStep: 23, PSNR Before: 26.282579, PSNR After: 26.282663, PSNR Change: 0.000084, PSNR Diff: 0.000525 (New Max), Reward: 6.71, 13:52:10[0m
+[94mStep: 24, PSNR Before: 26.282663, PSNR After: 26.282719, PSNR Change: 0.000055, PSNR Diff: 0.000580 (New Max), Reward: 4.43, 13:52:11[0m
+[94mStep: 26, PSNR Before: 26.282719, PSNR After: 26.282732, PSNR Change: 0.000013, PSNR Diff: 0.000593 (New Max), Reward: 1.07, 13:52:13[0m
+[94mStep: 27, PSNR Before: 26.282732, PSNR After: 26.282742, PSNR Change: 0.000010, PSNR Diff: 0.000603 (New Max), Reward: 0.76, 13:52:14[0m
+[94mStep: 28, PSNR Before: 26.282742, PSNR After: 26.282791, PSNR Change: 0.000050, PSNR Diff: 0.000652 (New Max), Reward: 3.97, 13:52:15[0m
+[94mStep: 30, PSNR Before: 26.282791, PSNR After: 26.282846, PSNR Change: 0.000055, PSNR Diff: 0.000708 (New Max), Reward: 4.43, 13:52:17[0m
+[94mStep: 37, PSNR Before: 26.282846, PSNR After: 26.282887, PSNR Change: 0.000040, PSNR Diff: 0.000748 (New Max), Reward: 3.20, 13:52:22[0m
+[94mStep: 41, PSNR Before: 26.282887, PSNR After: 26.282890, PSNR Change: 0.000004, PSNR Diff: 0.000751 (New Max), Reward: 0.31, 13:52:25[0m
+[94mStep: 48, PSNR Before: 26.282890, PSNR After: 26.282923, PSNR Change: 0.000032, PSNR Diff: 0.000784 (New Max), Reward: 2.59, 13:52:30[0m
+[94mStep: 50, PSNR Before: 26.282923, PSNR After: 26.282995, PSNR Change: 0.000072, PSNR Diff: 0.000856 (New Max), Reward: 5.80, 13:52:31[0m
+[94mStep: 52, PSNR Before: 26.282995, PSNR After: 26.283052, PSNR Change: 0.000057, PSNR Diff: 0.000914 (New Max), Reward: 4.58, 13:52:33[0m
+[94mStep: 53, PSNR Before: 26.283052, PSNR After: 26.283070, PSNR Change: 0.000017, PSNR Diff: 0.000931 (New Max), Reward: 1.37, 13:52:34[0m
+[94mStep: 54, PSNR Before: 26.283070, PSNR After: 26.283073, PSNR Change: 0.000004, PSNR Diff: 0.000935 (New Max), Reward: 0.31, 13:52:35[0m
+[94mStep: 55, PSNR Before: 26.283073, PSNR After: 26.283123, PSNR Change: 0.000050, PSNR Diff: 0.000984 (New Max), Reward: 3.97, 13:52:37[0m
+[94mStep: 57, PSNR Before: 26.283123, PSNR After: 26.283134, PSNR Change: 0.000011, PSNR Diff: 0.000996 (New Max), Reward: 0.92, 13:52:38[0m
+[94mStep: 60, PSNR Before: 26.283134, PSNR After: 26.283167, PSNR Change: 0.000032, PSNR Diff: 0.001028 (New Max), Reward: 2.59, 13:52:41[0m
+[94mStep: 62, PSNR Before: 26.283167, PSNR After: 26.283218, PSNR Change: 0.000051, PSNR Diff: 0.001080 (New Max), Reward: 4.12, 13:52:43[0m
+[94mStep: 74, PSNR Before: 26.283218, PSNR After: 26.283306, PSNR Change: 0.000088, PSNR Diff: 0.001167 (New Max), Reward: 7.02, 13:52:50[0m
+[94mStep: 75, PSNR Before: 26.283306, PSNR After: 26.283312, PSNR Change: 0.000006, PSNR Diff: 0.001173 (New Max), Reward: 0.46, 13:52:51[0m
+[94mStep: 76, PSNR Before: 26.283312, PSNR After: 26.283331, PSNR Change: 0.000019, PSNR Diff: 0.001192 (New Max), Reward: 1.53, 13:52:53[0m
+[94mStep: 80, PSNR Before: 26.283331, PSNR After: 26.283348, PSNR Change: 0.000017, PSNR Diff: 0.001209 (New Max), Reward: 1.37, 13:52:55[0m
+[94mStep: 87, PSNR Before: 26.283348, PSNR After: 26.283398, PSNR Change: 0.000050, PSNR Diff: 0.001259 (New Max), Reward: 3.97, 13:53:00[0m
+[94mStep: 88, PSNR Before: 26.283398, PSNR After: 26.283401, PSNR Change: 0.000004, PSNR Diff: 0.001263 (New Max), Reward: 0.31, 13:53:01[0m
+[94mStep: 90, PSNR Before: 26.283401, PSNR After: 26.283428, PSNR Change: 0.000027, PSNR Diff: 0.001289 (New Max), Reward: 2.14, 13:53:03[0m
+[94mStep: 91, PSNR Before: 26.283428, PSNR After: 26.283438, PSNR Change: 0.000010, PSNR Diff: 0.001299 (New Max), Reward: 0.76, 13:53:04[0m
+[94mStep: 99, PSNR Before: 26.283438, PSNR After: 26.283464, PSNR Change: 0.000027, PSNR Diff: 0.001326 (New Max), Reward: 2.14, 13:53:09[0m
+[94mStep: 100, PSNR Before: 26.283464, PSNR After: 26.283482, PSNR Change: 0.000017, PSNR Diff: 0.001343 (New Max), Reward: 1.37, 13:53:10[0m
+Step: 100, PSNR Before: 26.283464, PSNR After: 26.283482, PSNR Change: 0.000017, PSNR Diff: 0.001343, Reward: 1.37, 13:53:10
+[94mStep: 104, PSNR Before: 26.283482, PSNR After: 26.283510, PSNR Change: 0.000029, PSNR Diff: 0.001371 (New Max), Reward: 2.29, 13:53:13[0m
+[94mStep: 110, PSNR Before: 26.283510, PSNR After: 26.283581, PSNR Change: 0.000071, PSNR Diff: 0.001442 (New Max), Reward: 5.65, 13:53:17[0m
+[94mStep: 114, PSNR Before: 26.283581, PSNR After: 26.283617, PSNR Change: 0.000036, PSNR Diff: 0.001478 (New Max), Reward: 2.90, 13:53:20[0m
+[94mStep: 116, PSNR Before: 26.283617, PSNR After: 26.283625, PSNR Change: 0.000008, PSNR Diff: 0.001486 (New Max), Reward: 0.61, 13:53:22[0m
+[94mStep: 117, PSNR Before: 26.283625, PSNR After: 26.283634, PSNR Change: 0.000010, PSNR Diff: 0.001495 (New Max), Reward: 0.76, 13:53:23[0m
+[94mStep: 124, PSNR Before: 26.283634, PSNR After: 26.283684, PSNR Change: 0.000050, PSNR Diff: 0.001545 (New Max), Reward: 3.97, 13:53:28[0m
+[94mStep: 126, PSNR Before: 26.283684, PSNR After: 26.283691, PSNR Change: 0.000008, PSNR Diff: 0.001553 (New Max), Reward: 0.61, 13:53:29[0m
+[94mStep: 127, PSNR Before: 26.283691, PSNR After: 26.283707, PSNR Change: 0.000015, PSNR Diff: 0.001568 (New Max), Reward: 1.22, 13:53:30[0m
+[94mStep: 142, PSNR Before: 26.283707, PSNR After: 26.283730, PSNR Change: 0.000023, PSNR Diff: 0.001591 (New Max), Reward: 1.83, 13:53:40[0m
+[94mStep: 143, PSNR Before: 26.283730, PSNR After: 26.283825, PSNR Change: 0.000095, PSNR Diff: 0.001686 (New Max), Reward: 7.63, 13:53:41[0m
+[94mStep: 144, PSNR Before: 26.283825, PSNR After: 26.283859, PSNR Change: 0.000034, PSNR Diff: 0.001720 (New Max), Reward: 2.75, 13:53:42[0m
+[94mStep: 150, PSNR Before: 26.283859, PSNR After: 26.283890, PSNR Change: 0.000031, PSNR Diff: 0.001751 (New Max), Reward: 2.44, 13:53:47[0m
+[94mStep: 159, PSNR Before: 26.283890, PSNR After: 26.283911, PSNR Change: 0.000021, PSNR Diff: 0.001772 (New Max), Reward: 1.68, 13:53:53[0m
+[94mStep: 162, PSNR Before: 26.283911, PSNR After: 26.283922, PSNR Change: 0.000011, PSNR Diff: 0.001783 (New Max), Reward: 0.92, 13:53:55[0m
+[94mStep: 163, PSNR Before: 26.283922, PSNR After: 26.283924, PSNR Change: 0.000002, PSNR Diff: 0.001785 (New Max), Reward: 0.15, 13:53:56[0m
+[94mStep: 165, PSNR Before: 26.283924, PSNR After: 26.284004, PSNR Change: 0.000080, PSNR Diff: 0.001865 (New Max), Reward: 6.41, 13:53:58[0m
+[94mStep: 167, PSNR Before: 26.284004, PSNR After: 26.284077, PSNR Change: 0.000072, PSNR Diff: 0.001938 (New Max), Reward: 5.80, 13:53:59[0m
+[94mStep: 172, PSNR Before: 26.284077, PSNR After: 26.284103, PSNR Change: 0.000027, PSNR Diff: 0.001965 (New Max), Reward: 2.14, 13:54:03[0m
+[94mStep: 173, PSNR Before: 26.284103, PSNR After: 26.284159, PSNR Change: 0.000055, PSNR Diff: 0.002020 (New Max), Reward: 4.43, 13:54:04[0m
+[94mStep: 180, PSNR Before: 26.284159, PSNR After: 26.284254, PSNR Change: 0.000095, PSNR Diff: 0.002115 (New Max), Reward: 7.63, 13:54:09[0m
+[94mStep: 192, PSNR Before: 26.284254, PSNR After: 26.284267, PSNR Change: 0.000013, PSNR Diff: 0.002129 (New Max), Reward: 1.07, 13:54:16[0m
+[94mStep: 193, PSNR Before: 26.284267, PSNR After: 26.284298, PSNR Change: 0.000031, PSNR Diff: 0.002159 (New Max), Reward: 2.44, 13:54:17[0m
+[94mStep: 198, PSNR Before: 26.284298, PSNR After: 26.284336, PSNR Change: 0.000038, PSNR Diff: 0.002197 (New Max), Reward: 3.05, 13:54:21[0m
+[94mStep: 199, PSNR Before: 26.284336, PSNR After: 26.284349, PSNR Change: 0.000013, PSNR Diff: 0.002211 (New Max), Reward: 1.07, 13:54:22[0m
+[94mStep: 200, PSNR Before: 26.284349, PSNR After: 26.284353, PSNR Change: 0.000004, PSNR Diff: 0.002214 (New Max), Reward: 0.31, 13:54:23[0m
+Step: 200, PSNR Before: 26.284349, PSNR After: 26.284353, PSNR Change: 0.000004, PSNR Diff: 0.002214, Reward: 0.31, 13:54:23
+[94mStep: 204, PSNR Before: 26.284353, PSNR After: 26.284359, PSNR Change: 0.000006, PSNR Diff: 0.002220 (New Max), Reward: 0.46, 13:54:26[0m
+[94mStep: 206, PSNR Before: 26.284359, PSNR After: 26.284367, PSNR Change: 0.000008, PSNR Diff: 0.002228 (New Max), Reward: 0.61, 13:54:28[0m
+[94mStep: 207, PSNR Before: 26.284367, PSNR After: 26.284451, PSNR Change: 0.000084, PSNR Diff: 0.002312 (New Max), Reward: 6.71, 13:54:29[0m
+[94mStep: 209, PSNR Before: 26.284451, PSNR After: 26.284492, PSNR Change: 0.000042, PSNR Diff: 0.002354 (New Max), Reward: 3.36, 13:54:31[0m
+[94mStep: 212, PSNR Before: 26.284492, PSNR After: 26.284523, PSNR Change: 0.000031, PSNR Diff: 0.002384 (New Max), Reward: 2.44, 13:54:33[0m
+[94mStep: 214, PSNR Before: 26.284523, PSNR After: 26.284571, PSNR Change: 0.000048, PSNR Diff: 0.002432 (New Max), Reward: 3.81, 13:54:35[0m
+[94mStep: 220, PSNR Before: 26.284571, PSNR After: 26.284573, PSNR Change: 0.000002, PSNR Diff: 0.002434 (New Max), Reward: 0.15, 13:54:39[0m
+[94mStep: 226, PSNR Before: 26.284573, PSNR After: 26.284655, PSNR Change: 0.000082, PSNR Diff: 0.002516 (New Max), Reward: 6.56, 13:54:43[0m
+[94mStep: 234, PSNR Before: 26.284655, PSNR After: 26.284660, PSNR Change: 0.000006, PSNR Diff: 0.002522 (New Max), Reward: 0.46, 13:54:48[0m
+[94mStep: 239, PSNR Before: 26.284660, PSNR After: 26.284676, PSNR Change: 0.000015, PSNR Diff: 0.002537 (New Max), Reward: 1.22, 13:54:52[0m
+[94mStep: 255, PSNR Before: 26.284676, PSNR After: 26.284693, PSNR Change: 0.000017, PSNR Diff: 0.002554 (New Max), Reward: 1.37, 13:55:02[0m
+----------------------------
+| time/              |     |
+|    fps             | 1   |
+|    iterations      | 1   |
+|    time_elapsed    | 189 |
+|    total_timesteps | 256 |
+----------------------------
+[94mStep: 258, PSNR Before: 26.284693, PSNR After: 26.284697, PSNR Change: 0.000004, PSNR Diff: 0.002558 (New Max), Reward: 0.31, 13:55:10[0m
+[94mStep: 259, PSNR Before: 26.284697, PSNR After: 26.284773, PSNR Change: 0.000076, PSNR Diff: 0.002634 (New Max), Reward: 6.10, 13:55:12[0m
+[94mStep: 262, PSNR Before: 26.284773, PSNR After: 26.284781, PSNR Change: 0.000008, PSNR Diff: 0.002642 (New Max), Reward: 0.61, 13:55:14[0m
+[94mStep: 268, PSNR Before: 26.284781, PSNR After: 26.284811, PSNR Change: 0.000031, PSNR Diff: 0.002672 (New Max), Reward: 2.44, 13:55:18[0m
+[94mStep: 269, PSNR Before: 26.284811, PSNR After: 26.284945, PSNR Change: 0.000134, PSNR Diff: 0.002806 (New Max), Reward: 10.68, 13:55:19[0m
+[94mStep: 272, PSNR Before: 26.284945, PSNR After: 26.284985, PSNR Change: 0.000040, PSNR Diff: 0.002846 (New Max), Reward: 3.20, 13:55:21[0m
+[94mStep: 275, PSNR Before: 26.284985, PSNR After: 26.285009, PSNR Change: 0.000025, PSNR Diff: 0.002871 (New Max), Reward: 1.98, 13:55:24[0m
+[94mStep: 277, PSNR Before: 26.285009, PSNR After: 26.285053, PSNR Change: 0.000044, PSNR Diff: 0.002914 (New Max), Reward: 3.51, 13:55:25[0m
+[94mStep: 279, PSNR Before: 26.285053, PSNR After: 26.285069, PSNR Change: 0.000015, PSNR Diff: 0.002930 (New Max), Reward: 1.22, 13:55:27[0m
+[94mStep: 280, PSNR Before: 26.285069, PSNR After: 26.285118, PSNR Change: 0.000050, PSNR Diff: 0.002979 (New Max), Reward: 3.97, 13:55:28[0m
+[94mStep: 284, PSNR Before: 26.285118, PSNR After: 26.285221, PSNR Change: 0.000103, PSNR Diff: 0.003082 (New Max), Reward: 8.24, 13:55:31[0m
+[94mStep: 286, PSNR Before: 26.285221, PSNR After: 26.285313, PSNR Change: 0.000092, PSNR Diff: 0.003174 (New Max), Reward: 7.32, 13:55:33[0m
+[94mStep: 287, PSNR Before: 26.285313, PSNR After: 26.285362, PSNR Change: 0.000050, PSNR Diff: 0.003223 (New Max), Reward: 3.97, 13:55:34[0m
+[94mStep: 288, PSNR Before: 26.285362, PSNR After: 26.285412, PSNR Change: 0.000050, PSNR Diff: 0.003273 (New Max), Reward: 3.97, 13:55:35[0m
+[94mStep: 289, PSNR Before: 26.285412, PSNR After: 26.285416, PSNR Change: 0.000004, PSNR Diff: 0.003277 (New Max), Reward: 0.31, 13:55:36[0m
+[94mStep: 292, PSNR Before: 26.285416, PSNR After: 26.285418, PSNR Change: 0.000002, PSNR Diff: 0.003279 (New Max), Reward: 0.15, 13:55:38[0m
+[94mStep: 306, PSNR Before: 26.285418, PSNR After: 26.285494, PSNR Change: 0.000076, PSNR Diff: 0.003355 (New Max), Reward: 6.10, 13:55:47[0m
+[94mStep: 307, PSNR Before: 26.285494, PSNR After: 26.285505, PSNR Change: 0.000011, PSNR Diff: 0.003366 (New Max), Reward: 0.92, 13:55:48[0m
+[94mStep: 310, PSNR Before: 26.285505, PSNR After: 26.285557, PSNR Change: 0.000051, PSNR Diff: 0.003418 (New Max), Reward: 4.12, 13:55:50[0m
+[94mStep: 314, PSNR Before: 26.285557, PSNR After: 26.285593, PSNR Change: 0.000036, PSNR Diff: 0.003454 (New Max), Reward: 2.90, 13:55:53[0m
+[94mStep: 319, PSNR Before: 26.285593, PSNR After: 26.285656, PSNR Change: 0.000063, PSNR Diff: 0.003517 (New Max), Reward: 5.04, 13:55:57[0m
+[94mStep: 326, PSNR Before: 26.285656, PSNR After: 26.285666, PSNR Change: 0.000010, PSNR Diff: 0.003527 (New Max), Reward: 0.76, 13:56:02[0m
+[94mStep: 329, PSNR Before: 26.285666, PSNR After: 26.285669, PSNR Change: 0.000004, PSNR Diff: 0.003531 (New Max), Reward: 0.31, 13:56:04[0m
+[94mStep: 333, PSNR Before: 26.285669, PSNR After: 26.285690, PSNR Change: 0.000021, PSNR Diff: 0.003551 (New Max), Reward: 1.68, 13:56:07[0m
+[94mStep: 337, PSNR Before: 26.285690, PSNR After: 26.285751, PSNR Change: 0.000061, PSNR Diff: 0.003613 (New Max), Reward: 4.88, 13:56:10[0m
+[94mStep: 340, PSNR Before: 26.285751, PSNR After: 26.285763, PSNR Change: 0.000011, PSNR Diff: 0.003624 (New Max), Reward: 0.92, 13:56:12[0m
+[94mStep: 350, PSNR Before: 26.285763, PSNR After: 26.285772, PSNR Change: 0.000010, PSNR Diff: 0.003633 (New Max), Reward: 0.76, 13:56:18[0m
+[94mStep: 355, PSNR Before: 26.285772, PSNR After: 26.285780, PSNR Change: 0.000008, PSNR Diff: 0.003641 (New Max), Reward: 0.61, 13:56:22[0m
+[94mStep: 358, PSNR Before: 26.285780, PSNR After: 26.285824, PSNR Change: 0.000044, PSNR Diff: 0.003685 (New Max), Reward: 3.51, 13:56:25[0m
+[94mStep: 359, PSNR Before: 26.285824, PSNR After: 26.285828, PSNR Change: 0.000004, PSNR Diff: 0.003689 (New Max), Reward: 0.31, 13:56:26[0m
+[94mStep: 361, PSNR Before: 26.285828, PSNR After: 26.285877, PSNR Change: 0.000050, PSNR Diff: 0.003738 (New Max), Reward: 3.97, 13:56:27[0m
+[94mStep: 362, PSNR Before: 26.285877, PSNR After: 26.285906, PSNR Change: 0.000029, PSNR Diff: 0.003767 (New Max), Reward: 2.29, 13:56:28[0m
+[94mStep: 370, PSNR Before: 26.285906, PSNR After: 26.286034, PSNR Change: 0.000128, PSNR Diff: 0.003895 (New Max), Reward: 10.22, 13:56:34[0m
+[94mStep: 372, PSNR Before: 26.286034, PSNR After: 26.286053, PSNR Change: 0.000019, PSNR Diff: 0.003914 (New Max), Reward: 1.53, 13:56:35[0m
+[94mStep: 387, PSNR Before: 26.286053, PSNR After: 26.286058, PSNR Change: 0.000006, PSNR Diff: 0.003920 (New Max), Reward: 0.46, 13:56:45[0m
+[94mStep: 405, PSNR Before: 26.286058, PSNR After: 26.286087, PSNR Change: 0.000029, PSNR Diff: 0.003948 (New Max), Reward: 2.29, 13:56:56[0m
+[94mStep: 410, PSNR Before: 26.286087, PSNR After: 26.286144, PSNR Change: 0.000057, PSNR Diff: 0.004005 (New Max), Reward: 4.58, 13:56:59[0m
+[94mStep: 411, PSNR Before: 26.286144, PSNR After: 26.286163, PSNR Change: 0.000019, PSNR Diff: 0.004025 (New Max), Reward: 1.53, 13:57:00[0m
+[94mStep: 420, PSNR Before: 26.286163, PSNR After: 26.286240, PSNR Change: 0.000076, PSNR Diff: 0.004101 (New Max), Reward: 6.10, 13:57:06[0m
+[94mStep: 427, PSNR Before: 26.286240, PSNR After: 26.286297, PSNR Change: 0.000057, PSNR Diff: 0.004158 (New Max), Reward: 4.58, 13:57:11[0m
+[94mStep: 431, PSNR Before: 26.286297, PSNR After: 26.286312, PSNR Change: 0.000015, PSNR Diff: 0.004173 (New Max), Reward: 1.22, 13:57:13[0m
+[94mStep: 434, PSNR Before: 26.286312, PSNR After: 26.286318, PSNR Change: 0.000006, PSNR Diff: 0.004179 (New Max), Reward: 0.46, 13:57:16[0m
+[94mStep: 443, PSNR Before: 26.286318, PSNR After: 26.286364, PSNR Change: 0.000046, PSNR Diff: 0.004225 (New Max), Reward: 3.66, 13:57:22[0m
+[94mStep: 445, PSNR Before: 26.286364, PSNR After: 26.286396, PSNR Change: 0.000032, PSNR Diff: 0.004257 (New Max), Reward: 2.59, 13:57:23[0m
+[94mStep: 447, PSNR Before: 26.286396, PSNR After: 26.286423, PSNR Change: 0.000027, PSNR Diff: 0.004284 (New Max), Reward: 2.14, 13:57:26[0m
+[94mStep: 449, PSNR Before: 26.286423, PSNR After: 26.286448, PSNR Change: 0.000025, PSNR Diff: 0.004309 (New Max), Reward: 1.98, 13:57:27[0m
+[94mStep: 450, PSNR Before: 26.286448, PSNR After: 26.286476, PSNR Change: 0.000029, PSNR Diff: 0.004337 (New Max), Reward: 2.29, 13:57:28[0m
+[94mStep: 454, PSNR Before: 26.286476, PSNR After: 26.286518, PSNR Change: 0.000042, PSNR Diff: 0.004379 (New Max), Reward: 3.36, 13:57:31[0m
+[94mStep: 457, PSNR Before: 26.286518, PSNR After: 26.286535, PSNR Change: 0.000017, PSNR Diff: 0.004396 (New Max), Reward: 1.37, 13:57:34[0m
+[94mStep: 458, PSNR Before: 26.286535, PSNR After: 26.286591, PSNR Change: 0.000055, PSNR Diff: 0.004452 (New Max), Reward: 4.43, 13:57:35[0m
+[94mStep: 461, PSNR Before: 26.286591, PSNR After: 26.286619, PSNR Change: 0.000029, PSNR Diff: 0.004480 (New Max), Reward: 2.29, 13:57:38[0m
+[94mStep: 462, PSNR Before: 26.286619, PSNR After: 26.286623, PSNR Change: 0.000004, PSNR Diff: 0.004484 (New Max), Reward: 0.31, 13:57:39[0m
+[94mStep: 476, PSNR Before: 26.286623, PSNR After: 26.286629, PSNR Change: 0.000006, PSNR Diff: 0.004490 (New Max), Reward: 0.46, 13:57:47[0m
+[94mStep: 478, PSNR Before: 26.286629, PSNR After: 26.286633, PSNR Change: 0.000004, PSNR Diff: 0.004494 (New Max), Reward: 0.31, 13:57:49[0m
+[94mStep: 480, PSNR Before: 26.286633, PSNR After: 26.286680, PSNR Change: 0.000048, PSNR Diff: 0.004541 (New Max), Reward: 3.81, 13:57:51[0m
+[94mStep: 482, PSNR Before: 26.286680, PSNR After: 26.286804, PSNR Change: 0.000124, PSNR Diff: 0.004665 (New Max), Reward: 9.92, 13:57:53[0m
+[94mStep: 484, PSNR Before: 26.286804, PSNR After: 26.286850, PSNR Change: 0.000046, PSNR Diff: 0.004711 (New Max), Reward: 3.66, 13:57:54[0m
+[94mStep: 488, PSNR Before: 26.286850, PSNR After: 26.286869, PSNR Change: 0.000019, PSNR Diff: 0.004730 (New Max), Reward: 1.53, 13:57:57[0m
+[94mStep: 489, PSNR Before: 26.286869, PSNR After: 26.286974, PSNR Change: 0.000105, PSNR Diff: 0.004835 (New Max), Reward: 8.39, 13:57:58[0m
+[94mStep: 490, PSNR Before: 26.286974, PSNR After: 26.287020, PSNR Change: 0.000046, PSNR Diff: 0.004881 (New Max), Reward: 3.66, 13:58:00[0m
+[94mStep: 492, PSNR Before: 26.287020, PSNR After: 26.287052, PSNR Change: 0.000032, PSNR Diff: 0.004913 (New Max), Reward: 2.59, 13:58:01[0m
+------------------------------------------
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 2            |
+|    time_elapsed         | 380          |
+|    total_timesteps      | 512          |
+| train/                  |              |
+|    approx_kl            | 2.188608e-08 |
+|    clip_fraction        | 0            |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -14.6        |
+|    explained_variance   | -0.000888    |
+|    learning_rate        | 1e-05        |
+|    loss                 | 0.214        |
+|    n_updates            | 10           |
+|    policy_gradient_loss | -6.66e-05    |
+|    value_loss           | 0.773        |
+------------------------------------------
