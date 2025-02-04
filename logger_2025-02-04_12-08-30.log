@@ -1,0 +1,2024 @@
+이 메시지는 콘솔과 파일에 동시에 기록됩니다.
+이 메시지도 로그에 기록됩니다.
+torch.Size([1, 8, 256, 256])
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0801.png',), Episode count: 1[0m
+[92mInitial PSNR: 24.224718[0m
+Initial MSE: 0.003405[0m
+Starting pixel flip optimization for file 801.png with initial PSNR: 24.224718
+Step: 3558
+PSNR Before: 24.324715 | PSNR After: 24.324781 | Change: 0.000067 | Diff: 0.100063
+Success Ratio: 0.201518 | Flip Count: 717
+Flip Pixel: Channel=0, Row=104, Col=179
+Time taken for this data: 7.51 seconds
+PSNR diff threshold 0.1 reached at step 3558. Moving to next dataset.
+Step: 3558
+PSNR Before: 24.324781 | PSNR After: 24.324781 | Change: 0.100063
+Success Ratio: 0.201518 | Flip Count: 717
+Flip Pixel: Channel=0, Row=104, Col=179
+Time taken for this data: 7.52 seconds
+801.png Optimization completed. Final PSNR improvement: 0.100063
+Time taken for this data: 7.52 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0802.png',), Episode count: 2[0m
+[92mInitial PSNR: 25.086325[0m
+Initial MSE: 0.002204[0m
+Starting pixel flip optimization for file 802.png with initial PSNR: 25.086325
+Step: 2257
+PSNR Before: 25.186155 | PSNR After: 25.186592 | Change: 0.000437 | Diff: 0.100267
+Success Ratio: 0.269384 | Flip Count: 608
+Flip Pixel: Channel=2, Row=246, Col=190
+Time taken for this data: 4.80 seconds
+PSNR diff threshold 0.1 reached at step 2257. Moving to next dataset.
+Step: 2257
+PSNR Before: 25.186592 | PSNR After: 25.186592 | Change: 0.100267
+Success Ratio: 0.269384 | Flip Count: 608
+Flip Pixel: Channel=2, Row=246, Col=190
+Time taken for this data: 4.81 seconds
+802.png Optimization completed. Final PSNR improvement: 0.100267
+Time taken for this data: 4.81 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0803.png',), Episode count: 3[0m
+[92mInitial PSNR: 24.379906[0m
+Initial MSE: 0.002690[0m
+Starting pixel flip optimization for file 803.png with initial PSNR: 24.379906
+Step: 2348
+PSNR Before: 24.479904 | PSNR After: 24.479908 | Change: 0.000004 | Diff: 0.100002
+Success Ratio: 0.244037 | Flip Count: 573
+Flip Pixel: Channel=4, Row=178, Col=206
+Time taken for this data: 5.07 seconds
+PSNR diff threshold 0.1 reached at step 2348. Moving to next dataset.
+Step: 2348
+PSNR Before: 24.479908 | PSNR After: 24.479908 | Change: 0.100002
+Success Ratio: 0.244037 | Flip Count: 573
+Flip Pixel: Channel=4, Row=178, Col=206
+Time taken for this data: 5.08 seconds
+803.png Optimization completed. Final PSNR improvement: 0.100002
+Time taken for this data: 5.08 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0804.png',), Episode count: 4[0m
+[92mInitial PSNR: 24.186523[0m
+Initial MSE: 0.003130[0m
+Starting pixel flip optimization for file 804.png with initial PSNR: 24.186523
+Step: 2483
+PSNR Before: 24.286308 | PSNR After: 24.286661 | Change: 0.000353 | Diff: 0.100138
+Success Ratio: 0.276681 | Flip Count: 687
+Flip Pixel: Channel=3, Row=181, Col=159
+Time taken for this data: 5.31 seconds
+PSNR diff threshold 0.1 reached at step 2483. Moving to next dataset.
+Step: 2483
+PSNR Before: 24.286661 | PSNR After: 24.286661 | Change: 0.100138
+Success Ratio: 0.276681 | Flip Count: 687
+Flip Pixel: Channel=3, Row=181, Col=159
+Time taken for this data: 5.32 seconds
+804.png Optimization completed. Final PSNR improvement: 0.100138
+Time taken for this data: 5.32 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0805.png',), Episode count: 5[0m
+[92mInitial PSNR: 22.619421[0m
+Initial MSE: 0.005471[0m
+Starting pixel flip optimization for file 805.png with initial PSNR: 22.619421
+Step: 4262
+PSNR Before: 22.719175 | PSNR After: 22.719545 | Change: 0.000370 | Diff: 0.100124
+Success Ratio: 0.180197 | Flip Count: 768
+Flip Pixel: Channel=3, Row=86, Col=205
+Time taken for this data: 9.20 seconds
+PSNR diff threshold 0.1 reached at step 4262. Moving to next dataset.
+Step: 4262
+PSNR Before: 22.719545 | PSNR After: 22.719545 | Change: 0.100124
+Success Ratio: 0.180197 | Flip Count: 768
+Flip Pixel: Channel=3, Row=86, Col=205
+Time taken for this data: 9.20 seconds
+805.png Optimization completed. Final PSNR improvement: 0.100124
+Time taken for this data: 9.20 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0806.png',), Episode count: 6[0m
+[92mInitial PSNR: 24.090033[0m
+Initial MSE: 0.003284[0m
+Starting pixel flip optimization for file 806.png with initial PSNR: 24.090033
+Step: 3159
+PSNR Before: 24.189674 | PSNR After: 24.190371 | Change: 0.000696 | Diff: 0.100338
+Success Ratio: 0.231402 | Flip Count: 731
+Flip Pixel: Channel=6, Row=90, Col=127
+Time taken for this data: 6.84 seconds
+PSNR diff threshold 0.1 reached at step 3159. Moving to next dataset.
+Step: 3159
+PSNR Before: 24.190371 | PSNR After: 24.190371 | Change: 0.100338
+Success Ratio: 0.231402 | Flip Count: 731
+Flip Pixel: Channel=6, Row=90, Col=127
+Time taken for this data: 6.84 seconds
+806.png Optimization completed. Final PSNR improvement: 0.100338
+Time taken for this data: 6.84 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0807.png',), Episode count: 7[0m
+[92mInitial PSNR: 25.426861[0m
+Initial MSE: 0.002821[0m
+Starting pixel flip optimization for file 807.png with initial PSNR: 25.426861
+Step: 2606
+PSNR Before: 25.526829 | PSNR After: 25.527075 | Change: 0.000246 | Diff: 0.100214
+Success Ratio: 0.231005 | Flip Count: 602
+Flip Pixel: Channel=5, Row=127, Col=111
+Time taken for this data: 5.76 seconds
+PSNR diff threshold 0.1 reached at step 2606. Moving to next dataset.
+Step: 2606
+PSNR Before: 25.527075 | PSNR After: 25.527075 | Change: 0.100214
+Success Ratio: 0.231005 | Flip Count: 602
+Flip Pixel: Channel=5, Row=127, Col=111
+Time taken for this data: 5.76 seconds
+807.png Optimization completed. Final PSNR improvement: 0.100214
+Time taken for this data: 5.76 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0808.png',), Episode count: 8[0m
+[92mInitial PSNR: 21.426136[0m
+Initial MSE: 0.007201[0m
+Starting pixel flip optimization for file 808.png with initial PSNR: 21.426136
+Step: 3377
+PSNR Before: 21.526068 | PSNR After: 21.526230 | Change: 0.000162 | Diff: 0.100094
+Success Ratio: 0.282499 | Flip Count: 954
+Flip Pixel: Channel=2, Row=42, Col=110
+Time taken for this data: 7.19 seconds
+PSNR diff threshold 0.1 reached at step 3377. Moving to next dataset.
+Step: 3377
+PSNR Before: 21.526230 | PSNR After: 21.526230 | Change: 0.100094
+Success Ratio: 0.282499 | Flip Count: 954
+Flip Pixel: Channel=2, Row=42, Col=110
+Time taken for this data: 7.19 seconds
+808.png Optimization completed. Final PSNR improvement: 0.100094
+Time taken for this data: 7.19 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0809.png',), Episode count: 9[0m
+[92mInitial PSNR: 24.291002[0m
+Initial MSE: 0.003162[0m
+Starting pixel flip optimization for file 809.png with initial PSNR: 24.291002
+Step: 3104
+PSNR Before: 24.390928 | PSNR After: 24.391041 | Change: 0.000113 | Diff: 0.100039
+Success Ratio: 0.206186 | Flip Count: 640
+Flip Pixel: Channel=2, Row=95, Col=146
+Time taken for this data: 6.60 seconds
+PSNR diff threshold 0.1 reached at step 3104. Moving to next dataset.
+Step: 3104
+PSNR Before: 24.391041 | PSNR After: 24.391041 | Change: 0.100039
+Success Ratio: 0.206186 | Flip Count: 640
+Flip Pixel: Channel=2, Row=95, Col=146
+Time taken for this data: 6.61 seconds
+809.png Optimization completed. Final PSNR improvement: 0.100039
+Time taken for this data: 6.61 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0810.png',), Episode count: 10[0m
+[92mInitial PSNR: 22.469040[0m
+Initial MSE: 0.004409[0m
+Starting pixel flip optimization for file 810.png with initial PSNR: 22.469040
+Step: 2440
+PSNR Before: 22.568924 | PSNR After: 22.569277 | Change: 0.000353 | Diff: 0.100237
+Success Ratio: 0.305738 | Flip Count: 746
+Flip Pixel: Channel=5, Row=215, Col=188
+Time taken for this data: 5.18 seconds
+PSNR diff threshold 0.1 reached at step 2440. Moving to next dataset.
+Step: 2440
+PSNR Before: 22.569277 | PSNR After: 22.569277 | Change: 0.100237
+Success Ratio: 0.305738 | Flip Count: 746
+Flip Pixel: Channel=5, Row=215, Col=188
+Time taken for this data: 5.18 seconds
+810.png Optimization completed. Final PSNR improvement: 0.100237
+Time taken for this data: 5.18 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0811.png',), Episode count: 11[0m
+[92mInitial PSNR: 27.341637[0m
+Initial MSE: 0.001239[0m
+Starting pixel flip optimization for file 811.png with initial PSNR: 27.341637
+Step: 2539
+PSNR Before: 27.441492 | PSNR After: 27.442312 | Change: 0.000820 | Diff: 0.100676
+Success Ratio: 0.243009 | Flip Count: 617
+Flip Pixel: Channel=3, Row=169, Col=3
+Time taken for this data: 5.38 seconds
+PSNR diff threshold 0.1 reached at step 2539. Moving to next dataset.
+Step: 2539
+PSNR Before: 27.442312 | PSNR After: 27.442312 | Change: 0.100676
+Success Ratio: 0.243009 | Flip Count: 617
+Flip Pixel: Channel=3, Row=169, Col=3
+Time taken for this data: 5.39 seconds
+811.png Optimization completed. Final PSNR improvement: 0.100676
+Time taken for this data: 5.39 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0812.png',), Episode count: 12[0m
+[92mInitial PSNR: 26.355980[0m
+Initial MSE: 0.002154[0m
+Starting pixel flip optimization for file 812.png with initial PSNR: 26.355980
+Step: 3791
+PSNR Before: 26.455879 | PSNR After: 26.456047 | Change: 0.000168 | Diff: 0.100067
+Success Ratio: 0.248483 | Flip Count: 942
+Flip Pixel: Channel=3, Row=126, Col=69
+Time taken for this data: 8.13 seconds
+PSNR diff threshold 0.1 reached at step 3791. Moving to next dataset.
+Step: 3791
+PSNR Before: 26.456047 | PSNR After: 26.456047 | Change: 0.100067
+Success Ratio: 0.248483 | Flip Count: 942
+Flip Pixel: Channel=3, Row=126, Col=69
+Time taken for this data: 8.14 seconds
+812.png Optimization completed. Final PSNR improvement: 0.100067
+Time taken for this data: 8.14 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0813.png',), Episode count: 13[0m
+[92mInitial PSNR: 25.371586[0m
+Initial MSE: 0.002903[0m
+Starting pixel flip optimization for file 813.png with initial PSNR: 25.371586
+Step: 2419
+PSNR Before: 25.471087 | PSNR After: 25.471600 | Change: 0.000513 | Diff: 0.100014
+Success Ratio: 0.291443 | Flip Count: 705
+Flip Pixel: Channel=4, Row=34, Col=84
+Time taken for this data: 5.12 seconds
+PSNR diff threshold 0.1 reached at step 2419. Moving to next dataset.
+Step: 2419
+PSNR Before: 25.471600 | PSNR After: 25.471600 | Change: 0.100014
+Success Ratio: 0.291443 | Flip Count: 705
+Flip Pixel: Channel=4, Row=34, Col=84
+Time taken for this data: 5.13 seconds
+813.png Optimization completed. Final PSNR improvement: 0.100014
+Time taken for this data: 5.13 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0814.png',), Episode count: 14[0m
+[92mInitial PSNR: 24.893929[0m
+Initial MSE: 0.003240[0m
+Starting pixel flip optimization for file 814.png with initial PSNR: 24.893929
+Step: 2004
+PSNR Before: 24.993887 | PSNR After: 24.994087 | Change: 0.000200 | Diff: 0.100159
+Success Ratio: 0.285928 | Flip Count: 573
+Flip Pixel: Channel=0, Row=214, Col=7
+Time taken for this data: 4.30 seconds
+PSNR diff threshold 0.1 reached at step 2004. Moving to next dataset.
+Step: 2004
+PSNR Before: 24.994087 | PSNR After: 24.994087 | Change: 0.100159
+Success Ratio: 0.285928 | Flip Count: 573
+Flip Pixel: Channel=0, Row=214, Col=7
+Time taken for this data: 4.30 seconds
+814.png Optimization completed. Final PSNR improvement: 0.100159
+Time taken for this data: 4.30 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0815.png',), Episode count: 15[0m
+[92mInitial PSNR: 23.044413[0m
+Initial MSE: 0.004654[0m
+Starting pixel flip optimization for file 815.png with initial PSNR: 23.044413
+Step: 3622
+PSNR Before: 23.144348 | PSNR After: 23.144438 | Change: 0.000090 | Diff: 0.100025
+Success Ratio: 0.227499 | Flip Count: 824
+Flip Pixel: Channel=5, Row=173, Col=144
+Time taken for this data: 7.69 seconds
+PSNR diff threshold 0.1 reached at step 3622. Moving to next dataset.
+Step: 3622
+PSNR Before: 23.144438 | PSNR After: 23.144438 | Change: 0.100025
+Success Ratio: 0.227499 | Flip Count: 824
+Flip Pixel: Channel=5, Row=173, Col=144
+Time taken for this data: 7.69 seconds
+815.png Optimization completed. Final PSNR improvement: 0.100025
+Time taken for this data: 7.69 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0816.png',), Episode count: 16[0m
+[92mInitial PSNR: 24.116686[0m
+Initial MSE: 0.002197[0m
+Starting pixel flip optimization for file 816.png with initial PSNR: 24.116686
+Step: 2056
+PSNR Before: 24.216599 | PSNR After: 24.217133 | Change: 0.000534 | Diff: 0.100447
+Success Ratio: 0.277724 | Flip Count: 571
+Flip Pixel: Channel=2, Row=157, Col=208
+Time taken for this data: 4.31 seconds
+PSNR diff threshold 0.1 reached at step 2056. Moving to next dataset.
+Step: 2056
+PSNR Before: 24.217133 | PSNR After: 24.217133 | Change: 0.100447
+Success Ratio: 0.277724 | Flip Count: 571
+Flip Pixel: Channel=2, Row=157, Col=208
+Time taken for this data: 4.31 seconds
+816.png Optimization completed. Final PSNR improvement: 0.100447
+Time taken for this data: 4.31 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0817.png',), Episode count: 17[0m
+[92mInitial PSNR: 23.468441[0m
+Initial MSE: 0.003724[0m
+Starting pixel flip optimization for file 817.png with initial PSNR: 23.468441
+Step: 2471
+PSNR Before: 23.568003 | PSNR After: 23.568724 | Change: 0.000721 | Diff: 0.100283
+Success Ratio: 0.244031 | Flip Count: 603
+Flip Pixel: Channel=2, Row=42, Col=47
+Time taken for this data: 5.36 seconds
+PSNR diff threshold 0.1 reached at step 2471. Moving to next dataset.
+Step: 2471
+PSNR Before: 23.568724 | PSNR After: 23.568724 | Change: 0.100283
+Success Ratio: 0.244031 | Flip Count: 603
+Flip Pixel: Channel=2, Row=42, Col=47
+Time taken for this data: 5.36 seconds
+817.png Optimization completed. Final PSNR improvement: 0.100283
+Time taken for this data: 5.36 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0818.png',), Episode count: 18[0m
+[92mInitial PSNR: 20.784191[0m
+Initial MSE: 0.008348[0m
+Starting pixel flip optimization for file 818.png with initial PSNR: 20.784191
+Step: 3523
+PSNR Before: 20.884102 | PSNR After: 20.884380 | Change: 0.000278 | Diff: 0.100189
+Success Ratio: 0.263696 | Flip Count: 929
+Flip Pixel: Channel=7, Row=116, Col=118
+Time taken for this data: 7.44 seconds
+PSNR diff threshold 0.1 reached at step 3523. Moving to next dataset.
+Step: 3523
+PSNR Before: 20.884380 | PSNR After: 20.884380 | Change: 0.100189
+Success Ratio: 0.263696 | Flip Count: 929
+Flip Pixel: Channel=7, Row=116, Col=118
+Time taken for this data: 7.44 seconds
+818.png Optimization completed. Final PSNR improvement: 0.100189
+Time taken for this data: 7.44 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0819.png',), Episode count: 19[0m
+[92mInitial PSNR: 25.315067[0m
+Initial MSE: 0.002071[0m
+Starting pixel flip optimization for file 819.png with initial PSNR: 25.315067
+Step: 2163
+PSNR Before: 25.415062 | PSNR After: 25.415081 | Change: 0.000019 | Diff: 0.100014
+Success Ratio: 0.307906 | Flip Count: 666
+Flip Pixel: Channel=7, Row=174, Col=52
+Time taken for this data: 4.73 seconds
+PSNR diff threshold 0.1 reached at step 2163. Moving to next dataset.
+Step: 2163
+PSNR Before: 25.415081 | PSNR After: 25.415081 | Change: 0.100014
+Success Ratio: 0.307906 | Flip Count: 666
+Flip Pixel: Channel=7, Row=174, Col=52
+Time taken for this data: 4.73 seconds
+819.png Optimization completed. Final PSNR improvement: 0.100014
+Time taken for this data: 4.73 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0820.png',), Episode count: 20[0m
+[92mInitial PSNR: 23.063095[0m
+Initial MSE: 0.004940[0m
+Starting pixel flip optimization for file 820.png with initial PSNR: 23.063095
+Step: 3822
+PSNR Before: 23.163033 | PSNR After: 23.163181 | Change: 0.000149 | Diff: 0.100086
+Success Ratio: 0.214024 | Flip Count: 818
+Flip Pixel: Channel=7, Row=69, Col=98
+Time taken for this data: 8.20 seconds
+PSNR diff threshold 0.1 reached at step 3822. Moving to next dataset.
+Step: 3822
+PSNR Before: 23.163181 | PSNR After: 23.163181 | Change: 0.100086
+Success Ratio: 0.214024 | Flip Count: 818
+Flip Pixel: Channel=7, Row=69, Col=98
+Time taken for this data: 8.20 seconds
+820.png Optimization completed. Final PSNR improvement: 0.100086
+Time taken for this data: 8.20 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0821.png',), Episode count: 21[0m
+[92mInitial PSNR: 25.550444[0m
+Initial MSE: 0.001579[0m
+Starting pixel flip optimization for file 821.png with initial PSNR: 25.550444
+Step: 3831
+PSNR Before: 25.650396 | PSNR After: 25.650595 | Change: 0.000198 | Diff: 0.100151
+Success Ratio: 0.138345 | Flip Count: 530
+Flip Pixel: Channel=4, Row=139, Col=37
+Time taken for this data: 8.21 seconds
+PSNR diff threshold 0.1 reached at step 3831. Moving to next dataset.
+Step: 3831
+PSNR Before: 25.650595 | PSNR After: 25.650595 | Change: 0.100151
+Success Ratio: 0.138345 | Flip Count: 530
+Flip Pixel: Channel=4, Row=139, Col=37
+Time taken for this data: 8.22 seconds
+821.png Optimization completed. Final PSNR improvement: 0.100151
+Time taken for this data: 8.22 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0822.png',), Episode count: 22[0m
+[92mInitial PSNR: 24.498516[0m
+Initial MSE: 0.003549[0m
+Starting pixel flip optimization for file 822.png with initial PSNR: 24.498516
+Step: 2679
+PSNR Before: 24.598429 | PSNR After: 24.598524 | Change: 0.000095 | Diff: 0.100008
+Success Ratio: 0.231803 | Flip Count: 621
+Flip Pixel: Channel=2, Row=62, Col=73
+Time taken for this data: 5.62 seconds
+PSNR diff threshold 0.1 reached at step 2679. Moving to next dataset.
+Step: 2679
+PSNR Before: 24.598524 | PSNR After: 24.598524 | Change: 0.100008
+Success Ratio: 0.231803 | Flip Count: 621
+Flip Pixel: Channel=2, Row=62, Col=73
+Time taken for this data: 5.63 seconds
+822.png Optimization completed. Final PSNR improvement: 0.100008
+Time taken for this data: 5.63 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0823.png',), Episode count: 23[0m
+[92mInitial PSNR: 23.105173[0m
+Initial MSE: 0.004892[0m
+Starting pixel flip optimization for file 823.png with initial PSNR: 23.105173
+Step: 2652
+PSNR Before: 23.204763 | PSNR After: 23.205219 | Change: 0.000456 | Diff: 0.100046
+Success Ratio: 0.277526 | Flip Count: 736
+Flip Pixel: Channel=5, Row=203, Col=24
+Time taken for this data: 5.71 seconds
+PSNR diff threshold 0.1 reached at step 2652. Moving to next dataset.
+Step: 2652
+PSNR Before: 23.205219 | PSNR After: 23.205219 | Change: 0.100046
+Success Ratio: 0.277526 | Flip Count: 736
+Flip Pixel: Channel=5, Row=203, Col=24
+Time taken for this data: 5.71 seconds
+823.png Optimization completed. Final PSNR improvement: 0.100046
+Time taken for this data: 5.71 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0824.png',), Episode count: 24[0m
+[92mInitial PSNR: 22.775921[0m
+Initial MSE: 0.005277[0m
+Starting pixel flip optimization for file 824.png with initial PSNR: 22.775921
+Step: 3416
+PSNR Before: 22.875835 | PSNR After: 22.875961 | Change: 0.000126 | Diff: 0.100040
+Success Ratio: 0.256440 | Flip Count: 876
+Flip Pixel: Channel=4, Row=38, Col=33
+Time taken for this data: 7.22 seconds
+PSNR diff threshold 0.1 reached at step 3416. Moving to next dataset.
+Step: 3416
+PSNR Before: 22.875961 | PSNR After: 22.875961 | Change: 0.100040
+Success Ratio: 0.256440 | Flip Count: 876
+Flip Pixel: Channel=4, Row=38, Col=33
+Time taken for this data: 7.22 seconds
+824.png Optimization completed. Final PSNR improvement: 0.100040
+Time taken for this data: 7.22 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0825.png',), Episode count: 25[0m
+[92mInitial PSNR: 22.669579[0m
+Initial MSE: 0.005408[0m
+Starting pixel flip optimization for file 825.png with initial PSNR: 22.669579
+Step: 3622
+PSNR Before: 22.769478 | PSNR After: 22.769753 | Change: 0.000275 | Diff: 0.100174
+Success Ratio: 0.243236 | Flip Count: 881
+Flip Pixel: Channel=5, Row=237, Col=179
+Time taken for this data: 7.61 seconds
+PSNR diff threshold 0.1 reached at step 3622. Moving to next dataset.
+Step: 3622
+PSNR Before: 22.769753 | PSNR After: 22.769753 | Change: 0.100174
+Success Ratio: 0.243236 | Flip Count: 881
+Flip Pixel: Channel=5, Row=237, Col=179
+Time taken for this data: 7.61 seconds
+825.png Optimization completed. Final PSNR improvement: 0.100174
+Time taken for this data: 7.61 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0826.png',), Episode count: 26[0m
+[92mInitial PSNR: 21.600967[0m
+Initial MSE: 0.006917[0m
+Starting pixel flip optimization for file 826.png with initial PSNR: 21.600967
+Step: 3323
+PSNR Before: 21.700966 | PSNR After: 21.701107 | Change: 0.000141 | Diff: 0.100140
+Success Ratio: 0.268131 | Flip Count: 891
+Flip Pixel: Channel=5, Row=158, Col=248
+Time taken for this data: 7.20 seconds
+PSNR diff threshold 0.1 reached at step 3323. Moving to next dataset.
+Step: 3323
+PSNR Before: 21.701107 | PSNR After: 21.701107 | Change: 0.100140
+Success Ratio: 0.268131 | Flip Count: 891
+Flip Pixel: Channel=5, Row=158, Col=248
+Time taken for this data: 7.20 seconds
+826.png Optimization completed. Final PSNR improvement: 0.100140
+Time taken for this data: 7.20 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0827.png',), Episode count: 27[0m
+[92mInitial PSNR: 27.186409[0m
+Initial MSE: 0.001911[0m
+Starting pixel flip optimization for file 827.png with initial PSNR: 27.186409
+Step: 2212
+PSNR Before: 27.286386 | PSNR After: 27.286518 | Change: 0.000132 | Diff: 0.100109
+Success Ratio: 0.258137 | Flip Count: 571
+Flip Pixel: Channel=7, Row=162, Col=93
+Time taken for this data: 4.69 seconds
+PSNR diff threshold 0.1 reached at step 2212. Moving to next dataset.
+Step: 2212
+PSNR Before: 27.286518 | PSNR After: 27.286518 | Change: 0.100109
+Success Ratio: 0.258137 | Flip Count: 571
+Flip Pixel: Channel=7, Row=162, Col=93
+Time taken for this data: 4.69 seconds
+827.png Optimization completed. Final PSNR improvement: 0.100109
+Time taken for this data: 4.69 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0828.png',), Episode count: 28[0m
+[92mInitial PSNR: 16.665861[0m
+Initial MSE: 0.021380[0m
+Starting pixel flip optimization for file 828.png with initial PSNR: 16.665861
+Step: 10309
+PSNR Before: 16.765821 | PSNR After: 16.765865 | Change: 0.000044 | Diff: 0.100004
+Success Ratio: 0.209817 | Flip Count: 2163
+Flip Pixel: Channel=2, Row=236, Col=121
+Time taken for this data: 22.16 seconds
+PSNR diff threshold 0.1 reached at step 10309. Moving to next dataset.
+Step: 10309
+PSNR Before: 16.765865 | PSNR After: 16.765865 | Change: 0.100004
+Success Ratio: 0.209817 | Flip Count: 2163
+Flip Pixel: Channel=2, Row=236, Col=121
+Time taken for this data: 22.16 seconds
+828.png Optimization completed. Final PSNR improvement: 0.100004
+Time taken for this data: 22.16 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0829.png',), Episode count: 29[0m
+[92mInitial PSNR: 23.417732[0m
+Initial MSE: 0.004552[0m
+Starting pixel flip optimization for file 829.png with initial PSNR: 23.417732
+Step: 2856
+PSNR Before: 23.517635 | PSNR After: 23.517941 | Change: 0.000305 | Diff: 0.100208
+Success Ratio: 0.272059 | Flip Count: 777
+Flip Pixel: Channel=2, Row=22, Col=252
+Time taken for this data: 5.92 seconds
+PSNR diff threshold 0.1 reached at step 2856. Moving to next dataset.
+Step: 2856
+PSNR Before: 23.517941 | PSNR After: 23.517941 | Change: 0.100208
+Success Ratio: 0.272059 | Flip Count: 777
+Flip Pixel: Channel=2, Row=22, Col=252
+Time taken for this data: 5.92 seconds
+829.png Optimization completed. Final PSNR improvement: 0.100208
+Time taken for this data: 5.92 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0830.png',), Episode count: 30[0m
+[92mInitial PSNR: 22.803457[0m
+Initial MSE: 0.005121[0m
+Starting pixel flip optimization for file 830.png with initial PSNR: 22.803457
+Step: 3018
+PSNR Before: 22.903374 | PSNR After: 22.903481 | Change: 0.000107 | Diff: 0.100023
+Success Ratio: 0.280981 | Flip Count: 848
+Flip Pixel: Channel=3, Row=187, Col=149
+Time taken for this data: 6.42 seconds
+PSNR diff threshold 0.1 reached at step 3018. Moving to next dataset.
+Step: 3018
+PSNR Before: 22.903481 | PSNR After: 22.903481 | Change: 0.100023
+Success Ratio: 0.280981 | Flip Count: 848
+Flip Pixel: Channel=3, Row=187, Col=149
+Time taken for this data: 6.42 seconds
+830.png Optimization completed. Final PSNR improvement: 0.100023
+Time taken for this data: 6.42 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0831.png',), Episode count: 31[0m
+[92mInitial PSNR: 25.660437[0m
+Initial MSE: 0.002569[0m
+Starting pixel flip optimization for file 831.png with initial PSNR: 25.660437
+Step: 2369
+PSNR Before: 25.760239 | PSNR After: 25.760725 | Change: 0.000486 | Diff: 0.100288
+Success Ratio: 0.261292 | Flip Count: 619
+Flip Pixel: Channel=6, Row=45, Col=243
+Time taken for this data: 5.03 seconds
+PSNR diff threshold 0.1 reached at step 2369. Moving to next dataset.
+Step: 2369
+PSNR Before: 25.760725 | PSNR After: 25.760725 | Change: 0.100288
+Success Ratio: 0.261292 | Flip Count: 619
+Flip Pixel: Channel=6, Row=45, Col=243
+Time taken for this data: 5.03 seconds
+831.png Optimization completed. Final PSNR improvement: 0.100288
+Time taken for this data: 5.03 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0832.png',), Episode count: 32[0m
+[92mInitial PSNR: 26.764519[0m
+Initial MSE: 0.002057[0m
+Starting pixel flip optimization for file 832.png with initial PSNR: 26.764519
+Step: 2559
+PSNR Before: 26.864429 | PSNR After: 26.864538 | Change: 0.000109 | Diff: 0.100019
+Success Ratio: 0.258695 | Flip Count: 662
+Flip Pixel: Channel=2, Row=119, Col=9
+Time taken for this data: 5.41 seconds
+PSNR diff threshold 0.1 reached at step 2559. Moving to next dataset.
+Step: 2559
+PSNR Before: 26.864538 | PSNR After: 26.864538 | Change: 0.100019
+Success Ratio: 0.258695 | Flip Count: 662
+Flip Pixel: Channel=2, Row=119, Col=9
+Time taken for this data: 5.41 seconds
+832.png Optimization completed. Final PSNR improvement: 0.100019
+Time taken for this data: 5.41 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0833.png',), Episode count: 33[0m
+[92mInitial PSNR: 22.341501[0m
+Initial MSE: 0.005787[0m
+Starting pixel flip optimization for file 833.png with initial PSNR: 22.341501
+Step: 5564
+PSNR Before: 22.441475 | PSNR After: 22.441601 | Change: 0.000126 | Diff: 0.100100
+Success Ratio: 0.163551 | Flip Count: 910
+Flip Pixel: Channel=3, Row=11, Col=173
+Time taken for this data: 11.88 seconds
+PSNR diff threshold 0.1 reached at step 5564. Moving to next dataset.
+Step: 5564
+PSNR Before: 22.441601 | PSNR After: 22.441601 | Change: 0.100100
+Success Ratio: 0.163551 | Flip Count: 910
+Flip Pixel: Channel=3, Row=11, Col=173
+Time taken for this data: 11.89 seconds
+833.png Optimization completed. Final PSNR improvement: 0.100100
+Time taken for this data: 11.89 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0834.png',), Episode count: 34[0m
+[92mInitial PSNR: 24.522808[0m
+Initial MSE: 0.001625[0m
+Starting pixel flip optimization for file 834.png with initial PSNR: 24.522808
+Step: 1961
+PSNR Before: 24.622631 | PSNR After: 24.623011 | Change: 0.000380 | Diff: 0.100203
+Success Ratio: 0.324324 | Flip Count: 636
+Flip Pixel: Channel=0, Row=250, Col=101
+Time taken for this data: 4.20 seconds
+PSNR diff threshold 0.1 reached at step 1961. Moving to next dataset.
+Step: 1961
+PSNR Before: 24.623011 | PSNR After: 24.623011 | Change: 0.100203
+Success Ratio: 0.324324 | Flip Count: 636
+Flip Pixel: Channel=0, Row=250, Col=101
+Time taken for this data: 4.21 seconds
+834.png Optimization completed. Final PSNR improvement: 0.100203
+Time taken for this data: 4.21 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0835.png',), Episode count: 35[0m
+[92mInitial PSNR: 24.673897[0m
+Initial MSE: 0.003121[0m
+Starting pixel flip optimization for file 835.png with initial PSNR: 24.673897
+Step: 2648
+PSNR Before: 24.773886 | PSNR After: 24.774258 | Change: 0.000372 | Diff: 0.100361
+Success Ratio: 0.253399 | Flip Count: 671
+Flip Pixel: Channel=3, Row=232, Col=190
+Time taken for this data: 5.60 seconds
+PSNR diff threshold 0.1 reached at step 2648. Moving to next dataset.
+Step: 2648
+PSNR Before: 24.774258 | PSNR After: 24.774258 | Change: 0.100361
+Success Ratio: 0.253399 | Flip Count: 671
+Flip Pixel: Channel=3, Row=232, Col=190
+Time taken for this data: 5.61 seconds
+835.png Optimization completed. Final PSNR improvement: 0.100361
+Time taken for this data: 5.61 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0836.png',), Episode count: 36[0m
+[92mInitial PSNR: 23.281731[0m
+Initial MSE: 0.004660[0m
+Starting pixel flip optimization for file 836.png with initial PSNR: 23.281731
+Step: 2885
+PSNR Before: 23.381702 | PSNR After: 23.381802 | Change: 0.000099 | Diff: 0.100071
+Success Ratio: 0.271057 | Flip Count: 782
+Flip Pixel: Channel=2, Row=2, Col=181
+Time taken for this data: 6.20 seconds
+PSNR diff threshold 0.1 reached at step 2885. Moving to next dataset.
+Step: 2885
+PSNR Before: 23.381802 | PSNR After: 23.381802 | Change: 0.100071
+Success Ratio: 0.271057 | Flip Count: 782
+Flip Pixel: Channel=2, Row=2, Col=181
+Time taken for this data: 6.20 seconds
+836.png Optimization completed. Final PSNR improvement: 0.100071
+Time taken for this data: 6.20 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0837.png',), Episode count: 37[0m
+[92mInitial PSNR: 24.308952[0m
+Initial MSE: 0.003708[0m
+Starting pixel flip optimization for file 837.png with initial PSNR: 24.308952
+Step: 2494
+PSNR Before: 24.408512 | PSNR After: 24.409163 | Change: 0.000650 | Diff: 0.100210
+Success Ratio: 0.262229 | Flip Count: 654
+Flip Pixel: Channel=0, Row=184, Col=88
+Time taken for this data: 5.28 seconds
+PSNR diff threshold 0.1 reached at step 2494. Moving to next dataset.
+Step: 2494
+PSNR Before: 24.409163 | PSNR After: 24.409163 | Change: 0.100210
+Success Ratio: 0.262229 | Flip Count: 654
+Flip Pixel: Channel=0, Row=184, Col=88
+Time taken for this data: 5.29 seconds
+837.png Optimization completed. Final PSNR improvement: 0.100210
+Time taken for this data: 5.29 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0838.png',), Episode count: 38[0m
+[92mInitial PSNR: 26.258383[0m
+Initial MSE: 0.001843[0m
+Starting pixel flip optimization for file 838.png with initial PSNR: 26.258383
+Step: 2566
+PSNR Before: 26.358322 | PSNR After: 26.358868 | Change: 0.000546 | Diff: 0.100485
+Success Ratio: 0.198753 | Flip Count: 510
+Flip Pixel: Channel=1, Row=107, Col=65
+Time taken for this data: 5.51 seconds
+PSNR diff threshold 0.1 reached at step 2566. Moving to next dataset.
+Step: 2566
+PSNR Before: 26.358868 | PSNR After: 26.358868 | Change: 0.100485
+Success Ratio: 0.198753 | Flip Count: 510
+Flip Pixel: Channel=1, Row=107, Col=65
+Time taken for this data: 5.51 seconds
+838.png Optimization completed. Final PSNR improvement: 0.100485
+Time taken for this data: 5.51 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0839.png',), Episode count: 39[0m
+[92mInitial PSNR: 23.736040[0m
+Initial MSE: 0.001666[0m
+Starting pixel flip optimization for file 839.png with initial PSNR: 23.736040
+Step: 2211
+PSNR Before: 23.836010 | PSNR After: 23.836163 | Change: 0.000153 | Diff: 0.100122
+Success Ratio: 0.285844 | Flip Count: 632
+Flip Pixel: Channel=6, Row=152, Col=35
+Time taken for this data: 4.69 seconds
+PSNR diff threshold 0.1 reached at step 2211. Moving to next dataset.
+Step: 2211
+PSNR Before: 23.836163 | PSNR After: 23.836163 | Change: 0.100122
+Success Ratio: 0.285844 | Flip Count: 632
+Flip Pixel: Channel=6, Row=152, Col=35
+Time taken for this data: 4.70 seconds
+839.png Optimization completed. Final PSNR improvement: 0.100122
+Time taken for this data: 4.70 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0840.png',), Episode count: 40[0m
+[92mInitial PSNR: 24.871021[0m
+Initial MSE: 0.002230[0m
+Starting pixel flip optimization for file 840.png with initial PSNR: 24.871021
+Step: 2149
+PSNR Before: 24.970980 | PSNR After: 24.971043 | Change: 0.000063 | Diff: 0.100021
+Success Ratio: 0.290833 | Flip Count: 625
+Flip Pixel: Channel=5, Row=204, Col=11
+Time taken for this data: 4.47 seconds
+PSNR diff threshold 0.1 reached at step 2149. Moving to next dataset.
+Step: 2149
+PSNR Before: 24.971043 | PSNR After: 24.971043 | Change: 0.100021
+Success Ratio: 0.290833 | Flip Count: 625
+Flip Pixel: Channel=5, Row=204, Col=11
+Time taken for this data: 4.47 seconds
+840.png Optimization completed. Final PSNR improvement: 0.100021
+Time taken for this data: 4.47 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0841.png',), Episode count: 41[0m
+[92mInitial PSNR: 24.917002[0m
+Initial MSE: 0.003223[0m
+Starting pixel flip optimization for file 841.png with initial PSNR: 24.917002
+Step: 2477
+PSNR Before: 25.016869 | PSNR After: 25.017025 | Change: 0.000156 | Diff: 0.100023
+Success Ratio: 0.291885 | Flip Count: 723
+Flip Pixel: Channel=7, Row=65, Col=119
+Time taken for this data: 5.29 seconds
+PSNR diff threshold 0.1 reached at step 2477. Moving to next dataset.
+Step: 2477
+PSNR Before: 25.017025 | PSNR After: 25.017025 | Change: 0.100023
+Success Ratio: 0.291885 | Flip Count: 723
+Flip Pixel: Channel=7, Row=65, Col=119
+Time taken for this data: 5.29 seconds
+841.png Optimization completed. Final PSNR improvement: 0.100023
+Time taken for this data: 5.29 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0842.png',), Episode count: 42[0m
+[92mInitial PSNR: 22.892553[0m
+Initial MSE: 0.005137[0m
+Starting pixel flip optimization for file 842.png with initial PSNR: 22.892553
+Step: 5468
+PSNR Before: 22.992498 | PSNR After: 22.993097 | Change: 0.000599 | Diff: 0.100544
+Success Ratio: 0.170995 | Flip Count: 935
+Flip Pixel: Channel=1, Row=206, Col=67
+Time taken for this data: 11.87 seconds
+PSNR diff threshold 0.1 reached at step 5468. Moving to next dataset.
+Step: 5468
+PSNR Before: 22.993097 | PSNR After: 22.993097 | Change: 0.100544
+Success Ratio: 0.170995 | Flip Count: 935
+Flip Pixel: Channel=1, Row=206, Col=67
+Time taken for this data: 11.87 seconds
+842.png Optimization completed. Final PSNR improvement: 0.100544
+Time taken for this data: 11.87 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0843.png',), Episode count: 43[0m
+[92mInitial PSNR: 24.897671[0m
+Initial MSE: 0.002498[0m
+Starting pixel flip optimization for file 843.png with initial PSNR: 24.897671
+Step: 2418
+PSNR Before: 24.997414 | PSNR After: 24.998074 | Change: 0.000660 | Diff: 0.100403
+Success Ratio: 0.283706 | Flip Count: 686
+Flip Pixel: Channel=6, Row=206, Col=27
+Time taken for this data: 5.18 seconds
+PSNR diff threshold 0.1 reached at step 2418. Moving to next dataset.
+Step: 2418
+PSNR Before: 24.998074 | PSNR After: 24.998074 | Change: 0.100403
+Success Ratio: 0.283706 | Flip Count: 686
+Flip Pixel: Channel=6, Row=206, Col=27
+Time taken for this data: 5.19 seconds
+843.png Optimization completed. Final PSNR improvement: 0.100403
+Time taken for this data: 5.19 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0844.png',), Episode count: 44[0m
+[92mInitial PSNR: 22.660522[0m
+Initial MSE: 0.004642[0m
+Starting pixel flip optimization for file 844.png with initial PSNR: 22.660522
+Step: 8102
+PSNR Before: 22.760469 | PSNR After: 22.760546 | Change: 0.000076 | Diff: 0.100023
+Success Ratio: 0.095409 | Flip Count: 773
+Flip Pixel: Channel=1, Row=65, Col=88
+Time taken for this data: 17.20 seconds
+PSNR diff threshold 0.1 reached at step 8102. Moving to next dataset.
+Step: 8102
+PSNR Before: 22.760546 | PSNR After: 22.760546 | Change: 0.100023
+Success Ratio: 0.095409 | Flip Count: 773
+Flip Pixel: Channel=1, Row=65, Col=88
+Time taken for this data: 17.20 seconds
+844.png Optimization completed. Final PSNR improvement: 0.100023
+Time taken for this data: 17.20 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0845.png',), Episode count: 45[0m
+[92mInitial PSNR: 22.490561[0m
+Initial MSE: 0.005636[0m
+Starting pixel flip optimization for file 845.png with initial PSNR: 22.490561
+Step: 20494
+PSNR Before: 22.590542 | PSNR After: 22.590590 | Change: 0.000048 | Diff: 0.100029
+Success Ratio: 0.056943 | Flip Count: 1167
+Flip Pixel: Channel=2, Row=96, Col=181
+Time taken for this data: 43.43 seconds
+PSNR diff threshold 0.1 reached at step 20494. Moving to next dataset.
+Step: 20494
+PSNR Before: 22.590590 | PSNR After: 22.590590 | Change: 0.100029
+Success Ratio: 0.056943 | Flip Count: 1167
+Flip Pixel: Channel=2, Row=96, Col=181
+Time taken for this data: 43.43 seconds
+845.png Optimization completed. Final PSNR improvement: 0.100029
+Time taken for this data: 43.43 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0846.png',), Episode count: 46[0m
+[92mInitial PSNR: 18.378315[0m
+Initial MSE: 0.014527[0m
+Starting pixel flip optimization for file 846.png with initial PSNR: 18.378315
+Step: 4592
+PSNR Before: 18.478296 | PSNR After: 18.478439 | Change: 0.000143 | Diff: 0.100124
+Success Ratio: 0.279399 | Flip Count: 1283
+Flip Pixel: Channel=2, Row=232, Col=102
+Time taken for this data: 9.89 seconds
+PSNR diff threshold 0.1 reached at step 4592. Moving to next dataset.
+Step: 4592
+PSNR Before: 18.478439 | PSNR After: 18.478439 | Change: 0.100124
+Success Ratio: 0.279399 | Flip Count: 1283
+Flip Pixel: Channel=2, Row=232, Col=102
+Time taken for this data: 9.90 seconds
+846.png Optimization completed. Final PSNR improvement: 0.100124
+Time taken for this data: 9.90 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0847.png',), Episode count: 47[0m
+[92mInitial PSNR: 22.906027[0m
+Initial MSE: 0.005122[0m
+Starting pixel flip optimization for file 847.png with initial PSNR: 22.906027
+Step: 3491
+PSNR Before: 23.006008 | PSNR After: 23.006081 | Change: 0.000072 | Diff: 0.100054
+Success Ratio: 0.247494 | Flip Count: 864
+Flip Pixel: Channel=0, Row=224, Col=229
+Time taken for this data: 7.39 seconds
+PSNR diff threshold 0.1 reached at step 3491. Moving to next dataset.
+Step: 3491
+PSNR Before: 23.006081 | PSNR After: 23.006081 | Change: 0.100054
+Success Ratio: 0.247494 | Flip Count: 864
+Flip Pixel: Channel=0, Row=224, Col=229
+Time taken for this data: 7.40 seconds
+847.png Optimization completed. Final PSNR improvement: 0.100054
+Time taken for this data: 7.40 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0848.png',), Episode count: 48[0m
+[92mInitial PSNR: 22.199972[0m
+Initial MSE: 0.006026[0m
+Starting pixel flip optimization for file 848.png with initial PSNR: 22.199972
+Step: 4541
+PSNR Before: 22.299416 | PSNR After: 22.300087 | Change: 0.000671 | Diff: 0.100115
+Success Ratio: 0.209205 | Flip Count: 950
+Flip Pixel: Channel=0, Row=168, Col=153
+Time taken for this data: 9.84 seconds
+PSNR diff threshold 0.1 reached at step 4541. Moving to next dataset.
+Step: 4541
+PSNR Before: 22.300087 | PSNR After: 22.300087 | Change: 0.100115
+Success Ratio: 0.209205 | Flip Count: 950
+Flip Pixel: Channel=0, Row=168, Col=153
+Time taken for this data: 9.84 seconds
+848.png Optimization completed. Final PSNR improvement: 0.100115
+Time taken for this data: 9.84 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0849.png',), Episode count: 49[0m
+[92mInitial PSNR: 23.173626[0m
+Initial MSE: 0.004815[0m
+Starting pixel flip optimization for file 849.png with initial PSNR: 23.173626
+Step: 3068
+PSNR Before: 23.273600 | PSNR After: 23.273764 | Change: 0.000164 | Diff: 0.100138
+Success Ratio: 0.262386 | Flip Count: 805
+Flip Pixel: Channel=2, Row=65, Col=238
+Time taken for this data: 6.68 seconds
+PSNR diff threshold 0.1 reached at step 3068. Moving to next dataset.
+Step: 3068
+PSNR Before: 23.273764 | PSNR After: 23.273764 | Change: 0.100138
+Success Ratio: 0.262386 | Flip Count: 805
+Flip Pixel: Channel=2, Row=65, Col=238
+Time taken for this data: 6.69 seconds
+849.png Optimization completed. Final PSNR improvement: 0.100138
+Time taken for this data: 6.69 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0850.png',), Episode count: 50[0m
+[92mInitial PSNR: 25.613430[0m
+Initial MSE: 0.002746[0m
+Starting pixel flip optimization for file 850.png with initial PSNR: 25.613430
+Step: 2655
+PSNR Before: 25.713293 | PSNR After: 25.713598 | Change: 0.000305 | Diff: 0.100168
+Success Ratio: 0.262147 | Flip Count: 696
+Flip Pixel: Channel=2, Row=245, Col=122
+Time taken for this data: 5.54 seconds
+PSNR diff threshold 0.1 reached at step 2655. Moving to next dataset.
+Step: 2655
+PSNR Before: 25.713598 | PSNR After: 25.713598 | Change: 0.100168
+Success Ratio: 0.262147 | Flip Count: 696
+Flip Pixel: Channel=2, Row=245, Col=122
+Time taken for this data: 5.54 seconds
+850.png Optimization completed. Final PSNR improvement: 0.100168
+Time taken for this data: 5.54 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0851.png',), Episode count: 51[0m
+[92mInitial PSNR: 26.130857[0m
+Initial MSE: 0.002437[0m
+Starting pixel flip optimization for file 851.png with initial PSNR: 26.130857
+Step: 3271
+PSNR Before: 26.230642 | PSNR After: 26.230957 | Change: 0.000315 | Diff: 0.100100
+Success Ratio: 0.209722 | Flip Count: 686
+Flip Pixel: Channel=3, Row=57, Col=127
+Time taken for this data: 7.00 seconds
+PSNR diff threshold 0.1 reached at step 3271. Moving to next dataset.
+Step: 3271
+PSNR Before: 26.230957 | PSNR After: 26.230957 | Change: 0.100100
+Success Ratio: 0.209722 | Flip Count: 686
+Flip Pixel: Channel=3, Row=57, Col=127
+Time taken for this data: 7.00 seconds
+851.png Optimization completed. Final PSNR improvement: 0.100100
+Time taken for this data: 7.00 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0852.png',), Episode count: 52[0m
+[92mInitial PSNR: 27.299000[0m
+Initial MSE: 0.001863[0m
+Starting pixel flip optimization for file 852.png with initial PSNR: 27.299000
+Step: 3488
+PSNR Before: 27.398842 | PSNR After: 27.399105 | Change: 0.000263 | Diff: 0.100105
+Success Ratio: 0.199541 | Flip Count: 696
+Flip Pixel: Channel=4, Row=71, Col=16
+Time taken for this data: 7.67 seconds
+PSNR diff threshold 0.1 reached at step 3488. Moving to next dataset.
+Step: 3488
+PSNR Before: 27.399105 | PSNR After: 27.399105 | Change: 0.100105
+Success Ratio: 0.199541 | Flip Count: 696
+Flip Pixel: Channel=4, Row=71, Col=16
+Time taken for this data: 7.67 seconds
+852.png Optimization completed. Final PSNR improvement: 0.100105
+Time taken for this data: 7.67 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0853.png',), Episode count: 53[0m
+[92mInitial PSNR: 25.308052[0m
+Initial MSE: 0.002631[0m
+Starting pixel flip optimization for file 853.png with initial PSNR: 25.308052
+Step: 2100
+PSNR Before: 25.407448 | PSNR After: 25.408123 | Change: 0.000675 | Diff: 0.100071
+Success Ratio: 0.282857 | Flip Count: 594
+Flip Pixel: Channel=3, Row=135, Col=122
+Time taken for this data: 4.53 seconds
+PSNR diff threshold 0.1 reached at step 2100. Moving to next dataset.
+Step: 2100
+PSNR Before: 25.408123 | PSNR After: 25.408123 | Change: 0.100071
+Success Ratio: 0.282857 | Flip Count: 594
+Flip Pixel: Channel=3, Row=135, Col=122
+Time taken for this data: 4.53 seconds
+853.png Optimization completed. Final PSNR improvement: 0.100071
+Time taken for this data: 4.53 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0854.png',), Episode count: 54[0m
+[92mInitial PSNR: 22.599230[0m
+Initial MSE: 0.005496[0m
+Starting pixel flip optimization for file 854.png with initial PSNR: 22.599230
+Step: 2843
+PSNR Before: 22.699112 | PSNR After: 22.699505 | Change: 0.000393 | Diff: 0.100275
+Success Ratio: 0.271544 | Flip Count: 772
+Flip Pixel: Channel=6, Row=37, Col=73
+Time taken for this data: 6.11 seconds
+PSNR diff threshold 0.1 reached at step 2843. Moving to next dataset.
+Step: 2843
+PSNR Before: 22.699505 | PSNR After: 22.699505 | Change: 0.100275
+Success Ratio: 0.271544 | Flip Count: 772
+Flip Pixel: Channel=6, Row=37, Col=73
+Time taken for this data: 6.11 seconds
+854.png Optimization completed. Final PSNR improvement: 0.100275
+Time taken for this data: 6.11 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0855.png',), Episode count: 55[0m
+[92mInitial PSNR: 24.626017[0m
+Initial MSE: 0.002565[0m
+Starting pixel flip optimization for file 855.png with initial PSNR: 24.626017
+Step: 2739
+PSNR Before: 24.725979 | PSNR After: 24.726198 | Change: 0.000219 | Diff: 0.100182
+Success Ratio: 0.221249 | Flip Count: 606
+Flip Pixel: Channel=7, Row=133, Col=20
+Time taken for this data: 5.79 seconds
+PSNR diff threshold 0.1 reached at step 2739. Moving to next dataset.
+Step: 2739
+PSNR Before: 24.726198 | PSNR After: 24.726198 | Change: 0.100182
+Success Ratio: 0.221249 | Flip Count: 606
+Flip Pixel: Channel=7, Row=133, Col=20
+Time taken for this data: 5.79 seconds
+855.png Optimization completed. Final PSNR improvement: 0.100182
+Time taken for this data: 5.79 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0856.png',), Episode count: 56[0m
+[92mInitial PSNR: 24.136284[0m
+Initial MSE: 0.002692[0m
+Starting pixel flip optimization for file 856.png with initial PSNR: 24.136284
+Step: 2370
+PSNR Before: 24.236155 | PSNR After: 24.236343 | Change: 0.000189 | Diff: 0.100060
+Success Ratio: 0.309283 | Flip Count: 733
+Flip Pixel: Channel=3, Row=89, Col=103
+Time taken for this data: 5.31 seconds
+PSNR diff threshold 0.1 reached at step 2370. Moving to next dataset.
+Step: 2370
+PSNR Before: 24.236343 | PSNR After: 24.236343 | Change: 0.100060
+Success Ratio: 0.309283 | Flip Count: 733
+Flip Pixel: Channel=3, Row=89, Col=103
+Time taken for this data: 5.31 seconds
+856.png Optimization completed. Final PSNR improvement: 0.100060
+Time taken for this data: 5.31 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0857.png',), Episode count: 57[0m
+[92mInitial PSNR: 24.660801[0m
+Initial MSE: 0.002904[0m
+Starting pixel flip optimization for file 857.png with initial PSNR: 24.660801
+Step: 3766
+PSNR Before: 24.760725 | PSNR After: 24.760839 | Change: 0.000114 | Diff: 0.100039
+Success Ratio: 0.163038 | Flip Count: 614
+Flip Pixel: Channel=4, Row=85, Col=12
+Time taken for this data: 8.02 seconds
+PSNR diff threshold 0.1 reached at step 3766. Moving to next dataset.
+Step: 3766
+PSNR Before: 24.760839 | PSNR After: 24.760839 | Change: 0.100039
+Success Ratio: 0.163038 | Flip Count: 614
+Flip Pixel: Channel=4, Row=85, Col=12
+Time taken for this data: 8.02 seconds
+857.png Optimization completed. Final PSNR improvement: 0.100039
+Time taken for this data: 8.02 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0858.png',), Episode count: 58[0m
+[92mInitial PSNR: 23.180265[0m
+Initial MSE: 0.004808[0m
+Starting pixel flip optimization for file 858.png with initial PSNR: 23.180265
+Step: 2767
+PSNR Before: 23.280251 | PSNR After: 23.280586 | Change: 0.000336 | Diff: 0.100321
+Success Ratio: 0.244308 | Flip Count: 676
+Flip Pixel: Channel=5, Row=137, Col=142
+Time taken for this data: 5.89 seconds
+PSNR diff threshold 0.1 reached at step 2767. Moving to next dataset.
+Step: 2767
+PSNR Before: 23.280586 | PSNR After: 23.280586 | Change: 0.100321
+Success Ratio: 0.244308 | Flip Count: 676
+Flip Pixel: Channel=5, Row=137, Col=142
+Time taken for this data: 5.89 seconds
+858.png Optimization completed. Final PSNR improvement: 0.100321
+Time taken for this data: 5.89 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0859.png',), Episode count: 59[0m
+[92mInitial PSNR: 24.095800[0m
+Initial MSE: 0.003894[0m
+Starting pixel flip optimization for file 859.png with initial PSNR: 24.095800
+Step: 2546
+PSNR Before: 24.195757 | PSNR After: 24.195869 | Change: 0.000113 | Diff: 0.100069
+Success Ratio: 0.306756 | Flip Count: 781
+Flip Pixel: Channel=2, Row=238, Col=188
+Time taken for this data: 5.39 seconds
+PSNR diff threshold 0.1 reached at step 2546. Moving to next dataset.
+Step: 2546
+PSNR Before: 24.195869 | PSNR After: 24.195869 | Change: 0.100069
+Success Ratio: 0.306756 | Flip Count: 781
+Flip Pixel: Channel=2, Row=238, Col=188
+Time taken for this data: 5.39 seconds
+859.png Optimization completed. Final PSNR improvement: 0.100069
+Time taken for this data: 5.39 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0860.png',), Episode count: 60[0m
+[92mInitial PSNR: 21.118393[0m
+Initial MSE: 0.007730[0m
+Starting pixel flip optimization for file 860.png with initial PSNR: 21.118393
+Step: 3092
+PSNR Before: 21.218309 | PSNR After: 21.218414 | Change: 0.000105 | Diff: 0.100021
+Success Ratio: 0.281695 | Flip Count: 871
+Flip Pixel: Channel=0, Row=244, Col=172
+Time taken for this data: 6.68 seconds
+PSNR diff threshold 0.1 reached at step 3092. Moving to next dataset.
+Step: 3092
+PSNR Before: 21.218414 | PSNR After: 21.218414 | Change: 0.100021
+Success Ratio: 0.281695 | Flip Count: 871
+Flip Pixel: Channel=0, Row=244, Col=172
+Time taken for this data: 6.69 seconds
+860.png Optimization completed. Final PSNR improvement: 0.100021
+Time taken for this data: 6.69 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0861.png',), Episode count: 61[0m
+[92mInitial PSNR: 21.232538[0m
+Initial MSE: 0.007529[0m
+Starting pixel flip optimization for file 861.png with initial PSNR: 21.232538
+Step: 3163
+PSNR Before: 21.332378 | PSNR After: 21.332550 | Change: 0.000172 | Diff: 0.100012
+Success Ratio: 0.263041 | Flip Count: 832
+Flip Pixel: Channel=6, Row=250, Col=17
+Time taken for this data: 6.67 seconds
+PSNR diff threshold 0.1 reached at step 3163. Moving to next dataset.
+Step: 3163
+PSNR Before: 21.332550 | PSNR After: 21.332550 | Change: 0.100012
+Success Ratio: 0.263041 | Flip Count: 832
+Flip Pixel: Channel=6, Row=250, Col=17
+Time taken for this data: 6.67 seconds
+861.png Optimization completed. Final PSNR improvement: 0.100012
+Time taken for this data: 6.67 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0862.png',), Episode count: 62[0m
+[92mInitial PSNR: 23.592278[0m
+Initial MSE: 0.002799[0m
+Starting pixel flip optimization for file 862.png with initial PSNR: 23.592278
+Step: 2402
+PSNR Before: 23.692257 | PSNR After: 23.692587 | Change: 0.000330 | Diff: 0.100309
+Success Ratio: 0.231890 | Flip Count: 557
+Flip Pixel: Channel=6, Row=174, Col=129
+Time taken for this data: 5.11 seconds
+PSNR diff threshold 0.1 reached at step 2402. Moving to next dataset.
+Step: 2402
+PSNR Before: 23.692587 | PSNR After: 23.692587 | Change: 0.100309
+Success Ratio: 0.231890 | Flip Count: 557
+Flip Pixel: Channel=6, Row=174, Col=129
+Time taken for this data: 5.12 seconds
+862.png Optimization completed. Final PSNR improvement: 0.100309
+Time taken for this data: 5.12 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0863.png',), Episode count: 63[0m
+[92mInitial PSNR: 26.285181[0m
+Initial MSE: 0.002297[0m
+Starting pixel flip optimization for file 863.png with initial PSNR: 26.285181
+Step: 2206
+PSNR Before: 26.385069 | PSNR After: 26.385824 | Change: 0.000755 | Diff: 0.100643
+Success Ratio: 0.278785 | Flip Count: 615
+Flip Pixel: Channel=7, Row=111, Col=13
+Time taken for this data: 4.65 seconds
+PSNR diff threshold 0.1 reached at step 2206. Moving to next dataset.
+Step: 2206
+PSNR Before: 26.385824 | PSNR After: 26.385824 | Change: 0.100643
+Success Ratio: 0.278785 | Flip Count: 615
+Flip Pixel: Channel=7, Row=111, Col=13
+Time taken for this data: 4.66 seconds
+863.png Optimization completed. Final PSNR improvement: 0.100643
+Time taken for this data: 4.66 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0864.png',), Episode count: 64[0m
+[92mInitial PSNR: 23.917171[0m
+Initial MSE: 0.001618[0m
+Starting pixel flip optimization for file 864.png with initial PSNR: 23.917171
+Step: 2242
+PSNR Before: 24.017103 | PSNR After: 24.017277 | Change: 0.000174 | Diff: 0.100105
+Success Ratio: 0.284121 | Flip Count: 637
+Flip Pixel: Channel=1, Row=251, Col=171
+Time taken for this data: 4.74 seconds
+PSNR diff threshold 0.1 reached at step 2242. Moving to next dataset.
+Step: 2242
+PSNR Before: 24.017277 | PSNR After: 24.017277 | Change: 0.100105
+Success Ratio: 0.284121 | Flip Count: 637
+Flip Pixel: Channel=1, Row=251, Col=171
+Time taken for this data: 4.74 seconds
+864.png Optimization completed. Final PSNR improvement: 0.100105
+Time taken for this data: 4.74 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0865.png',), Episode count: 65[0m
+[92mInitial PSNR: 23.895805[0m
+Initial MSE: 0.002584[0m
+Starting pixel flip optimization for file 865.png with initial PSNR: 23.895805
+Step: 2117
+PSNR Before: 23.995796 | PSNR After: 23.995892 | Change: 0.000095 | Diff: 0.100086
+Success Ratio: 0.287671 | Flip Count: 609
+Flip Pixel: Channel=2, Row=201, Col=136
+Time taken for this data: 4.45 seconds
+PSNR diff threshold 0.1 reached at step 2117. Moving to next dataset.
+Step: 2117
+PSNR Before: 23.995892 | PSNR After: 23.995892 | Change: 0.100086
+Success Ratio: 0.287671 | Flip Count: 609
+Flip Pixel: Channel=2, Row=201, Col=136
+Time taken for this data: 4.46 seconds
+865.png Optimization completed. Final PSNR improvement: 0.100086
+Time taken for this data: 4.46 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0866.png',), Episode count: 66[0m
+[92mInitial PSNR: 23.800556[0m
+Initial MSE: 0.002720[0m
+Starting pixel flip optimization for file 866.png with initial PSNR: 23.800556
+Step: 3636
+PSNR Before: 23.900442 | PSNR After: 23.900625 | Change: 0.000183 | Diff: 0.100069
+Success Ratio: 0.149615 | Flip Count: 544
+Flip Pixel: Channel=5, Row=220, Col=60
+Time taken for this data: 7.69 seconds
+PSNR diff threshold 0.1 reached at step 3636. Moving to next dataset.
+Step: 3636
+PSNR Before: 23.900625 | PSNR After: 23.900625 | Change: 0.100069
+Success Ratio: 0.149615 | Flip Count: 544
+Flip Pixel: Channel=5, Row=220, Col=60
+Time taken for this data: 7.69 seconds
+866.png Optimization completed. Final PSNR improvement: 0.100069
+Time taken for this data: 7.69 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0867.png',), Episode count: 67[0m
+[92mInitial PSNR: 23.134439[0m
+Initial MSE: 0.003783[0m
+Starting pixel flip optimization for file 867.png with initial PSNR: 23.134439
+Step: 2424
+PSNR Before: 23.234375 | PSNR After: 23.234474 | Change: 0.000099 | Diff: 0.100035
+Success Ratio: 0.286716 | Flip Count: 695
+Flip Pixel: Channel=7, Row=85, Col=165
+Time taken for this data: 5.19 seconds
+PSNR diff threshold 0.1 reached at step 2424. Moving to next dataset.
+Step: 2424
+PSNR Before: 23.234474 | PSNR After: 23.234474 | Change: 0.100035
+Success Ratio: 0.286716 | Flip Count: 695
+Flip Pixel: Channel=7, Row=85, Col=165
+Time taken for this data: 5.19 seconds
+867.png Optimization completed. Final PSNR improvement: 0.100035
+Time taken for this data: 5.19 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0868.png',), Episode count: 68[0m
+[92mInitial PSNR: 22.396740[0m
+Initial MSE: 0.005316[0m
+Starting pixel flip optimization for file 868.png with initial PSNR: 22.396740
+Step: 3172
+PSNR Before: 22.496487 | PSNR After: 22.497292 | Change: 0.000805 | Diff: 0.100552
+Success Ratio: 0.256305 | Flip Count: 813
+Flip Pixel: Channel=0, Row=113, Col=16
+Time taken for this data: 6.67 seconds
+PSNR diff threshold 0.1 reached at step 3172. Moving to next dataset.
+Step: 3172
+PSNR Before: 22.497292 | PSNR After: 22.497292 | Change: 0.100552
+Success Ratio: 0.256305 | Flip Count: 813
+Flip Pixel: Channel=0, Row=113, Col=16
+Time taken for this data: 6.67 seconds
+868.png Optimization completed. Final PSNR improvement: 0.100552
+Time taken for this data: 6.67 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0869.png',), Episode count: 69[0m
+[92mInitial PSNR: 21.905697[0m
+Initial MSE: 0.006448[0m
+Starting pixel flip optimization for file 869.png with initial PSNR: 21.905697
+Step: 3478
+PSNR Before: 22.005337 | PSNR After: 22.005756 | Change: 0.000420 | Diff: 0.100060
+Success Ratio: 0.229442 | Flip Count: 798
+Flip Pixel: Channel=7, Row=23, Col=224
+Time taken for this data: 7.29 seconds
+PSNR diff threshold 0.1 reached at step 3478. Moving to next dataset.
+Step: 3478
+PSNR Before: 22.005756 | PSNR After: 22.005756 | Change: 0.100060
+Success Ratio: 0.229442 | Flip Count: 798
+Flip Pixel: Channel=7, Row=23, Col=224
+Time taken for this data: 7.30 seconds
+869.png Optimization completed. Final PSNR improvement: 0.100060
+Time taken for this data: 7.30 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0870.png',), Episode count: 70[0m
+[92mInitial PSNR: 25.162796[0m
+Initial MSE: 0.002653[0m
+Starting pixel flip optimization for file 870.png with initial PSNR: 25.162796
+Step: 2141
+PSNR Before: 25.262611 | PSNR After: 25.262930 | Change: 0.000319 | Diff: 0.100134
+Success Ratio: 0.296123 | Flip Count: 634
+Flip Pixel: Channel=4, Row=70, Col=80
+Time taken for this data: 4.63 seconds
+PSNR diff threshold 0.1 reached at step 2141. Moving to next dataset.
+Step: 2141
+PSNR Before: 25.262930 | PSNR After: 25.262930 | Change: 0.100134
+Success Ratio: 0.296123 | Flip Count: 634
+Flip Pixel: Channel=4, Row=70, Col=80
+Time taken for this data: 4.63 seconds
+870.png Optimization completed. Final PSNR improvement: 0.100134
+Time taken for this data: 4.63 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0871.png',), Episode count: 71[0m
+[92mInitial PSNR: 24.212410[0m
+Initial MSE: 0.003528[0m
+Starting pixel flip optimization for file 871.png with initial PSNR: 24.212410
+Step: 2784
+PSNR Before: 24.312246 | PSNR After: 24.312557 | Change: 0.000311 | Diff: 0.100147
+Success Ratio: 0.218032 | Flip Count: 607
+Flip Pixel: Channel=6, Row=157, Col=167
+Time taken for this data: 5.90 seconds
+PSNR diff threshold 0.1 reached at step 2784. Moving to next dataset.
+Step: 2784
+PSNR Before: 24.312557 | PSNR After: 24.312557 | Change: 0.100147
+Success Ratio: 0.218032 | Flip Count: 607
+Flip Pixel: Channel=6, Row=157, Col=167
+Time taken for this data: 5.90 seconds
+871.png Optimization completed. Final PSNR improvement: 0.100147
+Time taken for this data: 5.90 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0872.png',), Episode count: 72[0m
+[92mInitial PSNR: 22.529919[0m
+Initial MSE: 0.005541[0m
+Starting pixel flip optimization for file 872.png with initial PSNR: 22.529919
+Step: 2948
+PSNR Before: 22.629641 | PSNR After: 22.630007 | Change: 0.000366 | Diff: 0.100088
+Success Ratio: 0.266282 | Flip Count: 785
+Flip Pixel: Channel=4, Row=142, Col=219
+Time taken for this data: 6.61 seconds
+PSNR diff threshold 0.1 reached at step 2948. Moving to next dataset.
+Step: 2948
+PSNR Before: 22.630007 | PSNR After: 22.630007 | Change: 0.100088
+Success Ratio: 0.266282 | Flip Count: 785
+Flip Pixel: Channel=4, Row=142, Col=219
+Time taken for this data: 6.61 seconds
+872.png Optimization completed. Final PSNR improvement: 0.100088
+Time taken for this data: 6.61 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0873.png',), Episode count: 73[0m
+[92mInitial PSNR: 24.672035[0m
+Initial MSE: 0.003410[0m
+Starting pixel flip optimization for file 873.png with initial PSNR: 24.672035
+Step: 2364
+PSNR Before: 24.771976 | PSNR After: 24.772156 | Change: 0.000179 | Diff: 0.100121
+Success Ratio: 0.315567 | Flip Count: 746
+Flip Pixel: Channel=2, Row=49, Col=204
+Time taken for this data: 4.98 seconds
+PSNR diff threshold 0.1 reached at step 2364. Moving to next dataset.
+Step: 2364
+PSNR Before: 24.772156 | PSNR After: 24.772156 | Change: 0.100121
+Success Ratio: 0.315567 | Flip Count: 746
+Flip Pixel: Channel=2, Row=49, Col=204
+Time taken for this data: 4.99 seconds
+873.png Optimization completed. Final PSNR improvement: 0.100121
+Time taken for this data: 4.99 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0874.png',), Episode count: 74[0m
+[92mInitial PSNR: 21.548927[0m
+Initial MSE: 0.007000[0m
+Starting pixel flip optimization for file 874.png with initial PSNR: 21.548927
+Step: 3365
+PSNR Before: 21.648741 | PSNR After: 21.648979 | Change: 0.000238 | Diff: 0.100052
+Success Ratio: 0.193462 | Flip Count: 651
+Flip Pixel: Channel=2, Row=90, Col=61
+Time taken for this data: 7.19 seconds
+PSNR diff threshold 0.1 reached at step 3365. Moving to next dataset.
+Step: 3365
+PSNR Before: 21.648979 | PSNR After: 21.648979 | Change: 0.100052
+Success Ratio: 0.193462 | Flip Count: 651
+Flip Pixel: Channel=2, Row=90, Col=61
+Time taken for this data: 7.20 seconds
+874.png Optimization completed. Final PSNR improvement: 0.100052
+Time taken for this data: 7.20 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0875.png',), Episode count: 75[0m
+[92mInitial PSNR: 23.584976[0m
+Initial MSE: 0.004346[0m
+Starting pixel flip optimization for file 875.png with initial PSNR: 23.584976
+Step: 3312
+PSNR Before: 23.684885 | PSNR After: 23.685076 | Change: 0.000191 | Diff: 0.100100
+Success Ratio: 0.249698 | Flip Count: 827
+Flip Pixel: Channel=3, Row=119, Col=112
+Time taken for this data: 7.09 seconds
+PSNR diff threshold 0.1 reached at step 3312. Moving to next dataset.
+Step: 3312
+PSNR Before: 23.685076 | PSNR After: 23.685076 | Change: 0.100100
+Success Ratio: 0.249698 | Flip Count: 827
+Flip Pixel: Channel=3, Row=119, Col=112
+Time taken for this data: 7.09 seconds
+875.png Optimization completed. Final PSNR improvement: 0.100100
+Time taken for this data: 7.09 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0876.png',), Episode count: 76[0m
+[92mInitial PSNR: 24.660341[0m
+Initial MSE: 0.003313[0m
+Starting pixel flip optimization for file 876.png with initial PSNR: 24.660341
+Step: 4815
+PSNR Before: 24.760338 | PSNR After: 24.760536 | Change: 0.000198 | Diff: 0.100195
+Success Ratio: 0.211630 | Flip Count: 1019
+Flip Pixel: Channel=3, Row=171, Col=19
+Time taken for this data: 10.27 seconds
+PSNR diff threshold 0.1 reached at step 4815. Moving to next dataset.
+Step: 4815
+PSNR Before: 24.760536 | PSNR After: 24.760536 | Change: 0.100195
+Success Ratio: 0.211630 | Flip Count: 1019
+Flip Pixel: Channel=3, Row=171, Col=19
+Time taken for this data: 10.27 seconds
+876.png Optimization completed. Final PSNR improvement: 0.100195
+Time taken for this data: 10.27 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0877.png',), Episode count: 77[0m
+[92mInitial PSNR: 26.706049[0m
+Initial MSE: 0.001532[0m
+Starting pixel flip optimization for file 877.png with initial PSNR: 26.706049
+Step: 1823
+PSNR Before: 26.805887 | PSNR After: 26.806076 | Change: 0.000189 | Diff: 0.100027
+Success Ratio: 0.277564 | Flip Count: 506
+Flip Pixel: Channel=0, Row=217, Col=4
+Time taken for this data: 3.93 seconds
+PSNR diff threshold 0.1 reached at step 1823. Moving to next dataset.
+Step: 1823
+PSNR Before: 26.806076 | PSNR After: 26.806076 | Change: 0.100027
+Success Ratio: 0.277564 | Flip Count: 506
+Flip Pixel: Channel=0, Row=217, Col=4
+Time taken for this data: 3.93 seconds
+877.png Optimization completed. Final PSNR improvement: 0.100027
+Time taken for this data: 3.93 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0878.png',), Episode count: 78[0m
+[92mInitial PSNR: 25.622936[0m
+Initial MSE: 0.002740[0m
+Starting pixel flip optimization for file 878.png with initial PSNR: 25.622936
+Step: 2456
+PSNR Before: 25.722816 | PSNR After: 25.722958 | Change: 0.000141 | Diff: 0.100021
+Success Ratio: 0.272801 | Flip Count: 670
+Flip Pixel: Channel=2, Row=162, Col=182
+Time taken for this data: 5.21 seconds
+PSNR diff threshold 0.1 reached at step 2456. Moving to next dataset.
+Step: 2456
+PSNR Before: 25.722958 | PSNR After: 25.722958 | Change: 0.100021
+Success Ratio: 0.272801 | Flip Count: 670
+Flip Pixel: Channel=2, Row=162, Col=182
+Time taken for this data: 5.21 seconds
+878.png Optimization completed. Final PSNR improvement: 0.100021
+Time taken for this data: 5.21 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0879.png',), Episode count: 79[0m
+[92mInitial PSNR: 22.050308[0m
+Initial MSE: 0.006091[0m
+Starting pixel flip optimization for file 879.png with initial PSNR: 22.050308
+Step: 3114
+PSNR Before: 22.150278 | PSNR After: 22.150463 | Change: 0.000185 | Diff: 0.100155
+Success Ratio: 0.265896 | Flip Count: 828
+Flip Pixel: Channel=1, Row=158, Col=171
+Time taken for this data: 6.55 seconds
+PSNR diff threshold 0.1 reached at step 3114. Moving to next dataset.
+Step: 3114
+PSNR Before: 22.150463 | PSNR After: 22.150463 | Change: 0.100155
+Success Ratio: 0.265896 | Flip Count: 828
+Flip Pixel: Channel=1, Row=158, Col=171
+Time taken for this data: 6.56 seconds
+879.png Optimization completed. Final PSNR improvement: 0.100155
+Time taken for this data: 6.56 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0880.png',), Episode count: 80[0m
+[92mInitial PSNR: 24.032135[0m
+Initial MSE: 0.003077[0m
+Starting pixel flip optimization for file 880.png with initial PSNR: 24.032135
+Step: 2547
+PSNR Before: 24.131956 | PSNR After: 24.132156 | Change: 0.000200 | Diff: 0.100021
+Success Ratio: 0.228504 | Flip Count: 582
+Flip Pixel: Channel=7, Row=4, Col=73
+Time taken for this data: 5.50 seconds
+PSNR diff threshold 0.1 reached at step 2547. Moving to next dataset.
+Step: 2547
+PSNR Before: 24.132156 | PSNR After: 24.132156 | Change: 0.100021
+Success Ratio: 0.228504 | Flip Count: 582
+Flip Pixel: Channel=7, Row=4, Col=73
+Time taken for this data: 5.50 seconds
+880.png Optimization completed. Final PSNR improvement: 0.100021
+Time taken for this data: 5.50 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0881.png',), Episode count: 81[0m
+[92mInitial PSNR: 20.960083[0m
+Initial MSE: 0.007954[0m
+Starting pixel flip optimization for file 881.png with initial PSNR: 20.960083
+Step: 3301
+PSNR Before: 21.059910 | PSNR After: 21.060202 | Change: 0.000292 | Diff: 0.100119
+Success Ratio: 0.273553 | Flip Count: 903
+Flip Pixel: Channel=1, Row=222, Col=139
+Time taken for this data: 6.94 seconds
+PSNR diff threshold 0.1 reached at step 3301. Moving to next dataset.
+Step: 3301
+PSNR Before: 21.060202 | PSNR After: 21.060202 | Change: 0.100119
+Success Ratio: 0.273553 | Flip Count: 903
+Flip Pixel: Channel=1, Row=222, Col=139
+Time taken for this data: 6.95 seconds
+881.png Optimization completed. Final PSNR improvement: 0.100119
+Time taken for this data: 6.95 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0882.png',), Episode count: 82[0m
+[92mInitial PSNR: 23.104404[0m
+Initial MSE: 0.004893[0m
+Starting pixel flip optimization for file 882.png with initial PSNR: 23.104404
+Step: 3609
+PSNR Before: 23.204357 | PSNR After: 23.204458 | Change: 0.000101 | Diff: 0.100054
+Success Ratio: 0.236354 | Flip Count: 853
+Flip Pixel: Channel=3, Row=170, Col=32
+Time taken for this data: 7.64 seconds
+PSNR diff threshold 0.1 reached at step 3609. Moving to next dataset.
+Step: 3609
+PSNR Before: 23.204458 | PSNR After: 23.204458 | Change: 0.100054
+Success Ratio: 0.236354 | Flip Count: 853
+Flip Pixel: Channel=3, Row=170, Col=32
+Time taken for this data: 7.64 seconds
+882.png Optimization completed. Final PSNR improvement: 0.100054
+Time taken for this data: 7.64 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0883.png',), Episode count: 83[0m
+[92mInitial PSNR: 24.441166[0m
+Initial MSE: 0.003568[0m
+Starting pixel flip optimization for file 883.png with initial PSNR: 24.441166
+Step: 2509
+PSNR Before: 24.540739 | PSNR After: 24.541185 | Change: 0.000446 | Diff: 0.100019
+Success Ratio: 0.287365 | Flip Count: 721
+Flip Pixel: Channel=3, Row=57, Col=150
+Time taken for this data: 5.32 seconds
+PSNR diff threshold 0.1 reached at step 2509. Moving to next dataset.
+Step: 2509
+PSNR Before: 24.541185 | PSNR After: 24.541185 | Change: 0.100019
+Success Ratio: 0.287365 | Flip Count: 721
+Flip Pixel: Channel=3, Row=57, Col=150
+Time taken for this data: 5.32 seconds
+883.png Optimization completed. Final PSNR improvement: 0.100019
+Time taken for this data: 5.32 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0884.png',), Episode count: 84[0m
+[92mInitial PSNR: 23.378365[0m
+Initial MSE: 0.004594[0m
+Starting pixel flip optimization for file 884.png with initial PSNR: 23.378365
+Step: 2669
+PSNR Before: 23.478149 | PSNR After: 23.478718 | Change: 0.000568 | Diff: 0.100353
+Success Ratio: 0.282877 | Flip Count: 755
+Flip Pixel: Channel=4, Row=119, Col=138
+Time taken for this data: 5.67 seconds
+PSNR diff threshold 0.1 reached at step 2669. Moving to next dataset.
+Step: 2669
+PSNR Before: 23.478718 | PSNR After: 23.478718 | Change: 0.100353
+Success Ratio: 0.282877 | Flip Count: 755
+Flip Pixel: Channel=4, Row=119, Col=138
+Time taken for this data: 5.67 seconds
+884.png Optimization completed. Final PSNR improvement: 0.100353
+Time taken for this data: 5.67 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0885.png',), Episode count: 85[0m
+[92mInitial PSNR: 24.157370[0m
+Initial MSE: 0.003839[0m
+Starting pixel flip optimization for file 885.png with initial PSNR: 24.157370
+Step: 2419
+PSNR Before: 24.257278 | PSNR After: 24.257435 | Change: 0.000156 | Diff: 0.100065
+Success Ratio: 0.304258 | Flip Count: 736
+Flip Pixel: Channel=6, Row=61, Col=246
+Time taken for this data: 5.12 seconds
+PSNR diff threshold 0.1 reached at step 2419. Moving to next dataset.
+Step: 2419
+PSNR Before: 24.257435 | PSNR After: 24.257435 | Change: 0.100065
+Success Ratio: 0.304258 | Flip Count: 736
+Flip Pixel: Channel=6, Row=61, Col=246
+Time taken for this data: 5.12 seconds
+885.png Optimization completed. Final PSNR improvement: 0.100065
+Time taken for this data: 5.12 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0886.png',), Episode count: 86[0m
+[92mInitial PSNR: 24.109652[0m
+Initial MSE: 0.003467[0m
+Starting pixel flip optimization for file 886.png with initial PSNR: 24.109652
+Step: 2674
+PSNR Before: 24.209110 | PSNR After: 24.209738 | Change: 0.000628 | Diff: 0.100086
+Success Ratio: 0.259162 | Flip Count: 693
+Flip Pixel: Channel=2, Row=131, Col=83
+Time taken for this data: 5.70 seconds
+PSNR diff threshold 0.1 reached at step 2674. Moving to next dataset.
+Step: 2674
+PSNR Before: 24.209738 | PSNR After: 24.209738 | Change: 0.100086
+Success Ratio: 0.259162 | Flip Count: 693
+Flip Pixel: Channel=2, Row=131, Col=83
+Time taken for this data: 5.70 seconds
+886.png Optimization completed. Final PSNR improvement: 0.100086
+Time taken for this data: 5.70 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0887.png',), Episode count: 87[0m
+[92mInitial PSNR: 20.205133[0m
+Initial MSE: 0.009539[0m
+Starting pixel flip optimization for file 887.png with initial PSNR: 20.205133
+Step: 4075
+PSNR Before: 20.304703 | PSNR After: 20.305159 | Change: 0.000456 | Diff: 0.100025
+Success Ratio: 0.266012 | Flip Count: 1084
+Flip Pixel: Channel=0, Row=232, Col=56
+Time taken for this data: 8.65 seconds
+PSNR diff threshold 0.1 reached at step 4075. Moving to next dataset.
+Step: 4075
+PSNR Before: 20.305159 | PSNR After: 20.305159 | Change: 0.100025
+Success Ratio: 0.266012 | Flip Count: 1084
+Flip Pixel: Channel=0, Row=232, Col=56
+Time taken for this data: 8.65 seconds
+887.png Optimization completed. Final PSNR improvement: 0.100025
+Time taken for this data: 8.65 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0888.png',), Episode count: 88[0m
+[92mInitial PSNR: 25.261353[0m
+Initial MSE: 0.002978[0m
+Starting pixel flip optimization for file 888.png with initial PSNR: 25.261353
+Step: 1996
+PSNR Before: 25.360924 | PSNR After: 25.361561 | Change: 0.000637 | Diff: 0.100208
+Success Ratio: 0.296092 | Flip Count: 591
+Flip Pixel: Channel=2, Row=233, Col=105
+Time taken for this data: 4.18 seconds
+PSNR diff threshold 0.1 reached at step 1996. Moving to next dataset.
+Step: 1996
+PSNR Before: 25.361561 | PSNR After: 25.361561 | Change: 0.100208
+Success Ratio: 0.296092 | Flip Count: 591
+Flip Pixel: Channel=2, Row=233, Col=105
+Time taken for this data: 4.18 seconds
+888.png Optimization completed. Final PSNR improvement: 0.100208
+Time taken for this data: 4.18 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0889.png',), Episode count: 89[0m
+[92mInitial PSNR: 25.306967[0m
+Initial MSE: 0.002946[0m
+Starting pixel flip optimization for file 889.png with initial PSNR: 25.306967
+Step: 2771
+PSNR Before: 25.406921 | PSNR After: 25.407078 | Change: 0.000156 | Diff: 0.100111
+Success Ratio: 0.227716 | Flip Count: 631
+Flip Pixel: Channel=4, Row=81, Col=115
+Time taken for this data: 5.92 seconds
+PSNR diff threshold 0.1 reached at step 2771. Moving to next dataset.
+Step: 2771
+PSNR Before: 25.407078 | PSNR After: 25.407078 | Change: 0.100111
+Success Ratio: 0.227716 | Flip Count: 631
+Flip Pixel: Channel=4, Row=81, Col=115
+Time taken for this data: 5.92 seconds
+889.png Optimization completed. Final PSNR improvement: 0.100111
+Time taken for this data: 5.92 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0890.png',), Episode count: 90[0m
+[92mInitial PSNR: 24.401360[0m
+Initial MSE: 0.003630[0m
+Starting pixel flip optimization for file 890.png with initial PSNR: 24.401360
+Step: 2500
+PSNR Before: 24.501064 | PSNR After: 24.501587 | Change: 0.000523 | Diff: 0.100227
+Success Ratio: 0.256800 | Flip Count: 642
+Flip Pixel: Channel=2, Row=216, Col=100
+Time taken for this data: 5.35 seconds
+PSNR diff threshold 0.1 reached at step 2500. Moving to next dataset.
+Step: 2500
+PSNR Before: 24.501587 | PSNR After: 24.501587 | Change: 0.100227
+Success Ratio: 0.256800 | Flip Count: 642
+Flip Pixel: Channel=2, Row=216, Col=100
+Time taken for this data: 5.35 seconds
+890.png Optimization completed. Final PSNR improvement: 0.100227
+Time taken for this data: 5.35 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0891.png',), Episode count: 91[0m
+[92mInitial PSNR: 25.754234[0m
+Initial MSE: 0.002514[0m
+Starting pixel flip optimization for file 891.png with initial PSNR: 25.754234
+Step: 2700
+PSNR Before: 25.854141 | PSNR After: 25.854254 | Change: 0.000113 | Diff: 0.100019
+Success Ratio: 0.235926 | Flip Count: 637
+Flip Pixel: Channel=5, Row=213, Col=115
+Time taken for this data: 6.08 seconds
+PSNR diff threshold 0.1 reached at step 2700. Moving to next dataset.
+Step: 2700
+PSNR Before: 25.854254 | PSNR After: 25.854254 | Change: 0.100019
+Success Ratio: 0.235926 | Flip Count: 637
+Flip Pixel: Channel=5, Row=213, Col=115
+Time taken for this data: 6.08 seconds
+891.png Optimization completed. Final PSNR improvement: 0.100019
+Time taken for this data: 6.08 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0892.png',), Episode count: 92[0m
+[92mInitial PSNR: 23.470695[0m
+Initial MSE: 0.003627[0m
+Starting pixel flip optimization for file 892.png with initial PSNR: 23.470695
+Step: 2156
+PSNR Before: 23.570669 | PSNR After: 23.570766 | Change: 0.000097 | Diff: 0.100071
+Success Ratio: 0.282931 | Flip Count: 610
+Flip Pixel: Channel=1, Row=11, Col=188
+Time taken for this data: 4.61 seconds
+PSNR diff threshold 0.1 reached at step 2156. Moving to next dataset.
+Step: 2156
+PSNR Before: 23.570766 | PSNR After: 23.570766 | Change: 0.100071
+Success Ratio: 0.282931 | Flip Count: 610
+Flip Pixel: Channel=1, Row=11, Col=188
+Time taken for this data: 4.61 seconds
+892.png Optimization completed. Final PSNR improvement: 0.100071
+Time taken for this data: 4.61 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0893.png',), Episode count: 93[0m
+[92mInitial PSNR: 28.432060[0m
+Initial MSE: 0.000715[0m
+Starting pixel flip optimization for file 893.png with initial PSNR: 28.432060
+Step: 2132
+PSNR Before: 28.531982 | PSNR After: 28.532114 | Change: 0.000132 | Diff: 0.100054
+Success Ratio: 0.238274 | Flip Count: 508
+Flip Pixel: Channel=7, Row=52, Col=2
+Time taken for this data: 4.45 seconds
+PSNR diff threshold 0.1 reached at step 2132. Moving to next dataset.
+Step: 2132
+PSNR Before: 28.532114 | PSNR After: 28.532114 | Change: 0.100054
+Success Ratio: 0.238274 | Flip Count: 508
+Flip Pixel: Channel=7, Row=52, Col=2
+Time taken for this data: 4.46 seconds
+893.png Optimization completed. Final PSNR improvement: 0.100054
+Time taken for this data: 4.46 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0894.png',), Episode count: 94[0m
+[92mInitial PSNR: 26.589296[0m
+Initial MSE: 0.002091[0m
+Starting pixel flip optimization for file 894.png with initial PSNR: 26.589296
+Step: 2719
+PSNR Before: 26.689184 | PSNR After: 26.689337 | Change: 0.000153 | Diff: 0.100040
+Success Ratio: 0.239058 | Flip Count: 650
+Flip Pixel: Channel=3, Row=221, Col=171
+Time taken for this data: 5.72 seconds
+PSNR diff threshold 0.1 reached at step 2719. Moving to next dataset.
+Step: 2719
+PSNR Before: 26.689337 | PSNR After: 26.689337 | Change: 0.100040
+Success Ratio: 0.239058 | Flip Count: 650
+Flip Pixel: Channel=3, Row=221, Col=171
+Time taken for this data: 5.72 seconds
+894.png Optimization completed. Final PSNR improvement: 0.100040
+Time taken for this data: 5.72 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0895.png',), Episode count: 95[0m
+[92mInitial PSNR: 24.011387[0m
+Initial MSE: 0.003971[0m
+Starting pixel flip optimization for file 895.png with initial PSNR: 24.011387
+Step: 2842
+PSNR Before: 24.111115 | PSNR After: 24.111490 | Change: 0.000376 | Diff: 0.100103
+Success Ratio: 0.300141 | Flip Count: 853
+Flip Pixel: Channel=1, Row=130, Col=83
+Time taken for this data: 6.18 seconds
+PSNR diff threshold 0.1 reached at step 2842. Moving to next dataset.
+Step: 2842
+PSNR Before: 24.111490 | PSNR After: 24.111490 | Change: 0.100103
+Success Ratio: 0.300141 | Flip Count: 853
+Flip Pixel: Channel=1, Row=130, Col=83
+Time taken for this data: 6.18 seconds
+895.png Optimization completed. Final PSNR improvement: 0.100103
+Time taken for this data: 6.18 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0896.png',), Episode count: 96[0m
+[92mInitial PSNR: 22.952579[0m
+Initial MSE: 0.004601[0m
+Starting pixel flip optimization for file 896.png with initial PSNR: 22.952579
+Step: 5228
+PSNR Before: 23.052563 | PSNR After: 23.052849 | Change: 0.000286 | Diff: 0.100269
+Success Ratio: 0.153405 | Flip Count: 802
+Flip Pixel: Channel=3, Row=220, Col=85
+Time taken for this data: 11.20 seconds
+PSNR diff threshold 0.1 reached at step 5228. Moving to next dataset.
+Step: 5228
+PSNR Before: 23.052849 | PSNR After: 23.052849 | Change: 0.100269
+Success Ratio: 0.153405 | Flip Count: 802
+Flip Pixel: Channel=3, Row=220, Col=85
+Time taken for this data: 11.21 seconds
+896.png Optimization completed. Final PSNR improvement: 0.100269
+Time taken for this data: 11.21 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0897.png',), Episode count: 97[0m
+[92mInitial PSNR: 22.404663[0m
+Initial MSE: 0.005658[0m
+Starting pixel flip optimization for file 897.png with initial PSNR: 22.404663
+Step: 3672
+PSNR Before: 22.504652 | PSNR After: 22.504732 | Change: 0.000080 | Diff: 0.100069
+Success Ratio: 0.239379 | Flip Count: 879
+Flip Pixel: Channel=2, Row=42, Col=251
+Time taken for this data: 7.75 seconds
+PSNR diff threshold 0.1 reached at step 3672. Moving to next dataset.
+Step: 3672
+PSNR Before: 22.504732 | PSNR After: 22.504732 | Change: 0.100069
+Success Ratio: 0.239379 | Flip Count: 879
+Flip Pixel: Channel=2, Row=42, Col=251
+Time taken for this data: 7.75 seconds
+897.png Optimization completed. Final PSNR improvement: 0.100069
+Time taken for this data: 7.75 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0898.png',), Episode count: 98[0m
+[92mInitial PSNR: 23.356855[0m
+Initial MSE: 0.004617[0m
+Starting pixel flip optimization for file 898.png with initial PSNR: 23.356855
+Step: 2612
+PSNR Before: 23.456686 | PSNR After: 23.456934 | Change: 0.000248 | Diff: 0.100079
+Success Ratio: 0.271822 | Flip Count: 710
+Flip Pixel: Channel=1, Row=114, Col=213
+Time taken for this data: 5.56 seconds
+PSNR diff threshold 0.1 reached at step 2612. Moving to next dataset.
+Step: 2612
+PSNR Before: 23.456934 | PSNR After: 23.456934 | Change: 0.100079
+Success Ratio: 0.271822 | Flip Count: 710
+Flip Pixel: Channel=1, Row=114, Col=213
+Time taken for this data: 5.56 seconds
+898.png Optimization completed. Final PSNR improvement: 0.100079
+Time taken for this data: 5.56 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0899.png',), Episode count: 99[0m
+[92mInitial PSNR: 23.964359[0m
+Initial MSE: 0.003982[0m
+Starting pixel flip optimization for file 899.png with initial PSNR: 23.964359
+Step: 3092
+PSNR Before: 24.064281 | PSNR After: 24.064533 | Change: 0.000252 | Diff: 0.100174
+Success Ratio: 0.262290 | Flip Count: 811
+Flip Pixel: Channel=0, Row=30, Col=212
+Time taken for this data: 6.65 seconds
+PSNR diff threshold 0.1 reached at step 3092. Moving to next dataset.
+Step: 3092
+PSNR Before: 24.064533 | PSNR After: 24.064533 | Change: 0.100174
+Success Ratio: 0.262290 | Flip Count: 811
+Flip Pixel: Channel=0, Row=30, Col=212
+Time taken for this data: 6.65 seconds
+899.png Optimization completed. Final PSNR improvement: 0.100174
+Time taken for this data: 6.65 seconds
+
+
+
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0900.png',), Episode count: 100[0m
+[92mInitial PSNR: 24.190754[0m
+Initial MSE: 0.003810[0m
+Starting pixel flip optimization for file 900.png with initial PSNR: 24.190754
+Step: 3415
+PSNR Before: 24.290752 | PSNR After: 24.290798 | Change: 0.000046 | Diff: 0.100044
+Success Ratio: 0.228990 | Flip Count: 782
+Flip Pixel: Channel=4, Row=209, Col=104
+Time taken for this data: 7.34 seconds
+PSNR diff threshold 0.1 reached at step 3415. Moving to next dataset.
+Step: 3415
+PSNR Before: 24.290798 | PSNR After: 24.290798 | Change: 0.100044
+Success Ratio: 0.228990 | Flip Count: 782
+Flip Pixel: Channel=4, Row=209, Col=104
+Time taken for this data: 7.35 seconds
+900.png Optimization completed. Final PSNR improvement: 0.100044
+Time taken for this data: 7.35 seconds
+
+
+
+[40;93m[INFO] Reached the end of dataset. Restarting from the beginning.[0m
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0801.png',), Episode count: 101[0m
+[92mInitial PSNR: 24.224718[0m
+Initial MSE: 0.003405[0m
+Starting pixel flip optimization for file 901.png with initial PSNR: 24.224718
+Step: 3976
+PSNR Before: 24.324158 | PSNR After: 24.324718 | Change: 0.000561 | Diff: 0.100000
+Success Ratio: 0.195926 | Flip Count: 779
+Flip Pixel: Channel=5, Row=3, Col=238
+Time taken for this data: 8.42 seconds
+PSNR diff threshold 0.1 reached at step 3976. Moving to next dataset.
+Step: 3976
+PSNR Before: 24.324718 | PSNR After: 24.324718 | Change: 0.100000
+Success Ratio: 0.195926 | Flip Count: 779
+Flip Pixel: Channel=5, Row=3, Col=238
+Time taken for this data: 8.42 seconds
+901.png Optimization completed. Final PSNR improvement: 0.100000
+Time taken for this data: 8.42 seconds
+
+
+
