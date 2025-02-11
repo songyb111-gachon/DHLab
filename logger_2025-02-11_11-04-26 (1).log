@@ -1,0 +1,2804 @@
+이 메시지는 콘솔과 파일에 동시에 기록됩니다.
+이 메시지도 로그에 기록됩니다.
+torch.Size([1, 8, 256, 256])
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0801.png',), Episode count: 1[0m
+[92mInitial PSNR: 24.226343[0m
+Initial MSE: 0.003403[0m
+Step: 4191   | Initial PSNR: 24.226343
+PSNR After: 24.326363 | Change: 0.000042 | Diff: 0.100019
+Reward: 0.03 | Success Ratio: 0.187306 | Flip Count: 785
+Flip Pixel: Channel=[1], Row=[165], Col=[12]
+Time taken for this data: 15.28 seconds
+Step: 4191   | Initial PSNR: 24.226343
+PSNR After: 24.326363 | Change: 0.000042 | Diff: 0.100019
+Reward: 0.03 | Success Ratio: 0.187306 | Flip Count: 785
+Flip Pixel: Channel=[1], Row=[165], Col=[12]
+Time taken for this data: 15.28 seconds
+Episode 1: Total Reward: -792.1328997537998
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0802.png',), Episode count: 2[0m
+[92mInitial PSNR: 25.081959[0m
+Initial MSE: 0.002206[0m
+Step: 2003   | Initial PSNR: 25.081959
+PSNR After: 25.182001 | Change: 0.000050 | Diff: 0.100042
+Reward: 0.04 | Success Ratio: 0.285072 | Flip Count: 571
+Flip Pixel: Channel=[2], Row=[171], Col=[201]
+Time taken for this data: 7.00 seconds
+Step: 2003   | Initial PSNR: 25.081959
+PSNR After: 25.182001 | Change: 0.000050 | Diff: 0.100042
+Reward: 0.04 | Success Ratio: 0.285072 | Flip Count: 571
+Flip Pixel: Channel=[2], Row=[171], Col=[201]
+Time taken for this data: 7.00 seconds
+Episode 2: Total Reward: -338.1239516867179
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0803.png',), Episode count: 3[0m
+[92mInitial PSNR: 24.374054[0m
+Initial MSE: 0.002694[0m
+Step: 2210   | Initial PSNR: 24.374054
+PSNR After: 24.474104 | Change: 0.000368 | Diff: 0.100050
+Reward: 0.29 | Success Ratio: 0.270588 | Flip Count: 598
+Flip Pixel: Channel=[1], Row=[219], Col=[120]
+Time taken for this data: 7.69 seconds
+Step: 2210   | Initial PSNR: 24.374054
+PSNR After: 24.474104 | Change: 0.000368 | Diff: 0.100050
+Reward: 0.29 | Success Ratio: 0.270588 | Flip Count: 598
+Flip Pixel: Channel=[1], Row=[219], Col=[120]
+Time taken for this data: 7.70 seconds
+Episode 3: Total Reward: -400.02637884620526
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0804.png',), Episode count: 4[0m
+[92mInitial PSNR: 24.182537[0m
+Initial MSE: 0.003132[0m
+Step: 2496   | Initial PSNR: 24.182537
+PSNR After: 24.282604 | Change: 0.000074 | Diff: 0.100067
+Reward: 0.06 | Success Ratio: 0.282853 | Flip Count: 706
+Flip Pixel: Channel=[1], Row=[198], Col=[126]
+Time taken for this data: 8.84 seconds
+Step: 2496   | Initial PSNR: 24.182537
+PSNR After: 24.282604 | Change: 0.000074 | Diff: 0.100067
+Reward: 0.06 | Success Ratio: 0.282853 | Flip Count: 706
+Flip Pixel: Channel=[1], Row=[198], Col=[126]
+Time taken for this data: 8.84 seconds
+Episode 4: Total Reward: -325.06609054211754
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0805.png',), Episode count: 5[0m
+[92mInitial PSNR: 22.618557[0m
+Initial MSE: 0.005472[0m
+Step: 4332   | Initial PSNR: 22.618557
+PSNR After: 22.718565 | Change: 0.000088 | Diff: 0.100008
+Reward: 0.07 | Success Ratio: 0.185596 | Flip Count: 804
+Flip Pixel: Channel=[1], Row=[217], Col=[194]
+Time taken for this data: 15.32 seconds
+Step: 4332   | Initial PSNR: 22.618557
+PSNR After: 22.718565 | Change: 0.000088 | Diff: 0.100008
+Reward: 0.07 | Success Ratio: 0.185596 | Flip Count: 804
+Flip Pixel: Channel=[1], Row=[217], Col=[194]
+Time taken for this data: 15.32 seconds
+Episode 5: Total Reward: -862.8803074670402
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0806.png',), Episode count: 6[0m
+[92mInitial PSNR: 24.093254[0m
+Initial MSE: 0.003281[0m
+Step: 3555   | Initial PSNR: 24.093254
+PSNR After: 24.193325 | Change: 0.000198 | Diff: 0.100071
+Reward: 0.16 | Success Ratio: 0.230380 | Flip Count: 819
+Flip Pixel: Channel=[6], Row=[146], Col=[234]
+Time taken for this data: 12.55 seconds
+Step: 3555   | Initial PSNR: 24.093254
+PSNR After: 24.193325 | Change: 0.000198 | Diff: 0.100071
+Reward: 0.16 | Success Ratio: 0.230380 | Flip Count: 819
+Flip Pixel: Channel=[6], Row=[146], Col=[234]
+Time taken for this data: 12.55 seconds
+Episode 6: Total Reward: -603.2448238539733
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0807.png',), Episode count: 7[0m
+[92mInitial PSNR: 25.432899[0m
+Initial MSE: 0.002818[0m
+Step: 2281   | Initial PSNR: 25.432899
+PSNR After: 25.532936 | Change: 0.000071 | Diff: 0.100037
+Reward: 0.06 | Success Ratio: 0.263043 | Flip Count: 600
+Flip Pixel: Channel=[1], Row=[112], Col=[157]
+Time taken for this data: 8.03 seconds
+Step: 2281   | Initial PSNR: 25.432899
+PSNR After: 25.532936 | Change: 0.000071 | Diff: 0.100037
+Reward: 0.06 | Success Ratio: 0.263043 | Flip Count: 600
+Flip Pixel: Channel=[1], Row=[112], Col=[157]
+Time taken for this data: 8.04 seconds
+Episode 7: Total Reward: -388.83399810238654
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0808.png',), Episode count: 8[0m
+[92mInitial PSNR: 21.428085[0m
+Initial MSE: 0.007198[0m
+Step: 3961   | Initial PSNR: 21.428085
+PSNR After: 21.528101 | Change: 0.000051 | Diff: 0.100016
+Reward: 0.04 | Success Ratio: 0.248422 | Flip Count: 984
+Flip Pixel: Channel=[6], Row=[220], Col=[145]
+Time taken for this data: 14.30 seconds
+Step: 3961   | Initial PSNR: 21.428085
+PSNR After: 21.528101 | Change: 0.000051 | Diff: 0.100016
+Reward: 0.04 | Success Ratio: 0.248422 | Flip Count: 984
+Flip Pixel: Channel=[6], Row=[220], Col=[145]
+Time taken for this data: 14.31 seconds
+Episode 8: Total Reward: -436.83694147878055
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0809.png',), Episode count: 9[0m
+[92mInitial PSNR: 24.290531[0m
+Initial MSE: 0.003162[0m
+Step: 2654   | Initial PSNR: 24.290531
+PSNR After: 24.390701 | Change: 0.000198 | Diff: 0.100170
+Reward: 0.16 | Success Ratio: 0.217031 | Flip Count: 576
+Flip Pixel: Channel=[2], Row=[124], Col=[165]
+Time taken for this data: 9.41 seconds
+Step: 2654   | Initial PSNR: 24.290531
+PSNR After: 24.390701 | Change: 0.000198 | Diff: 0.100170
+Reward: 0.16 | Success Ratio: 0.217031 | Flip Count: 576
+Flip Pixel: Channel=[2], Row=[124], Col=[165]
+Time taken for this data: 9.41 seconds
+Episode 9: Total Reward: -652.0165540009004
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0810.png',), Episode count: 10[0m
+[92mInitial PSNR: 22.468155[0m
+Initial MSE: 0.004410[0m
+Step: 2461   | Initial PSNR: 22.468155
+PSNR After: 22.568226 | Change: 0.000225 | Diff: 0.100071
+Reward: 0.18 | Success Ratio: 0.310443 | Flip Count: 764
+Flip Pixel: Channel=[6], Row=[108], Col=[191]
+Time taken for this data: 8.68 seconds
+Step: 2461   | Initial PSNR: 22.468155
+PSNR After: 22.568226 | Change: 0.000225 | Diff: 0.100071
+Reward: 0.18 | Success Ratio: 0.310443 | Flip Count: 764
+Flip Pixel: Channel=[6], Row=[108], Col=[191]
+Time taken for this data: 8.68 seconds
+Episode 10: Total Reward: -218.5530833661619
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0811.png',), Episode count: 11[0m
+[92mInitial PSNR: 27.342958[0m
+Initial MSE: 0.001239[0m
+Step: 2806   | Initial PSNR: 27.342958
+PSNR After: 27.443037 | Change: 0.000154 | Diff: 0.100079
+Reward: 0.12 | Success Ratio: 0.231646 | Flip Count: 650
+Flip Pixel: Channel=[6], Row=[226], Col=[51]
+Time taken for this data: 9.92 seconds
+Step: 2806   | Initial PSNR: 27.342958
+PSNR After: 27.443037 | Change: 0.000154 | Diff: 0.100079
+Reward: 0.12 | Success Ratio: 0.231646 | Flip Count: 650
+Flip Pixel: Channel=[6], Row=[226], Col=[51]
+Time taken for this data: 9.92 seconds
+Episode 11: Total Reward: -455.9051260084008
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0812.png',), Episode count: 12[0m
+[92mInitial PSNR: 26.354034[0m
+Initial MSE: 0.002155[0m
+Step: 4892   | Initial PSNR: 26.354034
+PSNR After: 26.454075 | Change: 0.000048 | Diff: 0.100040
+Reward: 0.04 | Success Ratio: 0.212388 | Flip Count: 1039
+Flip Pixel: Channel=[6], Row=[85], Col=[223]
+Time taken for this data: 17.52 seconds
+Step: 4892   | Initial PSNR: 26.354034
+PSNR After: 26.454075 | Change: 0.000048 | Diff: 0.100040
+Reward: 0.04 | Success Ratio: 0.212388 | Flip Count: 1039
+Flip Pixel: Channel=[6], Row=[85], Col=[223]
+Time taken for this data: 17.52 seconds
+Episode 12: Total Reward: -615.6237811555031
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0813.png',), Episode count: 13[0m
+[92mInitial PSNR: 25.374109[0m
+Initial MSE: 0.002901[0m
+Step: 2618   | Initial PSNR: 25.374109
+PSNR After: 25.474678 | Change: 0.000780 | Diff: 0.100569
+Reward: 0.62 | Success Ratio: 0.259740 | Flip Count: 680
+Flip Pixel: Channel=[3], Row=[33], Col=[73]
+Time taken for this data: 9.35 seconds
+Step: 2618   | Initial PSNR: 25.374109
+PSNR After: 25.474678 | Change: 0.000780 | Diff: 0.100569
+Reward: 0.62 | Success Ratio: 0.259740 | Flip Count: 680
+Flip Pixel: Channel=[3], Row=[33], Col=[73]
+Time taken for this data: 9.35 seconds
+Episode 13: Total Reward: -327.7133854254298
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0814.png',), Episode count: 14[0m
+[92mInitial PSNR: 24.892569[0m
+Initial MSE: 0.003241[0m
+Step: 2104   | Initial PSNR: 24.892569
+PSNR After: 24.992807 | Change: 0.000723 | Diff: 0.100239
+Reward: 0.58 | Success Ratio: 0.291350 | Flip Count: 613
+Flip Pixel: Channel=[7], Row=[138], Col=[127]
+Time taken for this data: 7.51 seconds
+Step: 2104   | Initial PSNR: 24.892569
+PSNR After: 24.992807 | Change: 0.000723 | Diff: 0.100239
+Reward: 0.58 | Success Ratio: 0.291350 | Flip Count: 613
+Flip Pixel: Channel=[7], Row=[138], Col=[127]
+Time taken for this data: 7.51 seconds
+Episode 14: Total Reward: -253.4290352166107
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0815.png',), Episode count: 15[0m
+[92mInitial PSNR: 23.042925[0m
+Initial MSE: 0.004656[0m
+Step: 3909   | Initial PSNR: 23.042925
+PSNR After: 23.142996 | Change: 0.000135 | Diff: 0.100071
+Reward: 0.11 | Success Ratio: 0.208749 | Flip Count: 816
+Flip Pixel: Channel=[2], Row=[200], Col=[22]
+Time taken for this data: 13.98 seconds
+Step: 3909   | Initial PSNR: 23.042925
+PSNR After: 23.142996 | Change: 0.000135 | Diff: 0.100071
+Reward: 0.11 | Success Ratio: 0.208749 | Flip Count: 816
+Flip Pixel: Channel=[2], Row=[200], Col=[22]
+Time taken for this data: 13.98 seconds
+Episode 15: Total Reward: -692.9151290142948
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0816.png',), Episode count: 16[0m
+[92mInitial PSNR: 24.121155[0m
+Initial MSE: 0.002195[0m
+Step: 2097   | Initial PSNR: 24.121155
+PSNR After: 24.221172 | Change: 0.000088 | Diff: 0.100018
+Reward: 0.07 | Success Ratio: 0.274678 | Flip Count: 576
+Flip Pixel: Channel=[2], Row=[94], Col=[82]
+Time taken for this data: 7.37 seconds
+Step: 2097   | Initial PSNR: 24.121155
+PSNR After: 24.221172 | Change: 0.000088 | Diff: 0.100018
+Reward: 0.07 | Success Ratio: 0.274678 | Flip Count: 576
+Flip Pixel: Channel=[2], Row=[94], Col=[82]
+Time taken for this data: 7.37 seconds
+Episode 16: Total Reward: -324.08092215255886
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0817.png',), Episode count: 17[0m
+[92mInitial PSNR: 23.467945[0m
+Initial MSE: 0.003725[0m
+Step: 2402   | Initial PSNR: 23.467945
+PSNR After: 23.568020 | Change: 0.000126 | Diff: 0.100075
+Reward: 0.10 | Success Ratio: 0.261032 | Flip Count: 627
+Flip Pixel: Channel=[1], Row=[158], Col=[219]
+Time taken for this data: 8.50 seconds
+Step: 2402   | Initial PSNR: 23.467945
+PSNR After: 23.568020 | Change: 0.000126 | Diff: 0.100075
+Reward: 0.10 | Success Ratio: 0.261032 | Flip Count: 627
+Flip Pixel: Channel=[1], Row=[158], Col=[219]
+Time taken for this data: 8.50 seconds
+Episode 17: Total Reward: -382.8423008894045
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0818.png',), Episode count: 18[0m
+[92mInitial PSNR: 20.782558[0m
+Initial MSE: 0.008351[0m
+Step: 4001   | Initial PSNR: 20.782558
+PSNR After: 20.882591 | Change: 0.000128 | Diff: 0.100033
+Reward: 0.10 | Success Ratio: 0.227943 | Flip Count: 912
+Flip Pixel: Channel=[6], Row=[146], Col=[18]
+Time taken for this data: 14.23 seconds
+Step: 4001   | Initial PSNR: 20.782558
+PSNR After: 20.882591 | Change: 0.000128 | Diff: 0.100033
+Reward: 0.10 | Success Ratio: 0.227943 | Flip Count: 912
+Flip Pixel: Channel=[6], Row=[146], Col=[18]
+Time taken for this data: 14.24 seconds
+Episode 18: Total Reward: -526.12233425712
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0819.png',), Episode count: 19[0m
+[92mInitial PSNR: 25.309677[0m
+Initial MSE: 0.002074[0m
+Step: 2338   | Initial PSNR: 25.309677
+PSNR After: 25.409708 | Change: 0.000076 | Diff: 0.100031
+Reward: 0.06 | Success Ratio: 0.306672 | Flip Count: 717
+Flip Pixel: Channel=[4], Row=[154], Col=[14]
+Time taken for this data: 8.48 seconds
+Step: 2338   | Initial PSNR: 25.309677
+PSNR After: 25.409708 | Change: 0.000076 | Diff: 0.100031
+Reward: 0.06 | Success Ratio: 0.306672 | Flip Count: 717
+Flip Pixel: Channel=[4], Row=[154], Col=[14]
+Time taken for this data: 8.48 seconds
+Episode 19: Total Reward: -253.2035253454667
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0820.png',), Episode count: 20[0m
+[92mInitial PSNR: 23.066256[0m
+Initial MSE: 0.004936[0m
+Step: 4448   | Initial PSNR: 23.066256
+PSNR After: 23.166294 | Change: 0.000168 | Diff: 0.100039
+Reward: 0.13 | Success Ratio: 0.198966 | Flip Count: 885
+Flip Pixel: Channel=[7], Row=[106], Col=[104]
+Time taken for this data: 15.74 seconds
+Step: 4448   | Initial PSNR: 23.066256
+PSNR After: 23.166294 | Change: 0.000168 | Diff: 0.100039
+Reward: 0.13 | Success Ratio: 0.198966 | Flip Count: 885
+Flip Pixel: Channel=[7], Row=[106], Col=[104]
+Time taken for this data: 15.74 seconds
+Episode 20: Total Reward: -820.545767230105
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0821.png',), Episode count: 21[0m
+[92mInitial PSNR: 25.548079[0m
+Initial MSE: 0.001580[0m
+Step: 5511   | Initial PSNR: 25.548079
+PSNR After: 25.648146 | Change: 0.001032 | Diff: 0.100067
+Reward: 0.83 | Success Ratio: 0.110688 | Flip Count: 610
+Flip Pixel: Channel=[4], Row=[170], Col=[28]
+Time taken for this data: 19.39 seconds
+Step: 5511   | Initial PSNR: 25.548079
+PSNR After: 25.648146 | Change: 0.001032 | Diff: 0.100067
+Reward: 0.83 | Success Ratio: 0.110688 | Flip Count: 610
+Flip Pixel: Channel=[4], Row=[170], Col=[28]
+Time taken for this data: 19.39 seconds
+Episode 21: Total Reward: -1057.9870519289232
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0822.png',), Episode count: 22[0m
+[92mInitial PSNR: 24.496325[0m
+Initial MSE: 0.003551[0m
+Step: 2675   | Initial PSNR: 24.496325
+PSNR After: 24.596367 | Change: 0.000097 | Diff: 0.100042
+Reward: 0.08 | Success Ratio: 0.238505 | Flip Count: 638
+Flip Pixel: Channel=[1], Row=[225], Col=[82]
+Time taken for this data: 9.46 seconds
+Step: 2675   | Initial PSNR: 24.496325
+PSNR After: 24.596367 | Change: 0.000097 | Diff: 0.100042
+Reward: 0.08 | Success Ratio: 0.238505 | Flip Count: 638
+Flip Pixel: Channel=[1], Row=[225], Col=[82]
+Time taken for this data: 9.46 seconds
+Episode 22: Total Reward: -499.9718716586518
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0823.png',), Episode count: 23[0m
+[92mInitial PSNR: 23.105854[0m
+Initial MSE: 0.004891[0m
+Step: 2829   | Initial PSNR: 23.105854
+PSNR After: 23.205976 | Change: 0.000128 | Diff: 0.100122
+Reward: 0.10 | Success Ratio: 0.264404 | Flip Count: 748
+Flip Pixel: Channel=[5], Row=[174], Col=[179]
+Time taken for this data: 10.01 seconds
+Step: 2829   | Initial PSNR: 23.105854
+PSNR After: 23.205976 | Change: 0.000128 | Diff: 0.100122
+Reward: 0.10 | Success Ratio: 0.264404 | Flip Count: 748
+Flip Pixel: Channel=[5], Row=[174], Col=[179]
+Time taken for this data: 10.01 seconds
+Episode 23: Total Reward: -392.41054407720924
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0824.png',), Episode count: 24[0m
+[92mInitial PSNR: 22.775265[0m
+Initial MSE: 0.005278[0m
+Step: 3992   | Initial PSNR: 22.775265
+PSNR After: 22.875301 | Change: 0.000118 | Diff: 0.100037
+Reward: 0.09 | Success Ratio: 0.230962 | Flip Count: 922
+Flip Pixel: Channel=[1], Row=[93], Col=[205]
+Time taken for this data: 14.18 seconds
+Step: 3992   | Initial PSNR: 22.775265
+PSNR After: 22.875301 | Change: 0.000118 | Diff: 0.100037
+Reward: 0.09 | Success Ratio: 0.230962 | Flip Count: 922
+Flip Pixel: Channel=[1], Row=[93], Col=[205]
+Time taken for this data: 14.18 seconds
+Episode 24: Total Reward: -460.5178775682077
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0825.png',), Episode count: 25[0m
+[92mInitial PSNR: 22.667982[0m
+Initial MSE: 0.005410[0m
+Step: 3931   | Initial PSNR: 22.667982
+PSNR After: 22.768028 | Change: 0.000111 | Diff: 0.100046
+Reward: 0.09 | Success Ratio: 0.215721 | Flip Count: 848
+Flip Pixel: Channel=[3], Row=[197], Col=[236]
+Time taken for this data: 13.93 seconds
+Step: 3931   | Initial PSNR: 22.667982
+PSNR After: 22.768028 | Change: 0.000111 | Diff: 0.100046
+Reward: 0.09 | Success Ratio: 0.215721 | Flip Count: 848
+Flip Pixel: Channel=[3], Row=[197], Col=[236]
+Time taken for this data: 13.94 seconds
+Episode 25: Total Reward: -516.6513312105122
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0826.png',), Episode count: 26[0m
+[92mInitial PSNR: 21.599274[0m
+Initial MSE: 0.006919[0m
+Step: 4103   | Initial PSNR: 21.599274
+PSNR After: 21.699427 | Change: 0.000238 | Diff: 0.100153
+Reward: 0.19 | Success Ratio: 0.238606 | Flip Count: 979
+Flip Pixel: Channel=[7], Row=[6], Col=[244]
+Time taken for this data: 14.73 seconds
+Step: 4103   | Initial PSNR: 21.599274
+PSNR After: 21.699427 | Change: 0.000238 | Diff: 0.100153
+Reward: 0.19 | Success Ratio: 0.238606 | Flip Count: 979
+Flip Pixel: Channel=[7], Row=[6], Col=[244]
+Time taken for this data: 14.73 seconds
+Episode 26: Total Reward: -485.4404761347125
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0827.png',), Episode count: 27[0m
+[92mInitial PSNR: 27.188471[0m
+Initial MSE: 0.001911[0m
+Step: 2323   | Initial PSNR: 27.188471
+PSNR After: 27.288986 | Change: 0.001112 | Diff: 0.100515
+Reward: 0.89 | Success Ratio: 0.275506 | Flip Count: 640
+Flip Pixel: Channel=[3], Row=[57], Col=[214]
+Time taken for this data: 8.28 seconds
+Step: 2323   | Initial PSNR: 27.188471
+PSNR After: 27.288986 | Change: 0.001112 | Diff: 0.100515
+Reward: 0.89 | Success Ratio: 0.275506 | Flip Count: 640
+Flip Pixel: Channel=[3], Row=[57], Col=[214]
+Time taken for this data: 8.29 seconds
+Episode 27: Total Reward: -345.3626030064768
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0828.png',), Episode count: 28[0m
+[92mInitial PSNR: 16.665926[0m
+Initial MSE: 0.021379[0m
+Step: 15033  | Initial PSNR: 16.665926
+PSNR After: 16.765928 | Change: 0.000027 | Diff: 0.100002
+Reward: 0.02 | Success Ratio: 0.156456 | Flip Count: 2352
+Flip Pixel: Channel=[4], Row=[92], Col=[42]
+Time taken for this data: 53.65 seconds
+Step: 15033  | Initial PSNR: 16.665926
+PSNR After: 16.765928 | Change: 0.000027 | Diff: 0.100002
+Reward: 0.02 | Success Ratio: 0.156456 | Flip Count: 2352
+Flip Pixel: Channel=[4], Row=[92], Col=[42]
+Time taken for this data: 53.65 seconds
+Episode 28: Total Reward: -949.2780362155738
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0829.png',), Episode count: 29[0m
+[92mInitial PSNR: 23.413605[0m
+Initial MSE: 0.004557[0m
+Step: 3104   | Initial PSNR: 23.413605
+PSNR After: 23.513927 | Change: 0.000412 | Diff: 0.100323
+Reward: 0.33 | Success Ratio: 0.260954 | Flip Count: 810
+Flip Pixel: Channel=[3], Row=[25], Col=[65]
+Time taken for this data: 10.96 seconds
+Step: 3104   | Initial PSNR: 23.413605
+PSNR After: 23.513927 | Change: 0.000412 | Diff: 0.100323
+Reward: 0.33 | Success Ratio: 0.260954 | Flip Count: 810
+Flip Pixel: Channel=[3], Row=[25], Col=[65]
+Time taken for this data: 10.97 seconds
+Episode 29: Total Reward: -370.91803026394234
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0830.png',), Episode count: 30[0m
+[92mInitial PSNR: 22.806744[0m
+Initial MSE: 0.005117[0m
+Step: 3432   | Initial PSNR: 22.806744
+PSNR After: 22.906816 | Change: 0.000160 | Diff: 0.100073
+Reward: 0.13 | Success Ratio: 0.264860 | Flip Count: 909
+Flip Pixel: Channel=[1], Row=[220], Col=[45]
+Time taken for this data: 12.15 seconds
+Step: 3432   | Initial PSNR: 22.806744
+PSNR After: 22.906816 | Change: 0.000160 | Diff: 0.100073
+Reward: 0.13 | Success Ratio: 0.264860 | Flip Count: 909
+Flip Pixel: Channel=[1], Row=[220], Col=[45]
+Time taken for this data: 12.15 seconds
+Episode 30: Total Reward: -368.7000876051786
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0831.png',), Episode count: 31[0m
+[92mInitial PSNR: 25.657499[0m
+Initial MSE: 0.002571[0m
+Step: 2460   | Initial PSNR: 25.657499
+PSNR After: 25.757668 | Change: 0.000185 | Diff: 0.100168
+Reward: 0.15 | Success Ratio: 0.265041 | Flip Count: 652
+Flip Pixel: Channel=[1], Row=[189], Col=[103]
+Time taken for this data: 8.74 seconds
+Step: 2460   | Initial PSNR: 25.657499
+PSNR After: 25.757668 | Change: 0.000185 | Diff: 0.100168
+Reward: 0.15 | Success Ratio: 0.265041 | Flip Count: 652
+Flip Pixel: Channel=[1], Row=[189], Col=[103]
+Time taken for this data: 8.74 seconds
+Episode 31: Total Reward: -423.43372538182246
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0832.png',), Episode count: 32[0m
+[92mInitial PSNR: 26.766960[0m
+Initial MSE: 0.002056[0m
+Step: 2738   | Initial PSNR: 26.766960
+PSNR After: 26.866978 | Change: 0.000153 | Diff: 0.100018
+Reward: 0.12 | Success Ratio: 0.258583 | Flip Count: 708
+Flip Pixel: Channel=[6], Row=[43], Col=[90]
+Time taken for this data: 9.76 seconds
+Step: 2738   | Initial PSNR: 26.766960
+PSNR After: 26.866978 | Change: 0.000153 | Diff: 0.100018
+Reward: 0.12 | Success Ratio: 0.258583 | Flip Count: 708
+Flip Pixel: Channel=[6], Row=[43], Col=[90]
+Time taken for this data: 9.76 seconds
+Episode 32: Total Reward: -430.43478084479824
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0833.png',), Episode count: 33[0m
+[92mInitial PSNR: 22.342068[0m
+Initial MSE: 0.005786[0m
+Step: 5748   | Initial PSNR: 22.342068
+PSNR After: 22.442215 | Change: 0.000153 | Diff: 0.100147
+Reward: 0.12 | Success Ratio: 0.153097 | Flip Count: 880
+Flip Pixel: Channel=[4], Row=[73], Col=[18]
+Time taken for this data: 20.46 seconds
+Step: 5748   | Initial PSNR: 22.342068
+PSNR After: 22.442215 | Change: 0.000153 | Diff: 0.100147
+Reward: 0.12 | Success Ratio: 0.153097 | Flip Count: 880
+Flip Pixel: Channel=[4], Row=[73], Col=[18]
+Time taken for this data: 20.47 seconds
+Episode 33: Total Reward: -1160.8490050896835
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0834.png',), Episode count: 34[0m
+[92mInitial PSNR: 24.525562[0m
+Initial MSE: 0.001624[0m
+Step: 1934   | Initial PSNR: 24.525562
+PSNR After: 24.625586 | Change: 0.000187 | Diff: 0.100023
+Reward: 0.15 | Success Ratio: 0.327818 | Flip Count: 634
+Flip Pixel: Channel=[5], Row=[83], Col=[205]
+Time taken for this data: 6.94 seconds
+Step: 1934   | Initial PSNR: 24.525562
+PSNR After: 24.625586 | Change: 0.000187 | Diff: 0.100023
+Reward: 0.15 | Success Ratio: 0.327818 | Flip Count: 634
+Flip Pixel: Channel=[5], Row=[83], Col=[205]
+Time taken for this data: 6.94 seconds
+Episode 34: Total Reward: -186.02209936344525
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0835.png',), Episode count: 35[0m
+[92mInitial PSNR: 24.676458[0m
+Initial MSE: 0.003119[0m
+Step: 3142   | Initial PSNR: 24.676458
+PSNR After: 24.776728 | Change: 0.000366 | Diff: 0.100269
+Reward: 0.29 | Success Ratio: 0.251114 | Flip Count: 789
+Flip Pixel: Channel=[4], Row=[105], Col=[73]
+Time taken for this data: 11.32 seconds
+Step: 3142   | Initial PSNR: 24.676458
+PSNR After: 24.776728 | Change: 0.000366 | Diff: 0.100269
+Reward: 0.29 | Success Ratio: 0.251114 | Flip Count: 789
+Flip Pixel: Channel=[4], Row=[105], Col=[73]
+Time taken for this data: 11.32 seconds
+Episode 35: Total Reward: -479.999039283057
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0836.png',), Episode count: 36[0m
+[92mInitial PSNR: 23.275665[0m
+Initial MSE: 0.004667[0m
+Step: 3084   | Initial PSNR: 23.275665
+PSNR After: 23.375790 | Change: 0.000162 | Diff: 0.100124
+Reward: 0.13 | Success Ratio: 0.270428 | Flip Count: 834
+Flip Pixel: Channel=[0], Row=[25], Col=[36]
+Time taken for this data: 11.02 seconds
+Step: 3084   | Initial PSNR: 23.275665
+PSNR After: 23.375790 | Change: 0.000162 | Diff: 0.100124
+Reward: 0.13 | Success Ratio: 0.270428 | Flip Count: 834
+Flip Pixel: Channel=[0], Row=[25], Col=[36]
+Time taken for this data: 11.02 seconds
+Episode 36: Total Reward: -346.24993883852596
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0837.png',), Episode count: 37[0m
+[92mInitial PSNR: 24.309311[0m
+Initial MSE: 0.003707[0m
+Step: 2482   | Initial PSNR: 24.309311
+PSNR After: 24.409399 | Change: 0.000267 | Diff: 0.100088
+Reward: 0.21 | Success Ratio: 0.285657 | Flip Count: 709
+Flip Pixel: Channel=[3], Row=[103], Col=[133]
+Time taken for this data: 8.86 seconds
+Step: 2482   | Initial PSNR: 24.309311
+PSNR After: 24.409399 | Change: 0.000267 | Diff: 0.100088
+Reward: 0.21 | Success Ratio: 0.285657 | Flip Count: 709
+Flip Pixel: Channel=[3], Row=[103], Col=[133]
+Time taken for this data: 8.86 seconds
+Episode 37: Total Reward: -303.19906692955897
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0838.png',), Episode count: 38[0m
+[92mInitial PSNR: 26.260605[0m
+Initial MSE: 0.001842[0m
+Step: 2590   | Initial PSNR: 26.260605
+PSNR After: 26.360889 | Change: 0.000404 | Diff: 0.100285
+Reward: 0.32 | Success Ratio: 0.218919 | Flip Count: 567
+Flip Pixel: Channel=[6], Row=[160], Col=[25]
+Time taken for this data: 9.19 seconds
+Step: 2590   | Initial PSNR: 26.260605
+PSNR After: 26.360889 | Change: 0.000404 | Diff: 0.100285
+Reward: 0.32 | Success Ratio: 0.218919 | Flip Count: 567
+Flip Pixel: Channel=[6], Row=[160], Col=[25]
+Time taken for this data: 9.19 seconds
+Episode 38: Total Reward: -712.3891375970552
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0839.png',), Episode count: 39[0m
+[92mInitial PSNR: 23.735676[0m
+Initial MSE: 0.001666[0m
+Step: 2226   | Initial PSNR: 23.735676
+PSNR After: 23.835747 | Change: 0.000084 | Diff: 0.100071
+Reward: 0.07 | Success Ratio: 0.300090 | Flip Count: 668
+Flip Pixel: Channel=[4], Row=[125], Col=[51]
+Time taken for this data: 7.98 seconds
+Step: 2226   | Initial PSNR: 23.735676
+PSNR After: 23.835747 | Change: 0.000084 | Diff: 0.100071
+Reward: 0.07 | Success Ratio: 0.300090 | Flip Count: 668
+Flip Pixel: Channel=[4], Row=[125], Col=[51]
+Time taken for this data: 7.98 seconds
+Episode 39: Total Reward: -272.2817490680761
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0840.png',), Episode count: 40[0m
+[92mInitial PSNR: 24.866980[0m
+Initial MSE: 0.002232[0m
+Step: 2118   | Initial PSNR: 24.866980
+PSNR After: 24.967072 | Change: 0.000134 | Diff: 0.100092
+Reward: 0.11 | Success Ratio: 0.283286 | Flip Count: 600
+Flip Pixel: Channel=[2], Row=[53], Col=[42]
+Time taken for this data: 7.49 seconds
+Step: 2118   | Initial PSNR: 24.866980
+PSNR After: 24.967072 | Change: 0.000134 | Diff: 0.100092
+Reward: 0.11 | Success Ratio: 0.283286 | Flip Count: 600
+Flip Pixel: Channel=[2], Row=[53], Col=[42]
+Time taken for this data: 7.50 seconds
+Episode 40: Total Reward: -282.46365951459256
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0841.png',), Episode count: 41[0m
+[92mInitial PSNR: 24.912996[0m
+Initial MSE: 0.003226[0m
+Step: 2562   | Initial PSNR: 24.912996
+PSNR After: 25.013102 | Change: 0.000315 | Diff: 0.100105
+Reward: 0.25 | Success Ratio: 0.292350 | Flip Count: 749
+Flip Pixel: Channel=[4], Row=[19], Col=[18]
+Time taken for this data: 9.06 seconds
+Step: 2562   | Initial PSNR: 24.912996
+PSNR After: 25.013102 | Change: 0.000315 | Diff: 0.100105
+Reward: 0.25 | Success Ratio: 0.292350 | Flip Count: 749
+Flip Pixel: Channel=[4], Row=[19], Col=[18]
+Time taken for this data: 9.07 seconds
+Episode 41: Total Reward: -254.71070571407495
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0842.png',), Episode count: 42[0m
+[92mInitial PSNR: 22.892073[0m
+Initial MSE: 0.005138[0m
+Step: 6057   | Initial PSNR: 22.892073
+PSNR After: 22.992115 | Change: 0.000296 | Diff: 0.100042
+Reward: 0.24 | Success Ratio: 0.157174 | Flip Count: 952
+Flip Pixel: Channel=[3], Row=[219], Col=[145]
+Time taken for this data: 21.48 seconds
+Step: 6057   | Initial PSNR: 22.892073
+PSNR After: 22.992115 | Change: 0.000296 | Diff: 0.100042
+Reward: 0.24 | Success Ratio: 0.157174 | Flip Count: 952
+Flip Pixel: Channel=[3], Row=[219], Col=[145]
+Time taken for this data: 21.48 seconds
+Episode 42: Total Reward: -1217.555421419579
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0843.png',), Episode count: 43[0m
+[92mInitial PSNR: 24.893816[0m
+Initial MSE: 0.002501[0m
+Step: 2699   | Initial PSNR: 24.893816
+PSNR After: 24.993938 | Change: 0.000336 | Diff: 0.100122
+Reward: 0.27 | Success Ratio: 0.258244 | Flip Count: 697
+Flip Pixel: Channel=[2], Row=[151], Col=[23]
+Time taken for this data: 9.54 seconds
+Step: 2699   | Initial PSNR: 24.893816
+PSNR After: 24.993938 | Change: 0.000336 | Diff: 0.100122
+Reward: 0.27 | Success Ratio: 0.258244 | Flip Count: 697
+Flip Pixel: Channel=[2], Row=[151], Col=[23]
+Time taken for this data: 9.54 seconds
+Episode 43: Total Reward: -376.96626925521934
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0844.png',), Episode count: 44[0m
+[92mInitial PSNR: 22.661167[0m
+Initial MSE: 0.004641[0m
+Step: 10613  | Initial PSNR: 22.661167
+PSNR After: 22.761173 | Change: 0.000210 | Diff: 0.100006
+Reward: 0.17 | Success Ratio: 0.083483 | Flip Count: 886
+Flip Pixel: Channel=[1], Row=[219], Col=[213]
+Time taken for this data: 37.87 seconds
+Step: 10613  | Initial PSNR: 22.661167
+PSNR After: 22.761173 | Change: 0.000210 | Diff: 0.100006
+Reward: 0.17 | Success Ratio: 0.083483 | Flip Count: 886
+Flip Pixel: Channel=[1], Row=[219], Col=[213]
+Time taken for this data: 37.88 seconds
+Episode 44: Total Reward: -2670.450796191073
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0845.png',), Episode count: 45[0m
+[92mInitial PSNR: 22.491978[0m
+Initial MSE: 0.005634[0m
+Step: 24930  | Initial PSNR: 22.491978
+PSNR After: 22.592045 | Change: 0.000185 | Diff: 0.100067
+Reward: 0.15 | Success Ratio: 0.051223 | Flip Count: 1277
+Flip Pixel: Channel=[1], Row=[123], Col=[137]
+Time taken for this data: 88.53 seconds
+Step: 24930  | Initial PSNR: 22.491978
+PSNR After: 22.592045 | Change: 0.000185 | Diff: 0.100067
+Reward: 0.15 | Success Ratio: 0.051223 | Flip Count: 1277
+Flip Pixel: Channel=[1], Row=[123], Col=[137]
+Time taken for this data: 88.54 seconds
+Episode 45: Total Reward: -5993.527977207371
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0846.png',), Episode count: 46[0m
+[92mInitial PSNR: 18.379427[0m
+Initial MSE: 0.014523[0m
+Step: 4634   | Initial PSNR: 18.379427
+PSNR After: 18.479439 | Change: 0.000063 | Diff: 0.100012
+Reward: 0.05 | Success Ratio: 0.281830 | Flip Count: 1306
+Flip Pixel: Channel=[6], Row=[60], Col=[254]
+Time taken for this data: 16.39 seconds
+Step: 4634   | Initial PSNR: 18.379427
+PSNR After: 18.479439 | Change: 0.000063 | Diff: 0.100012
+Reward: 0.05 | Success Ratio: 0.281830 | Flip Count: 1306
+Flip Pixel: Channel=[6], Row=[60], Col=[254]
+Time taken for this data: 16.39 seconds
+Episode 46: Total Reward: -309.18128917515605
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0847.png',), Episode count: 47[0m
+[92mInitial PSNR: 22.905523[0m
+Initial MSE: 0.005122[0m
+Step: 3819   | Initial PSNR: 22.905523
+PSNR After: 23.005680 | Change: 0.000175 | Diff: 0.100157
+Reward: 0.14 | Success Ratio: 0.230689 | Flip Count: 881
+Flip Pixel: Channel=[3], Row=[96], Col=[82]
+Time taken for this data: 13.76 seconds
+Step: 3819   | Initial PSNR: 22.905523
+PSNR After: 23.005680 | Change: 0.000175 | Diff: 0.100157
+Reward: 0.14 | Success Ratio: 0.230689 | Flip Count: 881
+Flip Pixel: Channel=[3], Row=[96], Col=[82]
+Time taken for this data: 13.76 seconds
+Episode 47: Total Reward: -471.7332843655204
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0848.png',), Episode count: 48[0m
+[92mInitial PSNR: 22.200319[0m
+Initial MSE: 0.006025[0m
+Step: 6133   | Initial PSNR: 22.200319
+PSNR After: 22.300528 | Change: 0.000261 | Diff: 0.100208
+Reward: 0.21 | Success Ratio: 0.166966 | Flip Count: 1024
+Flip Pixel: Channel=[7], Row=[123], Col=[231]
+Time taken for this data: 21.66 seconds
+Step: 6133   | Initial PSNR: 22.200319
+PSNR After: 22.300528 | Change: 0.000261 | Diff: 0.100208
+Reward: 0.21 | Success Ratio: 0.166966 | Flip Count: 1024
+Flip Pixel: Channel=[7], Row=[123], Col=[231]
+Time taken for this data: 21.66 seconds
+Episode 48: Total Reward: -843.2088568477911
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0849.png',), Episode count: 49[0m
+[92mInitial PSNR: 23.174068[0m
+Initial MSE: 0.004815[0m
+Step: 3784   | Initial PSNR: 23.174068
+PSNR After: 23.274069 | Change: 0.000212 | Diff: 0.100000
+Reward: 0.17 | Success Ratio: 0.230973 | Flip Count: 874
+Flip Pixel: Channel=[6], Row=[238], Col=[176]
+Time taken for this data: 13.44 seconds
+Step: 3784   | Initial PSNR: 23.174068
+PSNR After: 23.274069 | Change: 0.000212 | Diff: 0.100000
+Reward: 0.17 | Success Ratio: 0.230973 | Flip Count: 874
+Flip Pixel: Channel=[6], Row=[238], Col=[176]
+Time taken for this data: 13.44 seconds
+Episode 49: Total Reward: -453.50112848673683
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0850.png',), Episode count: 50[0m
+[92mInitial PSNR: 25.614855[0m
+Initial MSE: 0.002745[0m
+Step: 2770   | Initial PSNR: 25.614855
+PSNR After: 25.715000 | Change: 0.000206 | Diff: 0.100145
+Reward: 0.16 | Success Ratio: 0.258484 | Flip Count: 716
+Flip Pixel: Channel=[4], Row=[178], Col=[90]
+Time taken for this data: 9.78 seconds
+Step: 2770   | Initial PSNR: 25.614855
+PSNR After: 25.715000 | Change: 0.000206 | Diff: 0.100145
+Reward: 0.16 | Success Ratio: 0.258484 | Flip Count: 716
+Flip Pixel: Channel=[4], Row=[178], Col=[90]
+Time taken for this data: 9.79 seconds
+Episode 50: Total Reward: -366.22325507606683
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0851.png',), Episode count: 51[0m
+[92mInitial PSNR: 26.132524[0m
+Initial MSE: 0.002436[0m
+Step: 3642   | Initial PSNR: 26.132524
+PSNR After: 26.232712 | Change: 0.000223 | Diff: 0.100187
+Reward: 0.18 | Success Ratio: 0.192477 | Flip Count: 701
+Flip Pixel: Channel=[3], Row=[113], Col=[158]
+Time taken for this data: 12.77 seconds
+Step: 3642   | Initial PSNR: 26.132524
+PSNR After: 26.232712 | Change: 0.000223 | Diff: 0.100187
+Reward: 0.18 | Success Ratio: 0.192477 | Flip Count: 701
+Flip Pixel: Channel=[3], Row=[113], Col=[158]
+Time taken for this data: 12.77 seconds
+Episode 51: Total Reward: -581.0568428659519
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0852.png',), Episode count: 52[0m
+[92mInitial PSNR: 27.302963[0m
+Initial MSE: 0.001861[0m
+Step: 4458   | Initial PSNR: 27.302963
+PSNR After: 27.402966 | Change: 0.000301 | Diff: 0.100002
+Reward: 0.24 | Success Ratio: 0.173845 | Flip Count: 775
+Flip Pixel: Channel=[1], Row=[158], Col=[178]
+Time taken for this data: 15.87 seconds
+Step: 4458   | Initial PSNR: 27.302963
+PSNR After: 27.402966 | Change: 0.000301 | Diff: 0.100002
+Reward: 0.24 | Success Ratio: 0.173845 | Flip Count: 775
+Flip Pixel: Channel=[1], Row=[158], Col=[178]
+Time taken for this data: 15.87 seconds
+Episode 52: Total Reward: -736.2518025454843
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0853.png',), Episode count: 53[0m
+[92mInitial PSNR: 25.312119[0m
+Initial MSE: 0.002629[0m
+Step: 2089   | Initial PSNR: 25.312119
+PSNR After: 25.412304 | Change: 0.000280 | Diff: 0.100185
+Reward: 0.22 | Success Ratio: 0.284347 | Flip Count: 594
+Flip Pixel: Channel=[0], Row=[236], Col=[10]
+Time taken for this data: 7.35 seconds
+Step: 2089   | Initial PSNR: 25.312119
+PSNR After: 25.412304 | Change: 0.000280 | Diff: 0.100185
+Reward: 0.22 | Success Ratio: 0.284347 | Flip Count: 594
+Flip Pixel: Channel=[0], Row=[236], Col=[10]
+Time taken for this data: 7.35 seconds
+Episode 53: Total Reward: -277.3271349497061
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0854.png',), Episode count: 54[0m
+[92mInitial PSNR: 22.597023[0m
+Initial MSE: 0.005499[0m
+Step: 2658   | Initial PSNR: 22.597023
+PSNR After: 22.697294 | Change: 0.000326 | Diff: 0.100271
+Reward: 0.26 | Success Ratio: 0.296840 | Flip Count: 789
+Flip Pixel: Channel=[4], Row=[132], Col=[11]
+Time taken for this data: 9.52 seconds
+Step: 2658   | Initial PSNR: 22.597023
+PSNR After: 22.697294 | Change: 0.000326 | Diff: 0.100271
+Reward: 0.26 | Success Ratio: 0.296840 | Flip Count: 789
+Flip Pixel: Channel=[4], Row=[132], Col=[11]
+Time taken for this data: 9.52 seconds
+Episode 54: Total Reward: -283.312484817875
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0855.png',), Episode count: 55[0m
+[92mInitial PSNR: 24.624390[0m
+Initial MSE: 0.002566[0m
+Step: 2675   | Initial PSNR: 24.624390
+PSNR After: 24.724422 | Change: 0.000519 | Diff: 0.100033
+Reward: 0.42 | Success Ratio: 0.233645 | Flip Count: 625
+Flip Pixel: Channel=[7], Row=[209], Col=[143]
+Time taken for this data: 9.62 seconds
+Step: 2675   | Initial PSNR: 24.624390
+PSNR After: 24.724422 | Change: 0.000519 | Diff: 0.100033
+Reward: 0.42 | Success Ratio: 0.233645 | Flip Count: 625
+Flip Pixel: Channel=[7], Row=[209], Col=[143]
+Time taken for this data: 9.63 seconds
+Episode 55: Total Reward: -586.4411484171242
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0856.png',), Episode count: 56[0m
+[92mInitial PSNR: 24.135330[0m
+Initial MSE: 0.002692[0m
+Step: 2530   | Initial PSNR: 24.135330
+PSNR After: 24.235487 | Change: 0.000166 | Diff: 0.100157
+Reward: 0.13 | Success Ratio: 0.306719 | Flip Count: 776
+Flip Pixel: Channel=[7], Row=[0], Col=[237]
+Time taken for this data: 8.99 seconds
+Step: 2530   | Initial PSNR: 24.135330
+PSNR After: 24.235487 | Change: 0.000166 | Diff: 0.100157
+Reward: 0.13 | Success Ratio: 0.306719 | Flip Count: 776
+Flip Pixel: Channel=[7], Row=[0], Col=[237]
+Time taken for this data: 8.99 seconds
+Episode 56: Total Reward: -241.2549755276782
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0857.png',), Episode count: 57[0m
+[92mInitial PSNR: 24.661943[0m
+Initial MSE: 0.002903[0m
+Step: 3609   | Initial PSNR: 24.661943
+PSNR After: 24.762022 | Change: 0.000175 | Diff: 0.100079
+Reward: 0.14 | Success Ratio: 0.174841 | Flip Count: 631
+Flip Pixel: Channel=[2], Row=[191], Col=[166]
+Time taken for this data: 12.99 seconds
+Step: 3609   | Initial PSNR: 24.661943
+PSNR After: 24.762022 | Change: 0.000175 | Diff: 0.100079
+Reward: 0.14 | Success Ratio: 0.174841 | Flip Count: 631
+Flip Pixel: Channel=[2], Row=[191], Col=[166]
+Time taken for this data: 12.99 seconds
+Episode 57: Total Reward: -1034.4837784122715
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0858.png',), Episode count: 58[0m
+[92mInitial PSNR: 23.179710[0m
+Initial MSE: 0.004809[0m
+Step: 3061   | Initial PSNR: 23.179710
+PSNR After: 23.279856 | Change: 0.000313 | Diff: 0.100145
+Reward: 0.25 | Success Ratio: 0.248285 | Flip Count: 760
+Flip Pixel: Channel=[1], Row=[41], Col=[220]
+Time taken for this data: 10.84 seconds
+Step: 3061   | Initial PSNR: 23.179710
+PSNR After: 23.279856 | Change: 0.000313 | Diff: 0.100145
+Reward: 0.25 | Success Ratio: 0.248285 | Flip Count: 760
+Flip Pixel: Channel=[1], Row=[41], Col=[220]
+Time taken for this data: 10.84 seconds
+Episode 58: Total Reward: -504.53940243382374
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0859.png',), Episode count: 59[0m
+[92mInitial PSNR: 24.099369[0m
+Initial MSE: 0.003891[0m
+Step: 2891   | Initial PSNR: 24.099369
+PSNR After: 24.199678 | Change: 0.000355 | Diff: 0.100309
+Reward: 0.28 | Success Ratio: 0.294708 | Flip Count: 852
+Flip Pixel: Channel=[1], Row=[17], Col=[114]
+Time taken for this data: 10.34 seconds
+Step: 2891   | Initial PSNR: 24.099369
+PSNR After: 24.199678 | Change: 0.000355 | Diff: 0.100309
+Reward: 0.28 | Success Ratio: 0.294708 | Flip Count: 852
+Flip Pixel: Channel=[1], Row=[17], Col=[114]
+Time taken for this data: 10.34 seconds
+Episode 59: Total Reward: -279.95110576517345
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0860.png',), Episode count: 60[0m
+[92mInitial PSNR: 21.116446[0m
+Initial MSE: 0.007733[0m
+Step: 3503   | Initial PSNR: 21.116446
+PSNR After: 21.216808 | Change: 0.000406 | Diff: 0.100363
+Reward: 0.33 | Success Ratio: 0.266629 | Flip Count: 934
+Flip Pixel: Channel=[5], Row=[236], Col=[137]
+Time taken for this data: 12.32 seconds
+Step: 3503   | Initial PSNR: 21.116446
+PSNR After: 21.216808 | Change: 0.000406 | Diff: 0.100363
+Reward: 0.33 | Success Ratio: 0.266629 | Flip Count: 934
+Flip Pixel: Channel=[5], Row=[236], Col=[137]
+Time taken for this data: 12.32 seconds
+Episode 60: Total Reward: -342.602275492892
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0861.png',), Episode count: 61[0m
+[92mInitial PSNR: 21.229420[0m
+Initial MSE: 0.007535[0m
+Step: 3891   | Initial PSNR: 21.229420
+PSNR After: 21.329590 | Change: 0.000179 | Diff: 0.100170
+Reward: 0.14 | Success Ratio: 0.231046 | Flip Count: 899
+Flip Pixel: Channel=[4], Row=[80], Col=[209]
+Time taken for this data: 13.77 seconds
+Step: 3891   | Initial PSNR: 21.229420
+PSNR After: 21.329590 | Change: 0.000179 | Diff: 0.100170
+Reward: 0.14 | Success Ratio: 0.231046 | Flip Count: 899
+Flip Pixel: Channel=[4], Row=[80], Col=[209]
+Time taken for this data: 13.77 seconds
+Episode 61: Total Reward: -526.2704792063812
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0862.png',), Episode count: 62[0m
+[92mInitial PSNR: 23.592922[0m
+Initial MSE: 0.002798[0m
+Step: 2077   | Initial PSNR: 23.592922
+PSNR After: 23.692955 | Change: 0.000185 | Diff: 0.100033
+Reward: 0.15 | Success Ratio: 0.275397 | Flip Count: 572
+Flip Pixel: Channel=[6], Row=[215], Col=[174]
+Time taken for this data: 7.34 seconds
+Step: 2077   | Initial PSNR: 23.592922
+PSNR After: 23.692955 | Change: 0.000185 | Diff: 0.100033
+Reward: 0.15 | Success Ratio: 0.275397 | Flip Count: 572
+Flip Pixel: Channel=[6], Row=[215], Col=[174]
+Time taken for this data: 7.35 seconds
+Episode 62: Total Reward: -379.02887540734
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0863.png',), Episode count: 63[0m
+[92mInitial PSNR: 26.276609[0m
+Initial MSE: 0.002302[0m
+Step: 1947   | Initial PSNR: 26.276609
+PSNR After: 26.376781 | Change: 0.000246 | Diff: 0.100172
+Reward: 0.20 | Success Ratio: 0.301489 | Flip Count: 587
+Flip Pixel: Channel=[6], Row=[142], Col=[122]
+Time taken for this data: 6.88 seconds
+Step: 1947   | Initial PSNR: 26.276609
+PSNR After: 26.376781 | Change: 0.000246 | Diff: 0.100172
+Reward: 0.20 | Success Ratio: 0.301489 | Flip Count: 587
+Flip Pixel: Channel=[6], Row=[142], Col=[122]
+Time taken for this data: 6.89 seconds
+Episode 63: Total Reward: -251.15365388427256
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0864.png',), Episode count: 64[0m
+[92mInitial PSNR: 23.917389[0m
+Initial MSE: 0.001617[0m
+Step: 2381   | Initial PSNR: 23.917389
+PSNR After: 24.017559 | Change: 0.000175 | Diff: 0.100170
+Reward: 0.14 | Success Ratio: 0.276774 | Flip Count: 659
+Flip Pixel: Channel=[0], Row=[3], Col=[212]
+Time taken for this data: 8.39 seconds
+Step: 2381   | Initial PSNR: 23.917389
+PSNR After: 24.017559 | Change: 0.000175 | Diff: 0.100170
+Reward: 0.14 | Success Ratio: 0.276774 | Flip Count: 659
+Flip Pixel: Channel=[0], Row=[3], Col=[212]
+Time taken for this data: 8.39 seconds
+Episode 64: Total Reward: -328.6092014545611
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0865.png',), Episode count: 65[0m
+[92mInitial PSNR: 23.898880[0m
+Initial MSE: 0.002582[0m
+Step: 2226   | Initial PSNR: 23.898880
+PSNR After: 23.999050 | Change: 0.000311 | Diff: 0.100170
+Reward: 0.25 | Success Ratio: 0.283468 | Flip Count: 631
+Flip Pixel: Channel=[2], Row=[62], Col=[157]
+Time taken for this data: 7.84 seconds
+Step: 2226   | Initial PSNR: 23.898880
+PSNR After: 23.999050 | Change: 0.000311 | Diff: 0.100170
+Reward: 0.25 | Success Ratio: 0.283468 | Flip Count: 631
+Flip Pixel: Channel=[2], Row=[62], Col=[157]
+Time taken for this data: 7.84 seconds
+Episode 65: Total Reward: -303.0445147878472
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0866.png',), Episode count: 66[0m
+[92mInitial PSNR: 23.802042[0m
+Initial MSE: 0.002719[0m
+Step: 3542   | Initial PSNR: 23.802042
+PSNR After: 23.902569 | Change: 0.000772 | Diff: 0.100527
+Reward: 0.62 | Success Ratio: 0.170807 | Flip Count: 605
+Flip Pixel: Channel=[7], Row=[243], Col=[19]
+Time taken for this data: 12.49 seconds
+Step: 3542   | Initial PSNR: 23.802042
+PSNR After: 23.902569 | Change: 0.000772 | Diff: 0.100527
+Reward: 0.62 | Success Ratio: 0.170807 | Flip Count: 605
+Flip Pixel: Channel=[7], Row=[243], Col=[19]
+Time taken for this data: 12.49 seconds
+Episode 66: Total Reward: -1134.5986007918045
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0867.png',), Episode count: 67[0m
+[92mInitial PSNR: 23.136909[0m
+Initial MSE: 0.003781[0m
+Step: 2823   | Initial PSNR: 23.136909
+PSNR After: 23.236992 | Change: 0.000504 | Diff: 0.100082
+Reward: 0.40 | Success Ratio: 0.266029 | Flip Count: 751
+Flip Pixel: Channel=[3], Row=[147], Col=[57]
+Time taken for this data: 10.07 seconds
+Step: 2823   | Initial PSNR: 23.136909
+PSNR After: 23.236992 | Change: 0.000504 | Diff: 0.100082
+Reward: 0.40 | Success Ratio: 0.266029 | Flip Count: 751
+Flip Pixel: Channel=[3], Row=[147], Col=[57]
+Time taken for this data: 10.07 seconds
+Episode 67: Total Reward: -383.799045642715
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0868.png',), Episode count: 68[0m
+[92mInitial PSNR: 22.401131[0m
+Initial MSE: 0.005311[0m
+Step: 3586   | Initial PSNR: 22.401131
+PSNR After: 22.501366 | Change: 0.000324 | Diff: 0.100235
+Reward: 0.26 | Success Ratio: 0.221138 | Flip Count: 793
+Flip Pixel: Channel=[5], Row=[17], Col=[87]
+Time taken for this data: 12.87 seconds
+Step: 3586   | Initial PSNR: 22.401131
+PSNR After: 22.501366 | Change: 0.000324 | Diff: 0.100235
+Reward: 0.26 | Success Ratio: 0.221138 | Flip Count: 793
+Flip Pixel: Channel=[5], Row=[17], Col=[87]
+Time taken for this data: 12.87 seconds
+Episode 68: Total Reward: -567.2173146873432
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0869.png',), Episode count: 69[0m
+[92mInitial PSNR: 21.904198[0m
+Initial MSE: 0.006450[0m
+Step: 4107   | Initial PSNR: 21.904198
+PSNR After: 22.004246 | Change: 0.000099 | Diff: 0.100048
+Reward: 0.08 | Success Ratio: 0.193572 | Flip Count: 795
+Flip Pixel: Channel=[4], Row=[183], Col=[156]
+Time taken for this data: 14.62 seconds
+Step: 4107   | Initial PSNR: 21.904198
+PSNR After: 22.004246 | Change: 0.000099 | Diff: 0.100048
+Reward: 0.08 | Success Ratio: 0.193572 | Flip Count: 795
+Flip Pixel: Channel=[4], Row=[183], Col=[156]
+Time taken for this data: 14.62 seconds
+Episode 69: Total Reward: -687.622643051593
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0870.png',), Episode count: 70[0m
+[92mInitial PSNR: 25.161613[0m
+Initial MSE: 0.002654[0m
+Step: 2062   | Initial PSNR: 25.161613
+PSNR After: 25.261620 | Change: 0.000063 | Diff: 0.100006
+Reward: 0.05 | Success Ratio: 0.311348 | Flip Count: 642
+Flip Pixel: Channel=[1], Row=[164], Col=[2]
+Time taken for this data: 7.25 seconds
+Step: 2062   | Initial PSNR: 25.161613
+PSNR After: 25.261620 | Change: 0.000063 | Diff: 0.100006
+Reward: 0.05 | Success Ratio: 0.311348 | Flip Count: 642
+Flip Pixel: Channel=[1], Row=[164], Col=[2]
+Time taken for this data: 7.25 seconds
+Episode 70: Total Reward: -222.65073804700228
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0871.png',), Episode count: 71[0m
+[92mInitial PSNR: 24.213062[0m
+Initial MSE: 0.003528[0m
+Step: 2736   | Initial PSNR: 24.213062
+PSNR After: 24.313086 | Change: 0.000111 | Diff: 0.100023
+Reward: 0.09 | Success Ratio: 0.236111 | Flip Count: 646
+Flip Pixel: Channel=[1], Row=[211], Col=[117]
+Time taken for this data: 9.79 seconds
+Step: 2736   | Initial PSNR: 24.213062
+PSNR After: 24.313086 | Change: 0.000111 | Diff: 0.100023
+Reward: 0.09 | Success Ratio: 0.236111 | Flip Count: 646
+Flip Pixel: Channel=[1], Row=[211], Col=[117]
+Time taken for this data: 9.79 seconds
+Episode 71: Total Reward: -531.8388303118838
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0872.png',), Episode count: 72[0m
+[92mInitial PSNR: 22.529007[0m
+Initial MSE: 0.005542[0m
+Step: 3045   | Initial PSNR: 22.529007
+PSNR After: 22.629118 | Change: 0.000204 | Diff: 0.100111
+Reward: 0.16 | Success Ratio: 0.269294 | Flip Count: 820
+Flip Pixel: Channel=[7], Row=[172], Col=[24]
+Time taken for this data: 10.78 seconds
+Step: 3045   | Initial PSNR: 22.529007
+PSNR After: 22.629118 | Change: 0.000204 | Diff: 0.100111
+Reward: 0.16 | Success Ratio: 0.269294 | Flip Count: 820
+Flip Pixel: Channel=[7], Row=[172], Col=[24]
+Time taken for this data: 10.78 seconds
+Episode 72: Total Reward: -388.9003795723329
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0873.png',), Episode count: 73[0m
+[92mInitial PSNR: 24.675465[0m
+Initial MSE: 0.003408[0m
+Step: 2594   | Initial PSNR: 24.675465
+PSNR After: 24.775980 | Change: 0.000534 | Diff: 0.100515
+Reward: 0.43 | Success Ratio: 0.303778 | Flip Count: 788
+Flip Pixel: Channel=[4], Row=[243], Col=[189]
+Time taken for this data: 9.17 seconds
+Step: 2594   | Initial PSNR: 24.675465
+PSNR After: 24.775980 | Change: 0.000534 | Diff: 0.100515
+Reward: 0.43 | Success Ratio: 0.303778 | Flip Count: 788
+Flip Pixel: Channel=[4], Row=[243], Col=[189]
+Time taken for this data: 9.17 seconds
+Episode 73: Total Reward: -250.0322740640354
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0874.png',), Episode count: 74[0m
+[92mInitial PSNR: 21.546749[0m
+Initial MSE: 0.007004[0m
+Step: 4945   | Initial PSNR: 21.546749
+PSNR After: 21.646770 | Change: 0.000076 | Diff: 0.100021
+Reward: 0.06 | Success Ratio: 0.148837 | Flip Count: 736
+Flip Pixel: Channel=[2], Row=[188], Col=[42]
+Time taken for this data: 17.52 seconds
+Step: 4945   | Initial PSNR: 21.546749
+PSNR After: 21.646770 | Change: 0.000076 | Diff: 0.100021
+Reward: 0.06 | Success Ratio: 0.148837 | Flip Count: 736
+Flip Pixel: Channel=[2], Row=[188], Col=[42]
+Time taken for this data: 17.52 seconds
+Episode 74: Total Reward: -1042.9300484862622
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0875.png',), Episode count: 75[0m
+[92mInitial PSNR: 23.585642[0m
+Initial MSE: 0.004345[0m
+Step: 3554   | Initial PSNR: 23.585642
+PSNR After: 23.685654 | Change: 0.000275 | Diff: 0.100012
+Reward: 0.22 | Success Ratio: 0.232414 | Flip Count: 826
+Flip Pixel: Channel=[6], Row=[238], Col=[82]
+Time taken for this data: 12.53 seconds
+Step: 3554   | Initial PSNR: 23.585642
+PSNR After: 23.685654 | Change: 0.000275 | Diff: 0.100012
+Reward: 0.22 | Success Ratio: 0.232414 | Flip Count: 826
+Flip Pixel: Channel=[6], Row=[238], Col=[82]
+Time taken for this data: 12.53 seconds
+Episode 75: Total Reward: -440.54611011789495
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0876.png',), Episode count: 76[0m
+[92mInitial PSNR: 24.659595[0m
+Initial MSE: 0.003314[0m
+Step: 6307   | Initial PSNR: 24.659595
+PSNR After: 24.759607 | Change: 0.000143 | Diff: 0.100012
+Reward: 0.11 | Success Ratio: 0.169177 | Flip Count: 1067
+Flip Pixel: Channel=[3], Row=[117], Col=[130]
+Time taken for this data: 22.44 seconds
+Step: 6307   | Initial PSNR: 24.659595
+PSNR After: 24.759607 | Change: 0.000143 | Diff: 0.100012
+Reward: 0.11 | Success Ratio: 0.169177 | Flip Count: 1067
+Flip Pixel: Channel=[3], Row=[117], Col=[130]
+Time taken for this data: 22.44 seconds
+Episode 76: Total Reward: -768.0670825197324
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0877.png',), Episode count: 77[0m
+[92mInitial PSNR: 26.705759[0m
+Initial MSE: 0.001532[0m
+Step: 1989   | Initial PSNR: 26.705759
+PSNR After: 26.805870 | Change: 0.000126 | Diff: 0.100111
+Reward: 0.10 | Success Ratio: 0.263449 | Flip Count: 524
+Flip Pixel: Channel=[2], Row=[60], Col=[193]
+Time taken for this data: 6.95 seconds
+Step: 1989   | Initial PSNR: 26.705759
+PSNR After: 26.805870 | Change: 0.000126 | Diff: 0.100111
+Reward: 0.10 | Success Ratio: 0.263449 | Flip Count: 524
+Flip Pixel: Channel=[2], Row=[60], Col=[193]
+Time taken for this data: 6.95 seconds
+Episode 77: Total Reward: -388.5158136111677
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0878.png',), Episode count: 78[0m
+[92mInitial PSNR: 25.618061[0m
+Initial MSE: 0.002743[0m
+Step: 2514   | Initial PSNR: 25.618061
+PSNR After: 25.718357 | Change: 0.000772 | Diff: 0.100296
+Reward: 0.62 | Success Ratio: 0.275259 | Flip Count: 692
+Flip Pixel: Channel=[4], Row=[100], Col=[49]
+Time taken for this data: 9.05 seconds
+Step: 2514   | Initial PSNR: 25.618061
+PSNR After: 25.718357 | Change: 0.000772 | Diff: 0.100296
+Reward: 0.62 | Success Ratio: 0.275259 | Flip Count: 692
+Flip Pixel: Channel=[4], Row=[100], Col=[49]
+Time taken for this data: 9.05 seconds
+Episode 78: Total Reward: -369.5400667625296
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0879.png',), Episode count: 79[0m
+[92mInitial PSNR: 22.049137[0m
+Initial MSE: 0.006093[0m
+Step: 3783   | Initial PSNR: 22.049137
+PSNR After: 22.149202 | Change: 0.000080 | Diff: 0.100065
+Reward: 0.06 | Success Ratio: 0.236320 | Flip Count: 894
+Flip Pixel: Channel=[6], Row=[62], Col=[131]
+Time taken for this data: 13.35 seconds
+Step: 3783   | Initial PSNR: 22.049137
+PSNR After: 22.149202 | Change: 0.000080 | Diff: 0.100065
+Reward: 0.06 | Success Ratio: 0.236320 | Flip Count: 894
+Flip Pixel: Channel=[6], Row=[62], Col=[131]
+Time taken for this data: 13.35 seconds
+Episode 79: Total Reward: -505.05797872863036
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0880.png',), Episode count: 80[0m
+[92mInitial PSNR: 24.028286[0m
+Initial MSE: 0.003079[0m
+Step: 2531   | Initial PSNR: 24.028286
+PSNR After: 24.128351 | Change: 0.000257 | Diff: 0.100065
+Reward: 0.21 | Success Ratio: 0.227578 | Flip Count: 576
+Flip Pixel: Channel=[6], Row=[247], Col=[166]
+Time taken for this data: 8.89 seconds
+Step: 2531   | Initial PSNR: 24.028286
+PSNR After: 24.128351 | Change: 0.000257 | Diff: 0.100065
+Reward: 0.21 | Success Ratio: 0.227578 | Flip Count: 576
+Flip Pixel: Channel=[6], Row=[247], Col=[166]
+Time taken for this data: 8.89 seconds
+Episode 80: Total Reward: -571.9719980248894
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0881.png',), Episode count: 81[0m
+[92mInitial PSNR: 20.959045[0m
+Initial MSE: 0.007956[0m
+Step: 3848   | Initial PSNR: 20.959045
+PSNR After: 21.059189 | Change: 0.000175 | Diff: 0.100143
+Reward: 0.14 | Success Ratio: 0.248701 | Flip Count: 957
+Flip Pixel: Channel=[1], Row=[105], Col=[142]
+Time taken for this data: 13.62 seconds
+Step: 3848   | Initial PSNR: 20.959045
+PSNR After: 21.059189 | Change: 0.000175 | Diff: 0.100143
+Reward: 0.14 | Success Ratio: 0.248701 | Flip Count: 957
+Flip Pixel: Channel=[1], Row=[105], Col=[142]
+Time taken for this data: 13.63 seconds
+Episode 81: Total Reward: -460.9379288672021
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0882.png',), Episode count: 82[0m
+[92mInitial PSNR: 23.104944[0m
+Initial MSE: 0.004892[0m
+Step: 4231   | Initial PSNR: 23.104944
+PSNR After: 23.205194 | Change: 0.000257 | Diff: 0.100250
+Reward: 0.21 | Success Ratio: 0.220043 | Flip Count: 931
+Flip Pixel: Channel=[1], Row=[61], Col=[44]
+Time taken for this data: 14.78 seconds
+Step: 4231   | Initial PSNR: 23.104944
+PSNR After: 23.205194 | Change: 0.000257 | Diff: 0.100250
+Reward: 0.21 | Success Ratio: 0.220043 | Flip Count: 931
+Flip Pixel: Channel=[1], Row=[61], Col=[44]
+Time taken for this data: 14.78 seconds
+Episode 82: Total Reward: -553.5822458489179
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0883.png',), Episode count: 83[0m
+[92mInitial PSNR: 24.441391[0m
+Initial MSE: 0.003568[0m
+Step: 2582   | Initial PSNR: 24.441391
+PSNR After: 24.541462 | Change: 0.000246 | Diff: 0.100071
+Reward: 0.20 | Success Ratio: 0.297057 | Flip Count: 767
+Flip Pixel: Channel=[6], Row=[201], Col=[162]
+Time taken for this data: 8.97 seconds
+Step: 2582   | Initial PSNR: 24.441391
+PSNR After: 24.541462 | Change: 0.000246 | Diff: 0.100071
+Reward: 0.20 | Success Ratio: 0.297057 | Flip Count: 767
+Flip Pixel: Channel=[6], Row=[201], Col=[162]
+Time taken for this data: 8.97 seconds
+Episode 83: Total Reward: -280.9953718752215
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0884.png',), Episode count: 84[0m
+[92mInitial PSNR: 23.382130[0m
+Initial MSE: 0.004590[0m
+Step: 2699   | Initial PSNR: 23.382130
+PSNR After: 23.482149 | Change: 0.000113 | Diff: 0.100019
+Reward: 0.09 | Success Ratio: 0.274176 | Flip Count: 740
+Flip Pixel: Channel=[3], Row=[204], Col=[144]
+Time taken for this data: 9.44 seconds
+Step: 2699   | Initial PSNR: 23.382130
+PSNR After: 23.482149 | Change: 0.000113 | Diff: 0.100019
+Reward: 0.09 | Success Ratio: 0.274176 | Flip Count: 740
+Flip Pixel: Channel=[3], Row=[204], Col=[144]
+Time taken for this data: 9.44 seconds
+Episode 84: Total Reward: -326.3717931756321
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0885.png',), Episode count: 85[0m
+[92mInitial PSNR: 24.154610[0m
+Initial MSE: 0.003842[0m
+Step: 2859   | Initial PSNR: 24.154610
+PSNR After: 24.254654 | Change: 0.000053 | Diff: 0.100044
+Reward: 0.04 | Success Ratio: 0.295908 | Flip Count: 846
+Flip Pixel: Channel=[4], Row=[179], Col=[5]
+Time taken for this data: 9.97 seconds
+Step: 2859   | Initial PSNR: 24.154610
+PSNR After: 24.254654 | Change: 0.000053 | Diff: 0.100044
+Reward: 0.04 | Success Ratio: 0.295908 | Flip Count: 846
+Flip Pixel: Channel=[4], Row=[179], Col=[5]
+Time taken for this data: 9.97 seconds
+Episode 85: Total Reward: -276.1758660382029
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0886.png',), Episode count: 86[0m
+[92mInitial PSNR: 24.109613[0m
+Initial MSE: 0.003467[0m
+Step: 2927   | Initial PSNR: 24.109613
+PSNR After: 24.209623 | Change: 0.000084 | Diff: 0.100010
+Reward: 0.07 | Success Ratio: 0.251794 | Flip Count: 737
+Flip Pixel: Channel=[7], Row=[46], Col=[21]
+Time taken for this data: 10.21 seconds
+Step: 2927   | Initial PSNR: 24.109613
+PSNR After: 24.209623 | Change: 0.000084 | Diff: 0.100010
+Reward: 0.07 | Success Ratio: 0.251794 | Flip Count: 737
+Flip Pixel: Channel=[7], Row=[46], Col=[21]
+Time taken for this data: 10.21 seconds
+Episode 86: Total Reward: -477.70346453602326
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0887.png',), Episode count: 87[0m
+[92mInitial PSNR: 20.207161[0m
+Initial MSE: 0.009534[0m
+Step: 4783   | Initial PSNR: 20.207161
+PSNR After: 20.307199 | Change: 0.000109 | Diff: 0.100039
+Reward: 0.09 | Success Ratio: 0.235835 | Flip Count: 1128
+Flip Pixel: Channel=[4], Row=[93], Col=[36]
+Time taken for this data: 16.69 seconds
+Step: 4783   | Initial PSNR: 20.207161
+PSNR After: 20.307199 | Change: 0.000109 | Diff: 0.100039
+Reward: 0.09 | Success Ratio: 0.235835 | Flip Count: 1128
+Flip Pixel: Channel=[4], Row=[93], Col=[36]
+Time taken for this data: 16.69 seconds
+Episode 87: Total Reward: -502.77983206530666
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0888.png',), Episode count: 88[0m
+[92mInitial PSNR: 25.263439[0m
+Initial MSE: 0.002976[0m
+Step: 1954   | Initial PSNR: 25.263439
+PSNR After: 25.363544 | Change: 0.000320 | Diff: 0.100105
+Reward: 0.26 | Success Ratio: 0.306039 | Flip Count: 598
+Flip Pixel: Channel=[1], Row=[30], Col=[155]
+Time taken for this data: 7.03 seconds
+Step: 1954   | Initial PSNR: 25.263439
+PSNR After: 25.363544 | Change: 0.000320 | Diff: 0.100105
+Reward: 0.26 | Success Ratio: 0.306039 | Flip Count: 598
+Flip Pixel: Channel=[1], Row=[30], Col=[155]
+Time taken for this data: 7.03 seconds
+Episode 88: Total Reward: -287.0483281587336
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0889.png',), Episode count: 89[0m
+[92mInitial PSNR: 25.302572[0m
+Initial MSE: 0.002949[0m
+Step: 2360   | Initial PSNR: 25.302572
+PSNR After: 25.402605 | Change: 0.000050 | Diff: 0.100033
+Reward: 0.04 | Success Ratio: 0.269915 | Flip Count: 637
+Flip Pixel: Channel=[4], Row=[220], Col=[65]
+Time taken for this data: 8.25 seconds
+Step: 2360   | Initial PSNR: 25.302572
+PSNR After: 25.402605 | Change: 0.000050 | Diff: 0.100033
+Reward: 0.04 | Success Ratio: 0.269915 | Flip Count: 637
+Flip Pixel: Channel=[4], Row=[220], Col=[65]
+Time taken for this data: 8.26 seconds
+Episode 89: Total Reward: -403.96414980112957
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0890.png',), Episode count: 90[0m
+[92mInitial PSNR: 24.398775[0m
+Initial MSE: 0.003632[0m
+Step: 2368   | Initial PSNR: 24.398775
+PSNR After: 24.498810 | Change: 0.000071 | Diff: 0.100035
+Reward: 0.06 | Success Ratio: 0.281250 | Flip Count: 666
+Flip Pixel: Channel=[2], Row=[127], Col=[24]
+Time taken for this data: 8.30 seconds
+Step: 2368   | Initial PSNR: 24.398775
+PSNR After: 24.498810 | Change: 0.000071 | Diff: 0.100035
+Reward: 0.06 | Success Ratio: 0.281250 | Flip Count: 666
+Flip Pixel: Channel=[2], Row=[127], Col=[24]
+Time taken for this data: 8.30 seconds
+Episode 90: Total Reward: -342.0738961791992
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0891.png',), Episode count: 91[0m
+[92mInitial PSNR: 25.755060[0m
+Initial MSE: 0.002514[0m
+Step: 2399   | Initial PSNR: 25.755060
+PSNR After: 25.855293 | Change: 0.000429 | Diff: 0.100233
+Reward: 0.34 | Success Ratio: 0.274698 | Flip Count: 659
+Flip Pixel: Channel=[6], Row=[20], Col=[157]
+Time taken for this data: 8.36 seconds
+Step: 2399   | Initial PSNR: 25.755060
+PSNR After: 25.855293 | Change: 0.000429 | Diff: 0.100233
+Reward: 0.34 | Success Ratio: 0.274698 | Flip Count: 659
+Flip Pixel: Channel=[6], Row=[20], Col=[157]
+Time taken for this data: 8.36 seconds
+Episode 91: Total Reward: -355.17528551287455
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0892.png',), Episode count: 92[0m
+[92mInitial PSNR: 23.468990[0m
+Initial MSE: 0.003628[0m
+Step: 2391   | Initial PSNR: 23.468990
+PSNR After: 23.569033 | Change: 0.000158 | Diff: 0.100042
+Reward: 0.13 | Success Ratio: 0.280217 | Flip Count: 670
+Flip Pixel: Channel=[1], Row=[194], Col=[34]
+Time taken for this data: 8.34 seconds
+Step: 2391   | Initial PSNR: 23.468990
+PSNR After: 23.569033 | Change: 0.000158 | Diff: 0.100042
+Reward: 0.13 | Success Ratio: 0.280217 | Flip Count: 670
+Flip Pixel: Channel=[1], Row=[194], Col=[34]
+Time taken for this data: 8.35 seconds
+Episode 92: Total Reward: -305.09701201842984
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0893.png',), Episode count: 93[0m
+[92mInitial PSNR: 28.430397[0m
+Initial MSE: 0.000715[0m
+Step: 2574   | Initial PSNR: 28.430397
+PSNR After: 28.530411 | Change: 0.000042 | Diff: 0.100014
+Reward: 0.03 | Success Ratio: 0.193473 | Flip Count: 498
+Flip Pixel: Channel=[6], Row=[183], Col=[113]
+Time taken for this data: 9.06 seconds
+Step: 2574   | Initial PSNR: 28.430397
+PSNR After: 28.530411 | Change: 0.000042 | Diff: 0.100014
+Reward: 0.03 | Success Ratio: 0.193473 | Flip Count: 498
+Flip Pixel: Channel=[6], Row=[183], Col=[113]
+Time taken for this data: 9.07 seconds
+Episode 93: Total Reward: -623.9507621829588
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0894.png',), Episode count: 94[0m
+[92mInitial PSNR: 26.590714[0m
+Initial MSE: 0.002090[0m
+Step: 2817   | Initial PSNR: 26.590714
+PSNR After: 26.690781 | Change: 0.000153 | Diff: 0.100067
+Reward: 0.12 | Success Ratio: 0.229677 | Flip Count: 647
+Flip Pixel: Channel=[1], Row=[100], Col=[104]
+Time taken for this data: 9.86 seconds
+Step: 2817   | Initial PSNR: 26.590714
+PSNR After: 26.690781 | Change: 0.000153 | Diff: 0.100067
+Reward: 0.12 | Success Ratio: 0.229677 | Flip Count: 647
+Flip Pixel: Channel=[1], Row=[100], Col=[104]
+Time taken for this data: 9.86 seconds
+Episode 94: Total Reward: -576.5865674019904
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0895.png',), Episode count: 95[0m
+[92mInitial PSNR: 24.010567[0m
+Initial MSE: 0.003971[0m
+Step: 2648   | Initial PSNR: 24.010567
+PSNR After: 24.110689 | Change: 0.000330 | Diff: 0.100122
+Reward: 0.26 | Success Ratio: 0.293807 | Flip Count: 778
+Flip Pixel: Channel=[4], Row=[197], Col=[93]
+Time taken for this data: 9.35 seconds
+Step: 2648   | Initial PSNR: 24.010567
+PSNR After: 24.110689 | Change: 0.000330 | Diff: 0.100122
+Reward: 0.26 | Success Ratio: 0.293807 | Flip Count: 778
+Flip Pixel: Channel=[4], Row=[197], Col=[93]
+Time taken for this data: 9.35 seconds
+Episode 95: Total Reward: -289.3680830033926
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0896.png',), Episode count: 96[0m
+[92mInitial PSNR: 22.951664[0m
+Initial MSE: 0.004602[0m
+Step: 7193   | Initial PSNR: 22.951664
+PSNR After: 23.051680 | Change: 0.000051 | Diff: 0.100016
+Reward: 0.04 | Success Ratio: 0.126095 | Flip Count: 907
+Flip Pixel: Channel=[4], Row=[19], Col=[134]
+Time taken for this data: 25.48 seconds
+Step: 7193   | Initial PSNR: 22.951664
+PSNR After: 23.051680 | Change: 0.000051 | Diff: 0.100016
+Reward: 0.04 | Success Ratio: 0.126095 | Flip Count: 907
+Flip Pixel: Channel=[4], Row=[19], Col=[134]
+Time taken for this data: 25.48 seconds
+Episode 96: Total Reward: -1298.3574903534727
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0897.png',), Episode count: 97[0m
+[92mInitial PSNR: 22.403091[0m
+Initial MSE: 0.005660[0m
+Step: 4011   | Initial PSNR: 22.403091
+PSNR After: 22.503155 | Change: 0.000067 | Diff: 0.100063
+Reward: 0.05 | Success Ratio: 0.231364 | Flip Count: 928
+Flip Pixel: Channel=[6], Row=[60], Col=[111]
+Time taken for this data: 14.00 seconds
+Step: 4011   | Initial PSNR: 22.403091
+PSNR After: 22.503155 | Change: 0.000067 | Diff: 0.100063
+Reward: 0.05 | Success Ratio: 0.231364 | Flip Count: 928
+Flip Pixel: Channel=[6], Row=[60], Col=[111]
+Time taken for this data: 14.00 seconds
+Episode 97: Total Reward: -450.978054275626
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0898.png',), Episode count: 98[0m
+[92mInitial PSNR: 23.355619[0m
+Initial MSE: 0.004618[0m
+Step: 3117   | Initial PSNR: 23.355619
+PSNR After: 23.455956 | Change: 0.000391 | Diff: 0.100336
+Reward: 0.31 | Success Ratio: 0.246391 | Flip Count: 768
+Flip Pixel: Channel=[1], Row=[136], Col=[208]
+Time taken for this data: 10.93 seconds
+Step: 3117   | Initial PSNR: 23.355619
+PSNR After: 23.455956 | Change: 0.000391 | Diff: 0.100336
+Reward: 0.31 | Success Ratio: 0.246391 | Flip Count: 768
+Flip Pixel: Channel=[1], Row=[136], Col=[208]
+Time taken for this data: 10.94 seconds
+Episode 98: Total Reward: -471.2490452528774
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0899.png',), Episode count: 99[0m
+[92mInitial PSNR: 23.965542[0m
+Initial MSE: 0.003981[0m
+Step: 3656   | Initial PSNR: 23.965542
+PSNR After: 24.065647 | Change: 0.000288 | Diff: 0.100105
+Reward: 0.23 | Success Ratio: 0.242068 | Flip Count: 885
+Flip Pixel: Channel=[7], Row=[238], Col=[7]
+Time taken for this data: 12.90 seconds
+Step: 3656   | Initial PSNR: 23.965542
+PSNR After: 24.065647 | Change: 0.000288 | Diff: 0.100105
+Reward: 0.23 | Success Ratio: 0.242068 | Flip Count: 885
+Flip Pixel: Channel=[7], Row=[238], Col=[7]
+Time taken for this data: 12.90 seconds
+Episode 99: Total Reward: -470.8589015365102
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0900.png',), Episode count: 100[0m
+[92mInitial PSNR: 24.185955[0m
+Initial MSE: 0.003814[0m
+Step: 3737   | Initial PSNR: 24.185955
+PSNR After: 24.286062 | Change: 0.000265 | Diff: 0.100107
+Reward: 0.21 | Success Ratio: 0.203372 | Flip Count: 760
+Flip Pixel: Channel=[2], Row=[239], Col=[205]
+Time taken for this data: 13.10 seconds
+Step: 3737   | Initial PSNR: 24.185955
+PSNR After: 24.286062 | Change: 0.000265 | Diff: 0.100107
+Reward: 0.21 | Success Ratio: 0.203372 | Flip Count: 760
+Flip Pixel: Channel=[2], Row=[239], Col=[205]
+Time taken for this data: 13.11 seconds
+Episode 100: Total Reward: -714.0642246497544
+[40;93m[INFO] Reached the end of dataset. Restarting from the beginning.[0m
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0801.png',), Episode count: 101[0m
+[92mInitial PSNR: 24.226343[0m
+Initial MSE: 0.003403[0m
+Step: 4084   | Initial PSNR: 24.226343
+PSNR After: 24.326555 | Change: 0.000395 | Diff: 0.100212
+Reward: 0.32 | Success Ratio: 0.190744 | Flip Count: 779
+Flip Pixel: Channel=[4], Row=[118], Col=[44]
+Time taken for this data: 14.25 seconds
+Step: 4084   | Initial PSNR: 24.226343
+PSNR After: 24.326555 | Change: 0.000395 | Diff: 0.100212
+Reward: 0.32 | Success Ratio: 0.190744 | Flip Count: 779
+Flip Pixel: Channel=[4], Row=[118], Col=[44]
+Time taken for this data: 14.25 seconds
+Episode 101: Total Reward: -779.5160039551371
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0802.png',), Episode count: 102[0m
+[92mInitial PSNR: 25.081959[0m
+Initial MSE: 0.002206[0m
+Step: 1984   | Initial PSNR: 25.081959
+PSNR After: 25.181973 | Change: 0.000050 | Diff: 0.100014
+Reward: 0.04 | Success Ratio: 0.289315 | Flip Count: 574
+Flip Pixel: Channel=[6], Row=[67], Col=[119]
+Time taken for this data: 6.92 seconds
+Step: 1984   | Initial PSNR: 25.081959
+PSNR After: 25.181973 | Change: 0.000050 | Diff: 0.100014
+Reward: 0.04 | Success Ratio: 0.289315 | Flip Count: 574
+Flip Pixel: Channel=[6], Row=[67], Col=[119]
+Time taken for this data: 6.92 seconds
+Episode 102: Total Reward: -326.33404469792936
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0803.png',), Episode count: 103[0m
+[92mInitial PSNR: 24.374054[0m
+Initial MSE: 0.002694[0m
+Step: 1886   | Initial PSNR: 24.374054
+PSNR After: 24.474106 | Change: 0.000259 | Diff: 0.100052
+Reward: 0.21 | Success Ratio: 0.293213 | Flip Count: 553
+Flip Pixel: Channel=[2], Row=[225], Col=[32]
+Time taken for this data: 6.57 seconds
+Step: 1886   | Initial PSNR: 24.374054
+PSNR After: 24.474106 | Change: 0.000259 | Diff: 0.100052
+Reward: 0.21 | Success Ratio: 0.293213 | Flip Count: 553
+Flip Pixel: Channel=[2], Row=[225], Col=[32]
+Time taken for this data: 6.57 seconds
+Episode 103: Total Reward: -299.32364470860534
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0804.png',), Episode count: 104[0m
+[92mInitial PSNR: 24.182537[0m
+Initial MSE: 0.003132[0m
+Step: 2516   | Initial PSNR: 24.182537
+PSNR After: 24.282612 | Change: 0.000092 | Diff: 0.100075
+Reward: 0.07 | Success Ratio: 0.285374 | Flip Count: 718
+Flip Pixel: Channel=[6], Row=[2], Col=[239]
+Time taken for this data: 8.78 seconds
+Step: 2516   | Initial PSNR: 24.182537
+PSNR After: 24.282612 | Change: 0.000092 | Diff: 0.100075
+Reward: 0.07 | Success Ratio: 0.285374 | Flip Count: 718
+Flip Pixel: Channel=[6], Row=[2], Col=[239]
+Time taken for this data: 8.79 seconds
+Episode 104: Total Reward: -330.5442616860564
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0805.png',), Episode count: 105[0m
+[92mInitial PSNR: 22.618557[0m
+Initial MSE: 0.005472[0m
+Step: 4603   | Initial PSNR: 22.618557
+PSNR After: 22.718592 | Change: 0.000141 | Diff: 0.100035
+Reward: 0.11 | Success Ratio: 0.190311 | Flip Count: 876
+Flip Pixel: Channel=[4], Row=[85], Col=[151]
+Time taken for this data: 16.05 seconds
+Step: 4603   | Initial PSNR: 22.618557
+PSNR After: 22.718592 | Change: 0.000141 | Diff: 0.100035
+Reward: 0.11 | Success Ratio: 0.190311 | Flip Count: 876
+Flip Pixel: Channel=[4], Row=[85], Col=[151]
+Time taken for this data: 16.05 seconds
+Episode 105: Total Reward: -889.2543130299675
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0806.png',), Episode count: 106[0m
+[92mInitial PSNR: 24.093254[0m
+Initial MSE: 0.003281[0m
+Step: 3416   | Initial PSNR: 24.093254
+PSNR After: 24.193321 | Change: 0.000320 | Diff: 0.100067
+Reward: 0.26 | Success Ratio: 0.227166 | Flip Count: 776
+Flip Pixel: Channel=[1], Row=[114], Col=[190]
+Time taken for this data: 11.86 seconds
+Step: 3416   | Initial PSNR: 24.093254
+PSNR After: 24.193321 | Change: 0.000320 | Diff: 0.100067
+Reward: 0.26 | Success Ratio: 0.227166 | Flip Count: 776
+Flip Pixel: Channel=[1], Row=[114], Col=[190]
+Time taken for this data: 11.86 seconds
+Episode 106: Total Reward: -576.9127639191275
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0807.png',), Episode count: 107[0m
+[92mInitial PSNR: 25.432899[0m
+Initial MSE: 0.002818[0m
+Step: 2557   | Initial PSNR: 25.432899
+PSNR After: 25.533215 | Change: 0.000340 | Diff: 0.100315
+Reward: 0.27 | Success Ratio: 0.240907 | Flip Count: 616
+Flip Pixel: Channel=[7], Row=[205], Col=[33]
+Time taken for this data: 8.90 seconds
+Step: 2557   | Initial PSNR: 25.432899
+PSNR After: 25.533215 | Change: 0.000340 | Diff: 0.100315
+Reward: 0.27 | Success Ratio: 0.240907 | Flip Count: 616
+Flip Pixel: Channel=[7], Row=[205], Col=[33]
+Time taken for this data: 8.91 seconds
+Episode 107: Total Reward: -491.6345125779338
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0808.png',), Episode count: 108[0m
+[92mInitial PSNR: 21.428085[0m
+Initial MSE: 0.007198[0m
+Step: 3712   | Initial PSNR: 21.428085
+PSNR After: 21.528147 | Change: 0.000097 | Diff: 0.100061
+Reward: 0.08 | Success Ratio: 0.263200 | Flip Count: 977
+Flip Pixel: Channel=[6], Row=[35], Col=[162]
+Time taken for this data: 13.02 seconds
+Step: 3712   | Initial PSNR: 21.428085
+PSNR After: 21.528147 | Change: 0.000097 | Diff: 0.100061
+Reward: 0.08 | Success Ratio: 0.263200 | Flip Count: 977
+Flip Pixel: Channel=[6], Row=[35], Col=[162]
+Time taken for this data: 13.03 seconds
+Episode 108: Total Reward: -386.13509930916075
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0809.png',), Episode count: 109[0m
+[92mInitial PSNR: 24.290531[0m
+Initial MSE: 0.003162[0m
+Step: 2874   | Initial PSNR: 24.290531
+PSNR After: 24.390575 | Change: 0.000080 | Diff: 0.100044
+Reward: 0.06 | Success Ratio: 0.205985 | Flip Count: 592
+Flip Pixel: Channel=[0], Row=[135], Col=[91]
+Time taken for this data: 10.22 seconds
+Step: 2874   | Initial PSNR: 24.290531
+PSNR After: 24.390575 | Change: 0.000080 | Diff: 0.100044
+Reward: 0.06 | Success Ratio: 0.205985 | Flip Count: 592
+Flip Pixel: Channel=[0], Row=[135], Col=[91]
+Time taken for this data: 10.22 seconds
+Episode 109: Total Reward: -718.2018785383776
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0810.png',), Episode count: 110[0m
+[92mInitial PSNR: 22.468155[0m
+Initial MSE: 0.004410[0m
+Step: 3025   | Initial PSNR: 22.468155
+PSNR After: 22.568169 | Change: 0.000103 | Diff: 0.100014
+Reward: 0.08 | Success Ratio: 0.287934 | Flip Count: 871
+Flip Pixel: Channel=[1], Row=[201], Col=[140]
+Time taken for this data: 10.82 seconds
+Step: 3025   | Initial PSNR: 22.468155
+PSNR After: 22.568169 | Change: 0.000103 | Diff: 0.100014
+Reward: 0.08 | Success Ratio: 0.287934 | Flip Count: 871
+Flip Pixel: Channel=[1], Row=[201], Col=[140]
+Time taken for this data: 10.82 seconds
+Episode 110: Total Reward: -315.2699458584716
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0811.png',), Episode count: 111[0m
+[92mInitial PSNR: 27.342958[0m
+Initial MSE: 0.001239[0m
+Step: 2820   | Initial PSNR: 27.342958
+PSNR After: 27.443027 | Change: 0.000324 | Diff: 0.100069
+Reward: 0.26 | Success Ratio: 0.225887 | Flip Count: 637
+Flip Pixel: Channel=[2], Row=[220], Col=[156]
+Time taken for this data: 9.85 seconds
+Step: 2820   | Initial PSNR: 27.342958
+PSNR After: 27.443027 | Change: 0.000324 | Diff: 0.100069
+Reward: 0.26 | Success Ratio: 0.225887 | Flip Count: 637
+Flip Pixel: Channel=[2], Row=[220], Col=[156]
+Time taken for this data: 9.85 seconds
+Episode 111: Total Reward: -471.5369003343261
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0812.png',), Episode count: 112[0m
+[92mInitial PSNR: 26.354034[0m
+Initial MSE: 0.002155[0m
+Step: 4859   | Initial PSNR: 26.354034
+PSNR After: 26.454145 | Change: 0.000135 | Diff: 0.100111
+Reward: 0.11 | Success Ratio: 0.211978 | Flip Count: 1030
+Flip Pixel: Channel=[3], Row=[133], Col=[191]
+Time taken for this data: 16.91 seconds
+Step: 4859   | Initial PSNR: 26.354034
+PSNR After: 26.454145 | Change: 0.000135 | Diff: 0.100111
+Reward: 0.11 | Success Ratio: 0.211978 | Flip Count: 1030
+Flip Pixel: Channel=[3], Row=[133], Col=[191]
+Time taken for this data: 16.91 seconds
+Episode 112: Total Reward: -622.1329135963618
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0813.png',), Episode count: 113[0m
+[92mInitial PSNR: 25.374109[0m
+Initial MSE: 0.002901[0m
+Step: 2552   | Initial PSNR: 25.374109
+PSNR After: 25.474112 | Change: 0.000017 | Diff: 0.100002
+Reward: 0.01 | Success Ratio: 0.277429 | Flip Count: 708
+Flip Pixel: Channel=[6], Row=[131], Col=[231]
+Time taken for this data: 8.97 seconds
+Step: 2552   | Initial PSNR: 25.374109
+PSNR After: 25.474112 | Change: 0.000017 | Diff: 0.100002
+Reward: 0.01 | Success Ratio: 0.277429 | Flip Count: 708
+Flip Pixel: Channel=[6], Row=[131], Col=[231]
+Time taken for this data: 8.97 seconds
+Episode 113: Total Reward: -285.77687272572723
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0814.png',), Episode count: 114[0m
+[92mInitial PSNR: 24.892569[0m
+Initial MSE: 0.003241[0m
+Step: 1970   | Initial PSNR: 24.892569
+PSNR After: 24.992647 | Change: 0.000319 | Diff: 0.100079
+Reward: 0.25 | Success Ratio: 0.281726 | Flip Count: 555
+Flip Pixel: Channel=[2], Row=[223], Col=[79]
+Time taken for this data: 6.89 seconds
+Step: 1970   | Initial PSNR: 24.892569
+PSNR After: 24.992647 | Change: 0.000319 | Diff: 0.100079
+Reward: 0.25 | Success Ratio: 0.281726 | Flip Count: 555
+Flip Pixel: Channel=[2], Row=[223], Col=[79]
+Time taken for this data: 6.89 seconds
+Episode 114: Total Reward: -248.34171375956248
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0815.png',), Episode count: 115[0m
+[92mInitial PSNR: 23.042925[0m
+Initial MSE: 0.004656[0m
+Step: 3667   | Initial PSNR: 23.042925
+PSNR After: 23.142946 | Change: 0.000076 | Diff: 0.100021
+Reward: 0.06 | Success Ratio: 0.221707 | Flip Count: 813
+Flip Pixel: Channel=[6], Row=[205], Col=[154]
+Time taken for this data: 12.81 seconds
+Step: 3667   | Initial PSNR: 23.042925
+PSNR After: 23.142946 | Change: 0.000076 | Diff: 0.100021
+Reward: 0.06 | Success Ratio: 0.221707 | Flip Count: 813
+Flip Pixel: Channel=[6], Row=[205], Col=[154]
+Time taken for this data: 12.82 seconds
+Episode 115: Total Reward: -623.4974728014984
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0816.png',), Episode count: 116[0m
+[92mInitial PSNR: 24.121155[0m
+Initial MSE: 0.002195[0m
+Step: 2066   | Initial PSNR: 24.121155
+PSNR After: 24.221165 | Change: 0.000084 | Diff: 0.100010
+Reward: 0.07 | Success Ratio: 0.281220 | Flip Count: 581
+Flip Pixel: Channel=[2], Row=[117], Col=[77]
+Time taken for this data: 7.27 seconds
+Step: 2066   | Initial PSNR: 24.121155
+PSNR After: 24.221165 | Change: 0.000084 | Diff: 0.100010
+Reward: 0.07 | Success Ratio: 0.281220 | Flip Count: 581
+Flip Pixel: Channel=[2], Row=[117], Col=[77]
+Time taken for this data: 7.27 seconds
+Episode 116: Total Reward: -303.0807967054735
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0817.png',), Episode count: 117[0m
+[92mInitial PSNR: 23.467945[0m
+Initial MSE: 0.003725[0m
+Step: 2394   | Initial PSNR: 23.467945
+PSNR After: 23.568043 | Change: 0.000502 | Diff: 0.100098
+Reward: 0.40 | Success Ratio: 0.253551 | Flip Count: 607
+Flip Pixel: Channel=[6], Row=[192], Col=[24]
+Time taken for this data: 8.39 seconds
+Step: 2394   | Initial PSNR: 23.467945
+PSNR After: 23.568043 | Change: 0.000502 | Diff: 0.100098
+Reward: 0.40 | Success Ratio: 0.253551 | Flip Count: 607
+Flip Pixel: Channel=[6], Row=[192], Col=[24]
+Time taken for this data: 8.40 seconds
+Episode 117: Total Reward: -415.1288168296958
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0818.png',), Episode count: 118[0m
+[92mInitial PSNR: 20.782558[0m
+Initial MSE: 0.008351[0m
+Step: 3810   | Initial PSNR: 20.782558
+PSNR After: 20.882647 | Change: 0.000458 | Diff: 0.100088
+Reward: 0.37 | Success Ratio: 0.237270 | Flip Count: 904
+Flip Pixel: Channel=[6], Row=[118], Col=[118]
+Time taken for this data: 13.33 seconds
+Step: 3810   | Initial PSNR: 20.782558
+PSNR After: 20.882647 | Change: 0.000458 | Diff: 0.100088
+Reward: 0.37 | Success Ratio: 0.237270 | Flip Count: 904
+Flip Pixel: Channel=[6], Row=[118], Col=[118]
+Time taken for this data: 13.33 seconds
+Episode 118: Total Reward: -488.7296357122554
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0819.png',), Episode count: 119[0m
+[92mInitial PSNR: 25.309677[0m
+Initial MSE: 0.002074[0m
+Step: 2241   | Initial PSNR: 25.309677
+PSNR After: 25.409815 | Change: 0.000183 | Diff: 0.100138
+Reward: 0.15 | Success Ratio: 0.305221 | Flip Count: 684
+Flip Pixel: Channel=[3], Row=[202], Col=[235]
+Time taken for this data: 7.89 seconds
+Step: 2241   | Initial PSNR: 25.309677
+PSNR After: 25.409815 | Change: 0.000183 | Diff: 0.100138
+Reward: 0.15 | Success Ratio: 0.305221 | Flip Count: 684
+Flip Pixel: Channel=[3], Row=[202], Col=[235]
+Time taken for this data: 7.89 seconds
+Episode 119: Total Reward: -260.61610817750363
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0820.png',), Episode count: 120[0m
+[92mInitial PSNR: 23.066256[0m
+Initial MSE: 0.004936[0m
+Step: 4047   | Initial PSNR: 23.066256
+PSNR After: 23.166267 | Change: 0.000162 | Diff: 0.100012
+Reward: 0.13 | Success Ratio: 0.206820 | Flip Count: 837
+Flip Pixel: Channel=[1], Row=[164], Col=[70]
+Time taken for this data: 14.15 seconds
+Step: 4047   | Initial PSNR: 23.066256
+PSNR After: 23.166267 | Change: 0.000162 | Diff: 0.100012
+Reward: 0.13 | Success Ratio: 0.206820 | Flip Count: 837
+Flip Pixel: Channel=[1], Row=[164], Col=[70]
+Time taken for this data: 14.16 seconds
+Episode 120: Total Reward: -733.2349246322678
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0821.png',), Episode count: 121[0m
+[92mInitial PSNR: 25.548079[0m
+Initial MSE: 0.001580[0m
+Step: 5950   | Initial PSNR: 25.548079
+PSNR After: 25.648094 | Change: 0.000492 | Diff: 0.100016
+Reward: 0.39 | Success Ratio: 0.100840 | Flip Count: 600
+Flip Pixel: Channel=[2], Row=[2], Col=[37]
+Time taken for this data: 21.14 seconds
+Step: 5950   | Initial PSNR: 25.548079
+PSNR After: 25.648094 | Change: 0.000492 | Diff: 0.100016
+Reward: 0.39 | Success Ratio: 0.100840 | Flip Count: 600
+Flip Pixel: Channel=[2], Row=[2], Col=[37]
+Time taken for this data: 21.14 seconds
+Episode 121: Total Reward: -1152.4052373528086
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0822.png',), Episode count: 122[0m
+[92mInitial PSNR: 24.496325[0m
+Initial MSE: 0.003551[0m
+Step: 2775   | Initial PSNR: 24.496325
+PSNR After: 24.596556 | Change: 0.000437 | Diff: 0.100231
+Reward: 0.35 | Success Ratio: 0.238919 | Flip Count: 663
+Flip Pixel: Channel=[3], Row=[209], Col=[9]
+Time taken for this data: 9.76 seconds
+Step: 2775   | Initial PSNR: 24.496325
+PSNR After: 24.596556 | Change: 0.000437 | Diff: 0.100231
+Reward: 0.35 | Success Ratio: 0.238919 | Flip Count: 663
+Flip Pixel: Channel=[3], Row=[209], Col=[9]
+Time taken for this data: 9.77 seconds
+Episode 122: Total Reward: -523.5602399997994
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0823.png',), Episode count: 123[0m
+[92mInitial PSNR: 23.105854[0m
+Initial MSE: 0.004891[0m
+Step: 2791   | Initial PSNR: 23.105854
+PSNR After: 23.205894 | Change: 0.000217 | Diff: 0.100040
+Reward: 0.17 | Success Ratio: 0.273020 | Flip Count: 762
+Flip Pixel: Channel=[3], Row=[57], Col=[153]
+Time taken for this data: 9.82 seconds
+Step: 2791   | Initial PSNR: 23.105854
+PSNR After: 23.205894 | Change: 0.000217 | Diff: 0.100040
+Reward: 0.17 | Success Ratio: 0.273020 | Flip Count: 762
+Flip Pixel: Channel=[3], Row=[57], Col=[153]
+Time taken for this data: 9.82 seconds
+Episode 123: Total Reward: -374.8185824379948
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0824.png',), Episode count: 124[0m
+[92mInitial PSNR: 22.775265[0m
+Initial MSE: 0.005278[0m
+Step: 4334   | Initial PSNR: 22.775265
+PSNR After: 22.875286 | Change: 0.000128 | Diff: 0.100021
+Reward: 0.10 | Success Ratio: 0.220351 | Flip Count: 955
+Flip Pixel: Channel=[4], Row=[174], Col=[11]
+Time taken for this data: 15.06 seconds
+Step: 4334   | Initial PSNR: 22.775265
+PSNR After: 22.875286 | Change: 0.000128 | Diff: 0.100021
+Reward: 0.10 | Success Ratio: 0.220351 | Flip Count: 955
+Flip Pixel: Channel=[4], Row=[174], Col=[11]
+Time taken for this data: 15.06 seconds
+Episode 124: Total Reward: -518.0381753371568
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0825.png',), Episode count: 125[0m
+[92mInitial PSNR: 22.667982[0m
+Initial MSE: 0.005410[0m
+Step: 4222   | Initial PSNR: 22.667982
+PSNR After: 22.768074 | Change: 0.000113 | Diff: 0.100092
+Reward: 0.09 | Success Ratio: 0.209853 | Flip Count: 886
+Flip Pixel: Channel=[2], Row=[42], Col=[164]
+Time taken for this data: 14.85 seconds
+Step: 4222   | Initial PSNR: 22.667982
+PSNR After: 22.768074 | Change: 0.000113 | Diff: 0.100092
+Reward: 0.09 | Success Ratio: 0.209853 | Flip Count: 886
+Flip Pixel: Channel=[2], Row=[42], Col=[164]
+Time taken for this data: 14.85 seconds
+Episode 125: Total Reward: -557.4031559521716
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0826.png',), Episode count: 126[0m
+[92mInitial PSNR: 21.599274[0m
+Initial MSE: 0.006919[0m
+Step: 4125   | Initial PSNR: 21.599274
+PSNR After: 21.699331 | Change: 0.000380 | Diff: 0.100058
+Reward: 0.30 | Success Ratio: 0.231758 | Flip Count: 956
+Flip Pixel: Channel=[7], Row=[102], Col=[189]
+Time taken for this data: 14.47 seconds
+Step: 4125   | Initial PSNR: 21.599274
+PSNR After: 21.699331 | Change: 0.000380 | Diff: 0.100058
+Reward: 0.30 | Success Ratio: 0.231758 | Flip Count: 956
+Flip Pixel: Channel=[7], Row=[102], Col=[189]
+Time taken for this data: 14.47 seconds
+Episode 126: Total Reward: -493.616687827748
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0827.png',), Episode count: 127[0m
+[92mInitial PSNR: 27.188471[0m
+Initial MSE: 0.001911[0m
+Step: 2239   | Initial PSNR: 27.188471
+PSNR After: 27.288624 | Change: 0.000282 | Diff: 0.100153
+Reward: 0.23 | Success Ratio: 0.273336 | Flip Count: 612
+Flip Pixel: Channel=[3], Row=[187], Col=[207]
+Time taken for this data: 7.83 seconds
+Step: 2239   | Initial PSNR: 27.188471
+PSNR After: 27.288624 | Change: 0.000282 | Diff: 0.100153
+Reward: 0.23 | Success Ratio: 0.273336 | Flip Count: 612
+Flip Pixel: Channel=[3], Row=[187], Col=[207]
+Time taken for this data: 7.83 seconds
+Episode 127: Total Reward: -317.7672805601376
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0828.png',), Episode count: 128[0m
+[92mInitial PSNR: 16.665926[0m
+Initial MSE: 0.021379[0m
+Step: 15252  | Initial PSNR: 16.665926
+PSNR After: 16.765936 | Change: 0.000029 | Diff: 0.100010
+Reward: 0.02 | Success Ratio: 0.152898 | Flip Count: 2332
+Flip Pixel: Channel=[4], Row=[15], Col=[170]
+Time taken for this data: 53.61 seconds
+Step: 15252  | Initial PSNR: 16.665926
+PSNR After: 16.765936 | Change: 0.000029 | Diff: 0.100010
+Reward: 0.02 | Success Ratio: 0.152898 | Flip Count: 2332
+Flip Pixel: Channel=[4], Row=[15], Col=[170]
+Time taken for this data: 53.61 seconds
+Episode 128: Total Reward: -985.5158051165135
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0829.png',), Episode count: 129[0m
+[92mInitial PSNR: 23.413605[0m
+Initial MSE: 0.004557[0m
+Step: 3180   | Initial PSNR: 23.413605
+PSNR After: 23.513649 | Change: 0.000120 | Diff: 0.100044
+Reward: 0.10 | Success Ratio: 0.263522 | Flip Count: 838
+Flip Pixel: Channel=[1], Row=[144], Col=[215]
+Time taken for this data: 11.14 seconds
+Step: 3180   | Initial PSNR: 23.413605
+PSNR After: 23.513649 | Change: 0.000120 | Diff: 0.100044
+Reward: 0.10 | Success Ratio: 0.263522 | Flip Count: 838
+Flip Pixel: Channel=[1], Row=[144], Col=[215]
+Time taken for this data: 11.14 seconds
+Episode 129: Total Reward: -384.8459388112269
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0830.png',), Episode count: 130[0m
+[92mInitial PSNR: 22.806744[0m
+Initial MSE: 0.005117[0m
+Step: 3230   | Initial PSNR: 22.806744
+PSNR After: 22.906792 | Change: 0.000051 | Diff: 0.100048
+Reward: 0.04 | Success Ratio: 0.269659 | Flip Count: 871
+Flip Pixel: Channel=[3], Row=[67], Col=[203]
+Time taken for this data: 11.32 seconds
+Step: 3230   | Initial PSNR: 22.806744
+PSNR After: 22.906792 | Change: 0.000051 | Diff: 0.100048
+Reward: 0.04 | Success Ratio: 0.269659 | Flip Count: 871
+Flip Pixel: Channel=[3], Row=[67], Col=[203]
+Time taken for this data: 11.33 seconds
+Episode 130: Total Reward: -338.34928397775013
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0831.png',), Episode count: 131[0m
+[92mInitial PSNR: 25.657499[0m
+Initial MSE: 0.002571[0m
+Step: 2399   | Initial PSNR: 25.657499
+PSNR After: 25.757648 | Change: 0.000164 | Diff: 0.100149
+Reward: 0.13 | Success Ratio: 0.271363 | Flip Count: 651
+Flip Pixel: Channel=[2], Row=[194], Col=[115]
+Time taken for this data: 8.51 seconds
+Step: 2399   | Initial PSNR: 25.657499
+PSNR After: 25.757648 | Change: 0.000164 | Diff: 0.100149
+Reward: 0.13 | Success Ratio: 0.271363 | Flip Count: 651
+Flip Pixel: Channel=[2], Row=[194], Col=[115]
+Time taken for this data: 8.51 seconds
+Episode 131: Total Reward: -412.93996222540466
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0832.png',), Episode count: 132[0m
+[92mInitial PSNR: 26.766960[0m
+Initial MSE: 0.002056[0m
+Step: 2778   | Initial PSNR: 26.766960
+PSNR After: 26.866982 | Change: 0.000290 | Diff: 0.100021
+Reward: 0.23 | Success Ratio: 0.239741 | Flip Count: 666
+Flip Pixel: Channel=[3], Row=[161], Col=[241]
+Time taken for this data: 9.83 seconds
+Step: 2778   | Initial PSNR: 26.766960
+PSNR After: 26.866982 | Change: 0.000290 | Diff: 0.100021
+Reward: 0.23 | Success Ratio: 0.239741 | Flip Count: 666
+Flip Pixel: Channel=[3], Row=[161], Col=[241]
+Time taken for this data: 9.83 seconds
+Episode 132: Total Reward: -471.9704327779183
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0833.png',), Episode count: 133[0m
+[92mInitial PSNR: 22.342068[0m
+Initial MSE: 0.005786[0m
+Step: 6109   | Initial PSNR: 22.342068
+PSNR After: 22.442093 | Change: 0.000065 | Diff: 0.100025
+Reward: 0.05 | Success Ratio: 0.152562 | Flip Count: 932
+Flip Pixel: Channel=[1], Row=[179], Col=[183]
+Time taken for this data: 21.33 seconds
+Step: 6109   | Initial PSNR: 22.342068
+PSNR After: 22.442093 | Change: 0.000065 | Diff: 0.100025
+Reward: 0.05 | Success Ratio: 0.152562 | Flip Count: 932
+Flip Pixel: Channel=[1], Row=[179], Col=[183]
+Time taken for this data: 21.33 seconds
+Episode 133: Total Reward: -1234.2872365635394
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0834.png',), Episode count: 134[0m
+[92mInitial PSNR: 24.525562[0m
+Initial MSE: 0.001624[0m
+Step: 2011   | Initial PSNR: 24.525562
+PSNR After: 24.625652 | Change: 0.000093 | Diff: 0.100090
+Reward: 0.07 | Success Ratio: 0.332670 | Flip Count: 669
+Flip Pixel: Channel=[4], Row=[253], Col=[144]
+Time taken for this data: 7.03 seconds
+Step: 2011   | Initial PSNR: 24.525562
+PSNR After: 24.625652 | Change: 0.000093 | Diff: 0.100090
+Reward: 0.07 | Success Ratio: 0.332670 | Flip Count: 669
+Flip Pixel: Channel=[4], Row=[253], Col=[144]
+Time taken for this data: 7.03 seconds
+Episode 134: Total Reward: -187.2149346303196
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0835.png',), Episode count: 135[0m
+[92mInitial PSNR: 24.676458[0m
+Initial MSE: 0.003119[0m
+Step: 3120   | Initial PSNR: 24.676458
+PSNR After: 24.776628 | Change: 0.000288 | Diff: 0.100170
+Reward: 0.23 | Success Ratio: 0.243910 | Flip Count: 761
+Flip Pixel: Channel=[4], Row=[69], Col=[115]
+Time taken for this data: 10.92 seconds
+Step: 3120   | Initial PSNR: 24.676458
+PSNR After: 24.776628 | Change: 0.000288 | Diff: 0.100170
+Reward: 0.23 | Success Ratio: 0.243910 | Flip Count: 761
+Flip Pixel: Channel=[4], Row=[69], Col=[115]
+Time taken for this data: 10.92 seconds
+Episode 135: Total Reward: -493.7528005848948
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0836.png',), Episode count: 136[0m
+[92mInitial PSNR: 23.275665[0m
+Initial MSE: 0.004667[0m
+Step: 3163   | Initial PSNR: 23.275665
+PSNR After: 23.375851 | Change: 0.000198 | Diff: 0.100185
+Reward: 0.16 | Success Ratio: 0.275371 | Flip Count: 871
+Flip Pixel: Channel=[3], Row=[121], Col=[94]
+Time taken for this data: 11.08 seconds
+Step: 3163   | Initial PSNR: 23.275665
+PSNR After: 23.375851 | Change: 0.000198 | Diff: 0.100185
+Reward: 0.16 | Success Ratio: 0.275371 | Flip Count: 871
+Flip Pixel: Channel=[3], Row=[121], Col=[94]
+Time taken for this data: 11.08 seconds
+Episode 136: Total Reward: -349.5802567835034
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0837.png',), Episode count: 137[0m
+[92mInitial PSNR: 24.309311[0m
+Initial MSE: 0.003707[0m
+Step: 2530   | Initial PSNR: 24.309311
+PSNR After: 24.409374 | Change: 0.000149 | Diff: 0.100063
+Reward: 0.12 | Success Ratio: 0.277470 | Flip Count: 702
+Flip Pixel: Channel=[5], Row=[237], Col=[23]
+Time taken for this data: 8.83 seconds
+Step: 2530   | Initial PSNR: 24.309311
+PSNR After: 24.409374 | Change: 0.000149 | Diff: 0.100063
+Reward: 0.12 | Success Ratio: 0.277470 | Flip Count: 702
+Flip Pixel: Channel=[5], Row=[237], Col=[23]
+Time taken for this data: 8.83 seconds
+Episode 137: Total Reward: -330.39992888583913
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0838.png',), Episode count: 138[0m
+[92mInitial PSNR: 26.260605[0m
+Initial MSE: 0.001842[0m
+Step: 2288   | Initial PSNR: 26.260605
+PSNR After: 26.360685 | Change: 0.000109 | Diff: 0.100080
+Reward: 0.09 | Success Ratio: 0.222465 | Flip Count: 509
+Flip Pixel: Channel=[5], Row=[64], Col=[119]
+Time taken for this data: 8.03 seconds
+Step: 2288   | Initial PSNR: 26.260605
+PSNR After: 26.360685 | Change: 0.000109 | Diff: 0.100080
+Reward: 0.09 | Success Ratio: 0.222465 | Flip Count: 509
+Flip Pixel: Channel=[5], Row=[64], Col=[119]
+Time taken for this data: 8.03 seconds
+Episode 138: Total Reward: -612.3715039643671
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0839.png',), Episode count: 139[0m
+[92mInitial PSNR: 23.735676[0m
+Initial MSE: 0.001666[0m
+Step: 2298   | Initial PSNR: 23.735676
+PSNR After: 23.835752 | Change: 0.000208 | Diff: 0.100077
+Reward: 0.17 | Success Ratio: 0.306353 | Flip Count: 704
+Flip Pixel: Channel=[3], Row=[41], Col=[12]
+Time taken for this data: 8.04 seconds
+Step: 2298   | Initial PSNR: 23.735676
+PSNR After: 23.835752 | Change: 0.000208 | Diff: 0.100077
+Reward: 0.17 | Success Ratio: 0.306353 | Flip Count: 704
+Flip Pixel: Channel=[3], Row=[41], Col=[12]
+Time taken for this data: 8.04 seconds
+Episode 139: Total Reward: -270.0227790129567
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0840.png',), Episode count: 140[0m
+[92mInitial PSNR: 24.866980[0m
+Initial MSE: 0.002232[0m
+Step: 2225   | Initial PSNR: 24.866980
+PSNR After: 24.967138 | Change: 0.000336 | Diff: 0.100159
+Reward: 0.27 | Success Ratio: 0.278202 | Flip Count: 619
+Flip Pixel: Channel=[0], Row=[233], Col=[1]
+Time taken for this data: 7.81 seconds
+Step: 2225   | Initial PSNR: 24.866980
+PSNR After: 24.967138 | Change: 0.000336 | Diff: 0.100159
+Reward: 0.27 | Success Ratio: 0.278202 | Flip Count: 619
+Flip Pixel: Channel=[0], Row=[233], Col=[1]
+Time taken for this data: 7.81 seconds
+Episode 140: Total Reward: -319.4454971572104
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0841.png',), Episode count: 141[0m
+[92mInitial PSNR: 24.912996[0m
+Initial MSE: 0.003226[0m
+Step: 2565   | Initial PSNR: 24.912996
+PSNR After: 25.013073 | Change: 0.000130 | Diff: 0.100077
+Reward: 0.10 | Success Ratio: 0.298635 | Flip Count: 766
+Flip Pixel: Channel=[3], Row=[68], Col=[88]
+Time taken for this data: 8.98 seconds
+Step: 2565   | Initial PSNR: 24.912996
+PSNR After: 25.013073 | Change: 0.000130 | Diff: 0.100077
+Reward: 0.10 | Success Ratio: 0.298635 | Flip Count: 766
+Flip Pixel: Channel=[3], Row=[68], Col=[88]
+Time taken for this data: 8.98 seconds
+Episode 141: Total Reward: -234.78613387266137
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0842.png',), Episode count: 142[0m
+[92mInitial PSNR: 22.892073[0m
+Initial MSE: 0.005138[0m
+Step: 5987   | Initial PSNR: 22.892073
+PSNR After: 22.992107 | Change: 0.000072 | Diff: 0.100035
+Reward: 0.06 | Success Ratio: 0.160514 | Flip Count: 961
+Flip Pixel: Channel=[1], Row=[250], Col=[20]
+Time taken for this data: 20.98 seconds
+Step: 5987   | Initial PSNR: 22.892073
+PSNR After: 22.992107 | Change: 0.000072 | Diff: 0.100035
+Reward: 0.06 | Success Ratio: 0.160514 | Flip Count: 961
+Flip Pixel: Channel=[1], Row=[250], Col=[20]
+Time taken for this data: 20.98 seconds
+Episode 142: Total Reward: -1194.2020526919312
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0843.png',), Episode count: 143[0m
+[92mInitial PSNR: 24.893816[0m
+Initial MSE: 0.002501[0m
+Step: 2519   | Initial PSNR: 24.893816
+PSNR After: 24.993818 | Change: 0.000076 | Diff: 0.100002
+Reward: 0.06 | Success Ratio: 0.267963 | Flip Count: 675
+Flip Pixel: Channel=[1], Row=[129], Col=[171]
+Time taken for this data: 8.79 seconds
+Step: 2519   | Initial PSNR: 24.893816
+PSNR After: 24.993818 | Change: 0.000076 | Diff: 0.100002
+Reward: 0.06 | Success Ratio: 0.267963 | Flip Count: 675
+Flip Pixel: Channel=[1], Row=[129], Col=[171]
+Time taken for this data: 8.80 seconds
+Episode 143: Total Reward: -339.9771500064413
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0844.png',), Episode count: 144[0m
+[92mInitial PSNR: 22.661167[0m
+Initial MSE: 0.004641[0m
+Step: 9563   | Initial PSNR: 22.661167
+PSNR After: 22.761192 | Change: 0.000029 | Diff: 0.100025
+Reward: 0.02 | Success Ratio: 0.086897 | Flip Count: 831
+Flip Pixel: Channel=[4], Row=[226], Col=[147]
+Time taken for this data: 33.78 seconds
+Step: 9563   | Initial PSNR: 22.661167
+PSNR After: 22.761192 | Change: 0.000029 | Diff: 0.100025
+Reward: 0.02 | Success Ratio: 0.086897 | Flip Count: 831
+Flip Pixel: Channel=[4], Row=[226], Col=[147]
+Time taken for this data: 33.78 seconds
+Episode 144: Total Reward: -2424.169481545553
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0845.png',), Episode count: 145[0m
+[92mInitial PSNR: 22.491978[0m
+Initial MSE: 0.005634[0m
+Step: 26135  | Initial PSNR: 22.491978
+PSNR After: 22.592289 | Change: 0.000334 | Diff: 0.100311
+Reward: 0.27 | Success Ratio: 0.051196 | Flip Count: 1338
+Flip Pixel: Channel=[3], Row=[32], Col=[24]
+Time taken for this data: 91.26 seconds
+Step: 26135  | Initial PSNR: 22.491978
+PSNR After: 22.592289 | Change: 0.000334 | Diff: 0.100311
+Reward: 0.27 | Success Ratio: 0.051196 | Flip Count: 1338
+Flip Pixel: Channel=[3], Row=[32], Col=[24]
+Time taken for this data: 91.26 seconds
+Episode 145: Total Reward: -6225.620517515797
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0846.png',), Episode count: 146[0m
+[92mInitial PSNR: 18.379427[0m
+Initial MSE: 0.014523[0m
+Step: 4812   | Initial PSNR: 18.379427
+PSNR After: 18.479542 | Change: 0.000164 | Diff: 0.100115
+Reward: 0.13 | Success Ratio: 0.277847 | Flip Count: 1337
+Flip Pixel: Channel=[5], Row=[3], Col=[136]
+Time taken for this data: 16.88 seconds
+Step: 4812   | Initial PSNR: 18.379427
+PSNR After: 18.479542 | Change: 0.000164 | Diff: 0.100115
+Reward: 0.13 | Success Ratio: 0.277847 | Flip Count: 1337
+Flip Pixel: Channel=[5], Row=[3], Col=[136]
+Time taken for this data: 16.88 seconds
+Episode 146: Total Reward: -331.5140729074593
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0847.png',), Episode count: 147[0m
+[92mInitial PSNR: 22.905523[0m
+Initial MSE: 0.005122[0m
+Step: 3681   | Initial PSNR: 22.905523
+PSNR After: 23.005751 | Change: 0.000250 | Diff: 0.100227
+Reward: 0.20 | Success Ratio: 0.234175 | Flip Count: 862
+Flip Pixel: Channel=[1], Row=[120], Col=[168]
+Time taken for this data: 12.83 seconds
+Step: 3681   | Initial PSNR: 22.905523
+PSNR After: 23.005751 | Change: 0.000250 | Diff: 0.100227
+Reward: 0.20 | Success Ratio: 0.234175 | Flip Count: 862
+Flip Pixel: Channel=[1], Row=[120], Col=[168]
+Time taken for this data: 12.83 seconds
+Episode 147: Total Reward: -450.6474919407141
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0848.png',), Episode count: 148[0m
+[92mInitial PSNR: 22.200319[0m
+Initial MSE: 0.006025[0m
+Step: 5657   | Initial PSNR: 22.200319
+PSNR After: 22.300327 | Change: 0.000177 | Diff: 0.100008
+Reward: 0.14 | Success Ratio: 0.172353 | Flip Count: 975
+Flip Pixel: Channel=[5], Row=[170], Col=[95]
+Time taken for this data: 19.76 seconds
+Step: 5657   | Initial PSNR: 22.200319
+PSNR After: 22.300327 | Change: 0.000177 | Diff: 0.100008
+Reward: 0.14 | Success Ratio: 0.172353 | Flip Count: 975
+Flip Pixel: Channel=[5], Row=[170], Col=[95]
+Time taken for this data: 19.76 seconds
+Episode 148: Total Reward: -772.629838493886
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0849.png',), Episode count: 149[0m
+[92mInitial PSNR: 23.174068[0m
+Initial MSE: 0.004815[0m
+Step: 4123   | Initial PSNR: 23.174068
+PSNR After: 23.274120 | Change: 0.000507 | Diff: 0.100052
+Reward: 0.41 | Success Ratio: 0.219743 | Flip Count: 906
+Flip Pixel: Channel=[6], Row=[57], Col=[196]
+Time taken for this data: 14.54 seconds
+Step: 4123   | Initial PSNR: 23.174068
+PSNR After: 23.274120 | Change: 0.000507 | Diff: 0.100052
+Reward: 0.41 | Success Ratio: 0.219743 | Flip Count: 906
+Flip Pixel: Channel=[6], Row=[57], Col=[196]
+Time taken for this data: 14.54 seconds
+Episode 149: Total Reward: -515.7152884138438
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0850.png',), Episode count: 150[0m
+[92mInitial PSNR: 25.614855[0m
+Initial MSE: 0.002745[0m
+Step: 3155   | Initial PSNR: 25.614855
+PSNR After: 25.715044 | Change: 0.000586 | Diff: 0.100189
+Reward: 0.47 | Success Ratio: 0.253883 | Flip Count: 801
+Flip Pixel: Channel=[3], Row=[53], Col=[133]
+Time taken for this data: 10.98 seconds
+Step: 3155   | Initial PSNR: 25.614855
+PSNR After: 25.715044 | Change: 0.000586 | Diff: 0.100189
+Reward: 0.47 | Success Ratio: 0.253883 | Flip Count: 801
+Flip Pixel: Channel=[3], Row=[53], Col=[133]
+Time taken for this data: 10.98 seconds
+Episode 150: Total Reward: -423.249513019853
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0851.png',), Episode count: 151[0m
+[92mInitial PSNR: 26.132524[0m
+Initial MSE: 0.002436[0m
+Step: 3738   | Initial PSNR: 26.132524
+PSNR After: 26.232536 | Change: 0.000053 | Diff: 0.100012
+Reward: 0.04 | Success Ratio: 0.192349 | Flip Count: 719
+Flip Pixel: Channel=[1], Row=[71], Col=[33]
+Time taken for this data: 13.06 seconds
+Step: 3738   | Initial PSNR: 26.132524
+PSNR After: 26.232536 | Change: 0.000053 | Diff: 0.100012
+Reward: 0.04 | Success Ratio: 0.192349 | Flip Count: 719
+Flip Pixel: Channel=[1], Row=[71], Col=[33]
+Time taken for this data: 13.06 seconds
+Episode 151: Total Reward: -611.8142997299709
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0852.png',), Episode count: 152[0m
+[92mInitial PSNR: 27.302963[0m
+Initial MSE: 0.001861[0m
+Step: 4502   | Initial PSNR: 27.302963
+PSNR After: 27.403042 | Change: 0.000084 | Diff: 0.100079
+Reward: 0.07 | Success Ratio: 0.171701 | Flip Count: 773
+Flip Pixel: Channel=[3], Row=[191], Col=[102]
+Time taken for this data: 15.70 seconds
+Step: 4502   | Initial PSNR: 27.302963
+PSNR After: 27.403042 | Change: 0.000084 | Diff: 0.100079
+Reward: 0.07 | Success Ratio: 0.171701 | Flip Count: 773
+Flip Pixel: Channel=[3], Row=[191], Col=[102]
+Time taken for this data: 15.71 seconds
+Episode 152: Total Reward: -747.0397117999771
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0853.png',), Episode count: 153[0m
+[92mInitial PSNR: 25.312119[0m
+Initial MSE: 0.002629[0m
+Step: 2038   | Initial PSNR: 25.312119
+PSNR After: 25.412119 | Change: 0.000051 | Diff: 0.100000
+Reward: 0.04 | Success Ratio: 0.302748 | Flip Count: 617
+Flip Pixel: Channel=[2], Row=[26], Col=[58]
+Time taken for this data: 7.10 seconds
+Step: 2038   | Initial PSNR: 25.312119
+PSNR After: 25.412119 | Change: 0.000051 | Diff: 0.100000
+Reward: 0.04 | Success Ratio: 0.302748 | Flip Count: 617
+Flip Pixel: Channel=[2], Row=[26], Col=[58]
+Time taken for this data: 7.10 seconds
+Episode 153: Total Reward: -235.97012662850852
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0854.png',), Episode count: 154[0m
+[92mInitial PSNR: 22.597023[0m
+Initial MSE: 0.005499[0m
+Step: 2656   | Initial PSNR: 22.597023
+PSNR After: 22.697046 | Change: 0.000238 | Diff: 0.100023
+Reward: 0.19 | Success Ratio: 0.284639 | Flip Count: 756
+Flip Pixel: Channel=[4], Row=[230], Col=[47]
+Time taken for this data: 9.22 seconds
+Step: 2656   | Initial PSNR: 22.597023
+PSNR After: 22.697046 | Change: 0.000238 | Diff: 0.100023
+Reward: 0.19 | Success Ratio: 0.284639 | Flip Count: 756
+Flip Pixel: Channel=[4], Row=[230], Col=[47]
+Time taken for this data: 9.22 seconds
+Episode 154: Total Reward: -293.08599980324766
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0855.png',), Episode count: 155[0m
+[92mInitial PSNR: 24.624390[0m
+Initial MSE: 0.002566[0m
+Step: 2490   | Initial PSNR: 24.624390
+PSNR After: 24.724684 | Change: 0.000889 | Diff: 0.100294
+Reward: 0.71 | Success Ratio: 0.243373 | Flip Count: 606
+Flip Pixel: Channel=[7], Row=[102], Col=[239]
+Time taken for this data: 8.71 seconds
+Step: 2490   | Initial PSNR: 24.624390
+PSNR After: 24.724684 | Change: 0.000889 | Diff: 0.100294
+Reward: 0.71 | Success Ratio: 0.243373 | Flip Count: 606
+Flip Pixel: Channel=[7], Row=[102], Col=[239]
+Time taken for this data: 8.72 seconds
+Episode 155: Total Reward: -530.8142214184511
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0856.png',), Episode count: 156[0m
+[92mInitial PSNR: 24.135330[0m
+Initial MSE: 0.002692[0m
+Step: 2572   | Initial PSNR: 24.135330
+PSNR After: 24.235399 | Change: 0.000517 | Diff: 0.100069
+Reward: 0.41 | Success Ratio: 0.303266 | Flip Count: 780
+Flip Pixel: Channel=[6], Row=[188], Col=[227]
+Time taken for this data: 9.01 seconds
+Step: 2572   | Initial PSNR: 24.135330
+PSNR After: 24.235399 | Change: 0.000517 | Diff: 0.100069
+Reward: 0.41 | Success Ratio: 0.303266 | Flip Count: 780
+Flip Pixel: Channel=[6], Row=[188], Col=[227]
+Time taken for this data: 9.02 seconds
+Episode 156: Total Reward: -246.00954257082174
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0857.png',), Episode count: 157[0m
+[92mInitial PSNR: 24.661943[0m
+Initial MSE: 0.002903[0m
+Step: 3881   | Initial PSNR: 24.661943
+PSNR After: 24.762104 | Change: 0.000278 | Diff: 0.100161
+Reward: 0.22 | Success Ratio: 0.172636 | Flip Count: 670
+Flip Pixel: Channel=[2], Row=[22], Col=[201]
+Time taken for this data: 13.63 seconds
+Step: 3881   | Initial PSNR: 24.661943
+PSNR After: 24.762104 | Change: 0.000278 | Diff: 0.100161
+Reward: 0.22 | Success Ratio: 0.172636 | Flip Count: 670
+Flip Pixel: Channel=[2], Row=[22], Col=[201]
+Time taken for this data: 13.63 seconds
+Episode 157: Total Reward: -1111.962730587509
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0858.png',), Episode count: 158[0m
+[92mInitial PSNR: 23.179710[0m
+Initial MSE: 0.004809[0m
+Step: 3041   | Initial PSNR: 23.179710
+PSNR After: 23.279810 | Change: 0.000362 | Diff: 0.100100
+Reward: 0.29 | Success Ratio: 0.240710 | Flip Count: 732
+Flip Pixel: Channel=[0], Row=[186], Col=[0]
+Time taken for this data: 10.63 seconds
+Step: 3041   | Initial PSNR: 23.179710
+PSNR After: 23.279810 | Change: 0.000362 | Diff: 0.100100
+Reward: 0.29 | Success Ratio: 0.240710 | Flip Count: 732
+Flip Pixel: Channel=[0], Row=[186], Col=[0]
+Time taken for this data: 10.63 seconds
+Episode 158: Total Reward: -523.5672625456843
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0859.png',), Episode count: 159[0m
+[92mInitial PSNR: 24.099369[0m
+Initial MSE: 0.003891[0m
+Step: 2914   | Initial PSNR: 24.099369
+PSNR After: 24.199457 | Change: 0.000174 | Diff: 0.100088
+Reward: 0.14 | Success Ratio: 0.298902 | Flip Count: 871
+Flip Pixel: Channel=[2], Row=[116], Col=[17]
+Time taken for this data: 10.24 seconds
+Step: 2914   | Initial PSNR: 24.099369
+PSNR After: 24.199457 | Change: 0.000174 | Diff: 0.100088
+Reward: 0.14 | Success Ratio: 0.298902 | Flip Count: 871
+Flip Pixel: Channel=[2], Row=[116], Col=[17]
+Time taken for this data: 10.24 seconds
+Episode 159: Total Reward: -274.8025399546376
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0860.png',), Episode count: 160[0m
+[92mInitial PSNR: 21.116446[0m
+Initial MSE: 0.007733[0m
+Step: 3702   | Initial PSNR: 21.116446
+PSNR After: 21.216547 | Change: 0.000240 | Diff: 0.100101
+Reward: 0.19 | Success Ratio: 0.263371 | Flip Count: 975
+Flip Pixel: Channel=[3], Row=[233], Col=[63]
+Time taken for this data: 12.96 seconds
+Step: 3702   | Initial PSNR: 21.116446
+PSNR After: 21.216547 | Change: 0.000240 | Diff: 0.100101
+Reward: 0.19 | Success Ratio: 0.263371 | Flip Count: 975
+Flip Pixel: Channel=[3], Row=[233], Col=[63]
+Time taken for this data: 12.96 seconds
+Episode 160: Total Reward: -387.6840638136829
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0861.png',), Episode count: 161[0m
+[92mInitial PSNR: 21.229420[0m
+Initial MSE: 0.007535[0m
+Step: 3857   | Initial PSNR: 21.229420
+PSNR After: 21.329609 | Change: 0.000343 | Diff: 0.100189
+Reward: 0.27 | Success Ratio: 0.237490 | Flip Count: 916
+Flip Pixel: Channel=[6], Row=[126], Col=[240]
+Time taken for this data: 13.56 seconds
+Step: 3857   | Initial PSNR: 21.229420
+PSNR After: 21.329609 | Change: 0.000343 | Diff: 0.100189
+Reward: 0.27 | Success Ratio: 0.237490 | Flip Count: 916
+Flip Pixel: Channel=[6], Row=[126], Col=[240]
+Time taken for this data: 13.56 seconds
+Episode 161: Total Reward: -505.71470444498163
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0862.png',), Episode count: 162[0m
+[92mInitial PSNR: 23.592922[0m
+Initial MSE: 0.002798[0m
+Step: 2292   | Initial PSNR: 23.592922
+PSNR After: 23.693012 | Change: 0.000240 | Diff: 0.100090
+Reward: 0.19 | Success Ratio: 0.248255 | Flip Count: 569
+Flip Pixel: Channel=[4], Row=[57], Col=[236]
+Time taken for this data: 8.15 seconds
+Step: 2292   | Initial PSNR: 23.592922
+PSNR After: 23.693012 | Change: 0.000240 | Diff: 0.100090
+Reward: 0.19 | Success Ratio: 0.248255 | Flip Count: 569
+Flip Pixel: Channel=[4], Row=[57], Col=[236]
+Time taken for this data: 8.15 seconds
+Episode 162: Total Reward: -472.93435334218066
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0863.png',), Episode count: 163[0m
+[92mInitial PSNR: 26.276609[0m
+Initial MSE: 0.002302[0m
+Step: 2210   | Initial PSNR: 26.276609
+PSNR After: 26.376720 | Change: 0.000137 | Diff: 0.100111
+Reward: 0.11 | Success Ratio: 0.297738 | Flip Count: 658
+Flip Pixel: Channel=[1], Row=[197], Col=[120]
+Time taken for this data: 7.69 seconds
+Step: 2210   | Initial PSNR: 26.276609
+PSNR After: 26.376720 | Change: 0.000137 | Diff: 0.100111
+Reward: 0.11 | Success Ratio: 0.297738 | Flip Count: 658
+Flip Pixel: Channel=[1], Row=[197], Col=[120]
+Time taken for this data: 7.69 seconds
+Episode 163: Total Reward: -307.2921424139206
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0864.png',), Episode count: 164[0m
+[92mInitial PSNR: 23.917389[0m
+Initial MSE: 0.001617[0m
+Step: 2225   | Initial PSNR: 23.917389
+PSNR After: 24.017406 | Change: 0.000530 | Diff: 0.100018
+Reward: 0.42 | Success Ratio: 0.292135 | Flip Count: 650
+Flip Pixel: Channel=[1], Row=[133], Col=[65]
+Time taken for this data: 7.74 seconds
+Step: 2225   | Initial PSNR: 23.917389
+PSNR After: 24.017406 | Change: 0.000530 | Diff: 0.100018
+Reward: 0.42 | Success Ratio: 0.292135 | Flip Count: 650
+Flip Pixel: Channel=[1], Row=[133], Col=[65]
+Time taken for this data: 7.74 seconds
+Episode 164: Total Reward: -287.22261818172933
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0865.png',), Episode count: 165[0m
+[92mInitial PSNR: 23.898880[0m
+Initial MSE: 0.002582[0m
+Step: 2411   | Initial PSNR: 23.898880
+PSNR After: 23.999008 | Change: 0.000347 | Diff: 0.100128
+Reward: 0.28 | Success Ratio: 0.268353 | Flip Count: 647
+Flip Pixel: Channel=[1], Row=[61], Col=[76]
+Time taken for this data: 8.41 seconds
+Step: 2411   | Initial PSNR: 23.898880
+PSNR After: 23.999008 | Change: 0.000347 | Diff: 0.100128
+Reward: 0.28 | Success Ratio: 0.268353 | Flip Count: 647
+Flip Pixel: Channel=[1], Row=[61], Col=[76]
+Time taken for this data: 8.41 seconds
+Episode 165: Total Reward: -363.8561706908604
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0866.png',), Episode count: 166[0m
+[92mInitial PSNR: 23.802042[0m
+Initial MSE: 0.002719[0m
+Step: 3500   | Initial PSNR: 23.802042
+PSNR After: 23.902056 | Change: 0.000080 | Diff: 0.100014
+Reward: 0.06 | Success Ratio: 0.182571 | Flip Count: 639
+Flip Pixel: Channel=[1], Row=[99], Col=[185]
+Time taken for this data: 12.27 seconds
+Step: 3500   | Initial PSNR: 23.802042
+PSNR After: 23.902056 | Change: 0.000080 | Diff: 0.100014
+Reward: 0.06 | Success Ratio: 0.182571 | Flip Count: 639
+Flip Pixel: Channel=[1], Row=[99], Col=[185]
+Time taken for this data: 12.27 seconds
+Episode 166: Total Reward: -1088.84565410001
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0867.png',), Episode count: 167[0m
+[92mInitial PSNR: 23.136909[0m
+Initial MSE: 0.003781[0m
+Step: 2694   | Initial PSNR: 23.136909
+PSNR After: 23.237160 | Change: 0.000425 | Diff: 0.100250
+Reward: 0.34 | Success Ratio: 0.275798 | Flip Count: 743
+Flip Pixel: Channel=[2], Row=[28], Col=[84]
+Time taken for this data: 9.38 seconds
+Step: 2694   | Initial PSNR: 23.136909
+PSNR After: 23.237160 | Change: 0.000425 | Diff: 0.100250
+Reward: 0.34 | Success Ratio: 0.275798 | Flip Count: 743
+Flip Pixel: Channel=[2], Row=[28], Col=[84]
+Time taken for this data: 9.38 seconds
+Episode 167: Total Reward: -343.74377224629563
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0868.png',), Episode count: 168[0m
+[92mInitial PSNR: 22.401131[0m
+Initial MSE: 0.005311[0m
+Step: 3637   | Initial PSNR: 22.401131
+PSNR After: 22.501554 | Change: 0.000513 | Diff: 0.100424
+Reward: 0.41 | Success Ratio: 0.227110 | Flip Count: 826
+Flip Pixel: Channel=[6], Row=[228], Col=[232]
+Time taken for this data: 12.74 seconds
+Step: 3637   | Initial PSNR: 22.401131
+PSNR After: 22.501554 | Change: 0.000513 | Diff: 0.100424
+Reward: 0.41 | Success Ratio: 0.227110 | Flip Count: 826
+Flip Pixel: Channel=[6], Row=[228], Col=[232]
+Time taken for this data: 12.74 seconds
+Episode 168: Total Reward: -557.7491345326387
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0869.png',), Episode count: 169[0m
+[92mInitial PSNR: 21.904198[0m
+Initial MSE: 0.006450[0m
+Step: 4318   | Initial PSNR: 21.904198
+PSNR After: 22.004341 | Change: 0.000145 | Diff: 0.100143
+Reward: 0.12 | Success Ratio: 0.193377 | Flip Count: 835
+Flip Pixel: Channel=[3], Row=[27], Col=[100]
+Time taken for this data: 15.04 seconds
+Step: 4318   | Initial PSNR: 21.904198
+PSNR After: 22.004341 | Change: 0.000145 | Diff: 0.100143
+Reward: 0.12 | Success Ratio: 0.193377 | Flip Count: 835
+Flip Pixel: Channel=[3], Row=[27], Col=[100]
+Time taken for this data: 15.04 seconds
+Episode 169: Total Reward: -702.7835478106467
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0870.png',), Episode count: 170[0m
+[92mInitial PSNR: 25.161613[0m
+Initial MSE: 0.002654[0m
+Step: 2010   | Initial PSNR: 25.161613
+PSNR After: 25.261629 | Change: 0.000435 | Diff: 0.100016
+Reward: 0.35 | Success Ratio: 0.328358 | Flip Count: 660
+Flip Pixel: Channel=[6], Row=[252], Col=[102]
+Time taken for this data: 6.98 seconds
+Step: 2010   | Initial PSNR: 25.161613
+PSNR After: 25.261629 | Change: 0.000435 | Diff: 0.100016
+Reward: 0.35 | Success Ratio: 0.328358 | Flip Count: 660
+Flip Pixel: Channel=[6], Row=[252], Col=[102]
+Time taken for this data: 6.98 seconds
+Episode 170: Total Reward: -185.4070698716455
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0871.png',), Episode count: 171[0m
+[92mInitial PSNR: 24.213062[0m
+Initial MSE: 0.003528[0m
+Step: 2287   | Initial PSNR: 24.213062
+PSNR After: 24.313086 | Change: 0.000092 | Diff: 0.100023
+Reward: 0.07 | Success Ratio: 0.269348 | Flip Count: 616
+Flip Pixel: Channel=[2], Row=[141], Col=[67]
+Time taken for this data: 7.97 seconds
+Step: 2287   | Initial PSNR: 24.213062
+PSNR After: 24.313086 | Change: 0.000092 | Diff: 0.100023
+Reward: 0.07 | Success Ratio: 0.269348 | Flip Count: 616
+Flip Pixel: Channel=[2], Row=[141], Col=[67]
+Time taken for this data: 7.97 seconds
+Episode 171: Total Reward: -383.65219952055054
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0872.png',), Episode count: 172[0m
+[92mInitial PSNR: 22.529007[0m
+Initial MSE: 0.005542[0m
+Step: 3233   | Initial PSNR: 22.529007
+PSNR After: 22.629143 | Change: 0.000187 | Diff: 0.100136
+Reward: 0.15 | Success Ratio: 0.250851 | Flip Count: 811
+Flip Pixel: Channel=[5], Row=[21], Col=[195]
+Time taken for this data: 11.25 seconds
+Step: 3233   | Initial PSNR: 22.529007
+PSNR After: 22.629143 | Change: 0.000187 | Diff: 0.100136
+Reward: 0.15 | Success Ratio: 0.250851 | Flip Count: 811
+Flip Pixel: Channel=[5], Row=[21], Col=[195]
+Time taken for this data: 11.26 seconds
+Episode 172: Total Reward: -449.846826792115
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0873.png',), Episode count: 173[0m
+[92mInitial PSNR: 24.675465[0m
+Initial MSE: 0.003408[0m
+Step: 2409   | Initial PSNR: 24.675465
+PSNR After: 24.775539 | Change: 0.000103 | Diff: 0.100075
+Reward: 0.08 | Success Ratio: 0.304276 | Flip Count: 733
+Flip Pixel: Channel=[2], Row=[60], Col=[26]
+Time taken for this data: 8.40 seconds
+Step: 2409   | Initial PSNR: 24.675465
+PSNR After: 24.775539 | Change: 0.000103 | Diff: 0.100075
+Reward: 0.08 | Success Ratio: 0.304276 | Flip Count: 733
+Flip Pixel: Channel=[2], Row=[60], Col=[26]
+Time taken for this data: 8.40 seconds
+Episode 173: Total Reward: -226.18549124990432
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0874.png',), Episode count: 174[0m
+[92mInitial PSNR: 21.546749[0m
+Initial MSE: 0.007004[0m
+Step: 4768   | Initial PSNR: 21.546749
+PSNR After: 21.646881 | Change: 0.000137 | Diff: 0.100132
+Reward: 0.11 | Success Ratio: 0.145763 | Flip Count: 695
+Flip Pixel: Channel=[2], Row=[107], Col=[75]
+Time taken for this data: 16.70 seconds
+Step: 4768   | Initial PSNR: 21.546749
+PSNR After: 21.646881 | Change: 0.000137 | Diff: 0.100132
+Reward: 0.11 | Success Ratio: 0.145763 | Flip Count: 695
+Flip Pixel: Channel=[2], Row=[107], Col=[75]
+Time taken for this data: 16.70 seconds
+Episode 174: Total Reward: -1007.0331980253368
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0875.png',), Episode count: 175[0m
+[92mInitial PSNR: 23.585642[0m
+Initial MSE: 0.004345[0m
+Step: 3855   | Initial PSNR: 23.585642
+PSNR After: 23.685654 | Change: 0.000227 | Diff: 0.100012
+Reward: 0.18 | Success Ratio: 0.235019 | Flip Count: 906
+Flip Pixel: Channel=[2], Row=[108], Col=[160]
+Time taken for this data: 13.48 seconds
+Step: 3855   | Initial PSNR: 23.585642
+PSNR After: 23.685654 | Change: 0.000227 | Diff: 0.100012
+Reward: 0.18 | Success Ratio: 0.235019 | Flip Count: 906
+Flip Pixel: Channel=[2], Row=[108], Col=[160]
+Time taken for this data: 13.48 seconds
+Episode 175: Total Reward: -460.68652273566596
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0876.png',), Episode count: 176[0m
+[92mInitial PSNR: 24.659595[0m
+Initial MSE: 0.003314[0m
+Step: 6472   | Initial PSNR: 24.659595
+PSNR After: 24.759638 | Change: 0.000177 | Diff: 0.100042
+Reward: 0.14 | Success Ratio: 0.174444 | Flip Count: 1129
+Flip Pixel: Channel=[6], Row=[47], Col=[131]
+Time taken for this data: 22.72 seconds
+Step: 6472   | Initial PSNR: 24.659595
+PSNR After: 24.759638 | Change: 0.000177 | Diff: 0.100042
+Reward: 0.14 | Success Ratio: 0.174444 | Flip Count: 1129
+Flip Pixel: Channel=[6], Row=[47], Col=[131]
+Time taken for this data: 22.73 seconds
+Episode 176: Total Reward: -774.7252793492057
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0877.png',), Episode count: 177[0m
+[92mInitial PSNR: 26.705759[0m
+Initial MSE: 0.001532[0m
+Step: 1907   | Initial PSNR: 26.705759
+PSNR After: 26.806225 | Change: 0.000822 | Diff: 0.100466
+Reward: 0.66 | Success Ratio: 0.261668 | Flip Count: 499
+Flip Pixel: Channel=[2], Row=[17], Col=[27]
+Time taken for this data: 6.65 seconds
+Step: 1907   | Initial PSNR: 26.705759
+PSNR After: 26.806225 | Change: 0.000822 | Diff: 0.100466
+Reward: 0.66 | Success Ratio: 0.261668 | Flip Count: 499
+Flip Pixel: Channel=[2], Row=[17], Col=[27]
+Time taken for this data: 6.65 seconds
+Episode 177: Total Reward: -369.54864836658004
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0878.png',), Episode count: 178[0m
+[92mInitial PSNR: 25.618061[0m
+Initial MSE: 0.002743[0m
+Step: 2398   | Initial PSNR: 25.618061
+PSNR After: 25.718412 | Change: 0.000618 | Diff: 0.100351
+Reward: 0.49 | Success Ratio: 0.263970 | Flip Count: 633
+Flip Pixel: Channel=[1], Row=[27], Col=[105]
+Time taken for this data: 8.41 seconds
+Step: 2398   | Initial PSNR: 25.618061
+PSNR After: 25.718412 | Change: 0.000618 | Diff: 0.100351
+Reward: 0.49 | Success Ratio: 0.263970 | Flip Count: 633
+Flip Pixel: Channel=[1], Row=[27], Col=[105]
+Time taken for this data: 8.42 seconds
+Episode 178: Total Reward: -369.3034865349979
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0879.png',), Episode count: 179[0m
+[92mInitial PSNR: 22.049137[0m
+Initial MSE: 0.006093[0m
+Step: 3436   | Initial PSNR: 22.049137
+PSNR After: 22.149166 | Change: 0.000032 | Diff: 0.100029
+Reward: 0.03 | Success Ratio: 0.236903 | Flip Count: 814
+Flip Pixel: Channel=[4], Row=[27], Col=[67]
+Time taken for this data: 11.97 seconds
+Step: 3436   | Initial PSNR: 22.049137
+PSNR After: 22.149166 | Change: 0.000032 | Diff: 0.100029
+Reward: 0.03 | Success Ratio: 0.236903 | Flip Count: 814
+Flip Pixel: Channel=[4], Row=[27], Col=[67]
+Time taken for this data: 11.97 seconds
+Episode 179: Total Reward: -464.8264478987768
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0880.png',), Episode count: 180[0m
+[92mInitial PSNR: 24.028286[0m
+Initial MSE: 0.003079[0m
+Step: 2638   | Initial PSNR: 24.028286
+PSNR After: 24.128345 | Change: 0.000065 | Diff: 0.100060
+Reward: 0.05 | Success Ratio: 0.243366 | Flip Count: 642
+Flip Pixel: Channel=[0], Row=[243], Col=[183]
+Time taken for this data: 9.25 seconds
+Step: 2638   | Initial PSNR: 24.028286
+PSNR After: 24.128345 | Change: 0.000065 | Diff: 0.100060
+Reward: 0.05 | Success Ratio: 0.243366 | Flip Count: 642
+Flip Pixel: Channel=[0], Row=[243], Col=[183]
+Time taken for this data: 9.25 seconds
+Episode 180: Total Reward: -555.5659042474866
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0881.png',), Episode count: 181[0m
+[92mInitial PSNR: 20.959045[0m
+Initial MSE: 0.007956[0m
+Step: 3742   | Initial PSNR: 20.959045
+PSNR After: 21.059076 | Change: 0.000132 | Diff: 0.100031
+Reward: 0.11 | Success Ratio: 0.258418 | Flip Count: 967
+Flip Pixel: Channel=[5], Row=[83], Col=[195]
+Time taken for this data: 13.12 seconds
+Step: 3742   | Initial PSNR: 20.959045
+PSNR After: 21.059076 | Change: 0.000132 | Diff: 0.100031
+Reward: 0.11 | Success Ratio: 0.258418 | Flip Count: 967
+Flip Pixel: Channel=[5], Row=[83], Col=[195]
+Time taken for this data: 13.13 seconds
+Episode 181: Total Reward: -432.8604089666446
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0882.png',), Episode count: 182[0m
+[92mInitial PSNR: 23.104944[0m
+Initial MSE: 0.004892[0m
+Step: 3943   | Initial PSNR: 23.104944
+PSNR After: 23.204964 | Change: 0.000086 | Diff: 0.100019
+Reward: 0.07 | Success Ratio: 0.226985 | Flip Count: 895
+Flip Pixel: Channel=[2], Row=[144], Col=[6]
+Time taken for this data: 13.70 seconds
+Step: 3943   | Initial PSNR: 23.104944
+PSNR After: 23.204964 | Change: 0.000086 | Diff: 0.100019
+Reward: 0.07 | Success Ratio: 0.226985 | Flip Count: 895
+Flip Pixel: Channel=[2], Row=[144], Col=[6]
+Time taken for this data: 13.70 seconds
+Episode 182: Total Reward: -491.5554772448995
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0883.png',), Episode count: 183[0m
+[92mInitial PSNR: 24.441391[0m
+Initial MSE: 0.003568[0m
+Step: 2761   | Initial PSNR: 24.441391
+PSNR After: 24.541473 | Change: 0.000179 | Diff: 0.100082
+Reward: 0.14 | Success Ratio: 0.273814 | Flip Count: 756
+Flip Pixel: Channel=[1], Row=[191], Col=[122]
+Time taken for this data: 9.66 seconds
+Step: 2761   | Initial PSNR: 24.441391
+PSNR After: 24.541473 | Change: 0.000179 | Diff: 0.100082
+Reward: 0.14 | Success Ratio: 0.273814 | Flip Count: 756
+Flip Pixel: Channel=[1], Row=[191], Col=[122]
+Time taken for this data: 9.66 seconds
+Episode 183: Total Reward: -324.9763141579333
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0884.png',), Episode count: 184[0m
+[92mInitial PSNR: 23.382130[0m
+Initial MSE: 0.004590[0m
+Step: 2728   | Initial PSNR: 23.382130
+PSNR After: 23.482178 | Change: 0.000141 | Diff: 0.100048
+Reward: 0.11 | Success Ratio: 0.267595 | Flip Count: 730
+Flip Pixel: Channel=[2], Row=[146], Col=[52]
+Time taken for this data: 9.47 seconds
+Step: 2728   | Initial PSNR: 23.382130
+PSNR After: 23.482178 | Change: 0.000141 | Diff: 0.100048
+Reward: 0.11 | Success Ratio: 0.267595 | Flip Count: 730
+Flip Pixel: Channel=[2], Row=[146], Col=[52]
+Time taken for this data: 9.47 seconds
+Episode 184: Total Reward: -341.6755724402543
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0885.png',), Episode count: 185[0m
+[92mInitial PSNR: 24.154610[0m
+Initial MSE: 0.003842[0m
+Step: 2759   | Initial PSNR: 24.154610
+PSNR After: 24.254696 | Change: 0.000280 | Diff: 0.100086
+Reward: 0.22 | Success Ratio: 0.301196 | Flip Count: 831
+Flip Pixel: Channel=[3], Row=[87], Col=[207]
+Time taken for this data: 9.65 seconds
+Step: 2759   | Initial PSNR: 24.154610
+PSNR After: 24.254696 | Change: 0.000280 | Diff: 0.100086
+Reward: 0.22 | Success Ratio: 0.301196 | Flip Count: 831
+Flip Pixel: Channel=[3], Row=[87], Col=[207]
+Time taken for this data: 9.65 seconds
+Episode 185: Total Reward: -253.62485315253502
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0886.png',), Episode count: 186[0m
+[92mInitial PSNR: 24.109613[0m
+Initial MSE: 0.003467[0m
+Step: 2891   | Initial PSNR: 24.109613
+PSNR After: 24.209726 | Change: 0.000141 | Diff: 0.100113
+Reward: 0.11 | Success Ratio: 0.247319 | Flip Count: 715
+Flip Pixel: Channel=[3], Row=[190], Col=[228]
+Time taken for this data: 10.07 seconds
+Step: 2891   | Initial PSNR: 24.109613
+PSNR After: 24.209726 | Change: 0.000141 | Diff: 0.100113
+Reward: 0.11 | Success Ratio: 0.247319 | Flip Count: 715
+Flip Pixel: Channel=[3], Row=[190], Col=[228]
+Time taken for this data: 10.07 seconds
+Episode 186: Total Reward: -479.3748940807895
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0887.png',), Episode count: 187[0m
+[92mInitial PSNR: 20.207161[0m
+Initial MSE: 0.009534[0m
+Step: 4510   | Initial PSNR: 20.207161
+PSNR After: 20.307341 | Change: 0.000267 | Diff: 0.100180
+Reward: 0.21 | Success Ratio: 0.254324 | Flip Count: 1147
+Flip Pixel: Channel=[4], Row=[163], Col=[32]
+Time taken for this data: 15.82 seconds
+Step: 4510   | Initial PSNR: 20.207161
+PSNR After: 20.307341 | Change: 0.000267 | Diff: 0.100180
+Reward: 0.21 | Success Ratio: 0.254324 | Flip Count: 1147
+Flip Pixel: Channel=[4], Row=[163], Col=[32]
+Time taken for this data: 15.83 seconds
+Episode 187: Total Reward: -421.93228098705924
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0888.png',), Episode count: 188[0m
+[92mInitial PSNR: 25.263439[0m
+Initial MSE: 0.002976[0m
+Step: 1914   | Initial PSNR: 25.263439
+PSNR After: 25.363523 | Change: 0.000208 | Diff: 0.100084
+Reward: 0.17 | Success Ratio: 0.308777 | Flip Count: 591
+Flip Pixel: Channel=[6], Row=[103], Col=[139]
+Time taken for this data: 6.66 seconds
+Step: 1914   | Initial PSNR: 25.263439
+PSNR After: 25.363523 | Change: 0.000208 | Diff: 0.100084
+Reward: 0.17 | Success Ratio: 0.308777 | Flip Count: 591
+Flip Pixel: Channel=[6], Row=[103], Col=[139]
+Time taken for this data: 6.66 seconds
+Episode 188: Total Reward: -263.96763098527117
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0889.png',), Episode count: 189[0m
+[92mInitial PSNR: 25.302572[0m
+Initial MSE: 0.002949[0m
+Step: 2324   | Initial PSNR: 25.302572
+PSNR After: 25.402765 | Change: 0.000580 | Diff: 0.100193
+Reward: 0.46 | Success Ratio: 0.248279 | Flip Count: 577
+Flip Pixel: Channel=[5], Row=[36], Col=[228]
+Time taken for this data: 8.20 seconds
+Step: 2324   | Initial PSNR: 25.302572
+PSNR After: 25.402765 | Change: 0.000580 | Diff: 0.100193
+Reward: 0.46 | Success Ratio: 0.248279 | Flip Count: 577
+Flip Pixel: Channel=[5], Row=[36], Col=[228]
+Time taken for this data: 8.20 seconds
+Episode 189: Total Reward: -442.61021500234494
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0890.png',), Episode count: 190[0m
+[92mInitial PSNR: 24.398775[0m
+Initial MSE: 0.003632[0m
+Step: 2685   | Initial PSNR: 24.398775
+PSNR After: 24.498846 | Change: 0.000290 | Diff: 0.100071
+Reward: 0.23 | Success Ratio: 0.258101 | Flip Count: 693
+Flip Pixel: Channel=[2], Row=[147], Col=[160]
+Time taken for this data: 9.42 seconds
+Step: 2685   | Initial PSNR: 24.398775
+PSNR After: 24.498846 | Change: 0.000290 | Diff: 0.100071
+Reward: 0.23 | Success Ratio: 0.258101 | Flip Count: 693
+Flip Pixel: Channel=[2], Row=[147], Col=[160]
+Time taken for this data: 9.42 seconds
+Episode 190: Total Reward: -431.12613202919295
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0891.png',), Episode count: 191[0m
+[92mInitial PSNR: 25.755060[0m
+Initial MSE: 0.002514[0m
+Step: 2492   | Initial PSNR: 25.755060
+PSNR After: 25.855082 | Change: 0.000082 | Diff: 0.100021
+Reward: 0.07 | Success Ratio: 0.268860 | Flip Count: 670
+Flip Pixel: Channel=[3], Row=[203], Col=[221]
+Time taken for this data: 8.72 seconds
+Step: 2492   | Initial PSNR: 25.755060
+PSNR After: 25.855082 | Change: 0.000082 | Diff: 0.100021
+Reward: 0.07 | Success Ratio: 0.268860 | Flip Count: 670
+Flip Pixel: Channel=[3], Row=[203], Col=[221]
+Time taken for this data: 8.73 seconds
+Episode 191: Total Reward: -386.2630276002362
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0892.png',), Episode count: 192[0m
+[92mInitial PSNR: 23.468990[0m
+Initial MSE: 0.003628[0m
+Step: 2282   | Initial PSNR: 23.468990
+PSNR After: 23.569090 | Change: 0.000154 | Diff: 0.100100
+Reward: 0.12 | Success Ratio: 0.296231 | Flip Count: 676
+Flip Pixel: Channel=[1], Row=[48], Col=[97]
+Time taken for this data: 8.00 seconds
+Step: 2282   | Initial PSNR: 23.468990
+PSNR After: 23.569090 | Change: 0.000154 | Diff: 0.100100
+Reward: 0.12 | Success Ratio: 0.296231 | Flip Count: 676
+Flip Pixel: Channel=[1], Row=[48], Col=[97]
+Time taken for this data: 8.00 seconds
+Episode 192: Total Reward: -270.33473158814706
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0893.png',), Episode count: 193[0m
+[92mInitial PSNR: 28.430397[0m
+Initial MSE: 0.000715[0m
+Step: 2614   | Initial PSNR: 28.430397
+PSNR After: 28.530523 | Change: 0.000185 | Diff: 0.100126
+Reward: 0.15 | Success Ratio: 0.192043 | Flip Count: 502
+Flip Pixel: Channel=[5], Row=[71], Col=[195]
+Time taken for this data: 9.06 seconds
+Step: 2614   | Initial PSNR: 28.430397
+PSNR After: 28.530523 | Change: 0.000185 | Diff: 0.100126
+Reward: 0.15 | Success Ratio: 0.192043 | Flip Count: 502
+Flip Pixel: Channel=[5], Row=[71], Col=[195]
+Time taken for this data: 9.06 seconds
+Episode 193: Total Reward: -639.4042742027276
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0894.png',), Episode count: 194[0m
+[92mInitial PSNR: 26.590714[0m
+Initial MSE: 0.002090[0m
+Step: 2642   | Initial PSNR: 26.590714
+PSNR After: 26.690804 | Change: 0.000196 | Diff: 0.100090
+Reward: 0.16 | Success Ratio: 0.246404 | Flip Count: 651
+Flip Pixel: Channel=[2], Row=[95], Col=[105]
+Time taken for this data: 9.24 seconds
+Step: 2642   | Initial PSNR: 26.590714
+PSNR After: 26.690804 | Change: 0.000196 | Diff: 0.100090
+Reward: 0.16 | Success Ratio: 0.246404 | Flip Count: 651
+Flip Pixel: Channel=[2], Row=[95], Col=[105]
+Time taken for this data: 9.24 seconds
+Episode 194: Total Reward: -511.6246797032285
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0895.png',), Episode count: 195[0m
+[92mInitial PSNR: 24.010567[0m
+Initial MSE: 0.003971[0m
+Step: 2598   | Initial PSNR: 24.010567
+PSNR After: 24.110645 | Change: 0.000233 | Diff: 0.100079
+Reward: 0.19 | Success Ratio: 0.297537 | Flip Count: 773
+Flip Pixel: Channel=[4], Row=[168], Col=[32]
+Time taken for this data: 9.12 seconds
+Step: 2598   | Initial PSNR: 24.010567
+PSNR After: 24.110645 | Change: 0.000233 | Diff: 0.100079
+Reward: 0.19 | Success Ratio: 0.297537 | Flip Count: 773
+Flip Pixel: Channel=[4], Row=[168], Col=[32]
+Time taken for this data: 9.12 seconds
+Episode 195: Total Reward: -264.8926976186358
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0896.png',), Episode count: 196[0m
+[92mInitial PSNR: 22.951664[0m
+Initial MSE: 0.004602[0m
+Step: 6969   | Initial PSNR: 22.951664
+PSNR After: 23.051899 | Change: 0.000355 | Diff: 0.100235
+Reward: 0.28 | Success Ratio: 0.126991 | Flip Count: 885
+Flip Pixel: Channel=[7], Row=[141], Col=[9]
+Time taken for this data: 24.30 seconds
+Step: 6969   | Initial PSNR: 22.951664
+PSNR After: 23.051899 | Change: 0.000355 | Diff: 0.100235
+Reward: 0.28 | Success Ratio: 0.126991 | Flip Count: 885
+Flip Pixel: Channel=[7], Row=[141], Col=[9]
+Time taken for this data: 24.30 seconds
+Episode 196: Total Reward: -1270.01564071778
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0897.png',), Episode count: 197[0m
+[92mInitial PSNR: 22.403091[0m
+Initial MSE: 0.005660[0m
+Step: 4205   | Initial PSNR: 22.403091
+PSNR After: 22.503174 | Change: 0.000179 | Diff: 0.100082
+Reward: 0.14 | Success Ratio: 0.224970 | Flip Count: 946
+Flip Pixel: Channel=[6], Row=[102], Col=[232]
+Time taken for this data: 14.75 seconds
+Step: 4205   | Initial PSNR: 22.403091
+PSNR After: 22.503174 | Change: 0.000179 | Diff: 0.100082
+Reward: 0.14 | Success Ratio: 0.224970 | Flip Count: 946
+Flip Pixel: Channel=[6], Row=[102], Col=[232]
+Time taken for this data: 14.75 seconds
+Episode 197: Total Reward: -489.682663942191
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0898.png',), Episode count: 198[0m
+[92mInitial PSNR: 23.355619[0m
+Initial MSE: 0.004618[0m
+Step: 2716   | Initial PSNR: 23.355619
+PSNR After: 23.455643 | Change: 0.000130 | Diff: 0.100023
+Reward: 0.10 | Success Ratio: 0.272828 | Flip Count: 741
+Flip Pixel: Channel=[3], Row=[168], Col=[188]
+Time taken for this data: 9.44 seconds
+Step: 2716   | Initial PSNR: 23.355619
+PSNR After: 23.455643 | Change: 0.000130 | Diff: 0.100023
+Reward: 0.10 | Success Ratio: 0.272828 | Flip Count: 741
+Flip Pixel: Channel=[3], Row=[168], Col=[188]
+Time taken for this data: 9.45 seconds
+Episode 198: Total Reward: -381.677229483626
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0899.png',), Episode count: 199[0m
+[92mInitial PSNR: 23.965542[0m
+Initial MSE: 0.003981[0m
+Step: 3355   | Initial PSNR: 23.965542
+PSNR After: 24.065590 | Change: 0.000172 | Diff: 0.100048
+Reward: 0.14 | Success Ratio: 0.262593 | Flip Count: 881
+Flip Pixel: Channel=[1], Row=[69], Col=[187]
+Time taken for this data: 11.75 seconds
+Step: 3355   | Initial PSNR: 23.965542
+PSNR After: 24.065590 | Change: 0.000172 | Diff: 0.100048
+Reward: 0.14 | Success Ratio: 0.262593 | Flip Count: 881
+Flip Pixel: Channel=[1], Row=[69], Col=[187]
+Time taken for this data: 11.76 seconds
+Episode 199: Total Reward: -396.82850450946165
+[40;93m[Episode Start] Currently using dataset file: ('/nfs/dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR/0900.png',), Episode count: 200[0m
+[92mInitial PSNR: 24.185955[0m
+Initial MSE: 0.003814[0m
+Step: 3246   | Initial PSNR: 24.185955
+PSNR After: 24.286034 | Change: 0.000107 | Diff: 0.100079
+Reward: 0.09 | Success Ratio: 0.219347 | Flip Count: 712
+Flip Pixel: Channel=[4], Row=[44], Col=[117]
+Time taken for this data: 11.32 seconds
+Step: 3246   | Initial PSNR: 24.185955
+PSNR After: 24.286034 | Change: 0.000107 | Diff: 0.100079
+Reward: 0.09 | Success Ratio: 0.219347 | Flip Count: 712
+Flip Pixel: Channel=[4], Row=[44], Col=[117]
+Time taken for this data: 11.32 seconds
+Episode 200: Total Reward: -612.155219221723
